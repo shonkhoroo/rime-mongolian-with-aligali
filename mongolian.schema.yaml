@@ -1,0 +1,134 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: mongolian
+  name: ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ
+  version: "2024.10.30"
+  author:
+    - Shonkhor Gachuud <shonkhoroo@outlook.com>
+  description: |
+    Mongolian input method
+    use Microsoft standard mongolian keyboard to input mongolian.
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ Mn, En ]
+  - name: full_shape
+    states: [ Half, Full ]
+
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator  # 先於 editor 才會使空格作符號上屏
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+
+menu:
+  alternative_select_keys: "123456789"
+
+speller:
+  alphabet: '@*`;-_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ,.'''
+  delimiter: ''
+  auto_select: false
+  auto_select_pattern: ^([@\*`;-_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ])+\s$
+  algebra:
+    - xform /([aeiouUY])G/$1ng/
+    - xform/([aeiouv])-([nkghpbsxtdlmcjyrfwKGHZCR])([aeiouv])/$1$2$3/
+
+translator:
+  dictionary: mongolian
+  enable_user_dict: true
+  enable_sentence: true
+  comment_format:
+    - xform/^~(.*)$/$1/
+
+punctuator:  # 只須定義空格一個符號
+  use_space: true
+  half_shape: &punct
+    ' ' : { commit: ' ' }
+    "'" : ["᠋ ", "᠌", "᠍"]
+    "," : "᠂"
+    "." : "᠃"
+    "-" : ["᠎", " ", "–"]
+    "_" : "——"
+    "&": "᠊"
+    ":" : "᠄"
+    "#" : "᠅"
+    "^" : "‌"
+    "*" : "‍"
+    "<" : "︽"
+    ">" : "︾"
+    "[" : "﹇"
+    "]" : "﹈"
+    "\\" : "᠁"
+    "/" : "·"
+    "?" : "︖"
+    "{" : "︿"
+    "}" : "﹀"
+    "|" : "︱"
+    "!" : "︕"
+    "$" : "᠇"
+    "(" : "︵"
+    ")" : "︶"
+    "+" : "+"
+  full_shape: &punct
+    ' ' : { commit: ' ' }
+    ";" : "︔"
+    "1" : "1"
+    "2" : "2"
+    "3" : "3"
+    "4" : "4"
+    "5" : "5"
+    "6" : "6"
+    "7" : "7"
+    "8" : "8"
+    "9" : "9"
+    "0" : "0"
+    "&" : "&"
+    ":" : ":"
+    "#" : "#"
+    "^" : "^"
+    "*" : "*"
+    "<" : "<"
+    ">" : ">"
+    "[" : "["
+    "]" : "]"
+    "/" : "/"
+    "?" : "?"
+    "{" : "{"
+    "}" : "}"
+    "|" : "|"
+    "!" : "!"
+    "$" : "$"
+    "(" : "("
+    ")" : ")"
+    "+" : "+"
+
+key_binder:
+  import_preset: default
+
+style:
+  font_face: "Menk Vran StdEx Tig"
+  font_point: 20
+  vertical_text: true
+  text_orientation: horizontal
+  vertical_text_left_to_right: true
+  vertical_text_with_wrap: false
+  vertical_auto_reverse: true
+
+__patch:
+  schema/icon: icons/mongolian/mn.ico           # 更换蒙古文图标
+  schema/ascii_icon: icons/mongolian/en.ico     # 更换英文图标

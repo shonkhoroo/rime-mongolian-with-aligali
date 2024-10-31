@@ -1,0 +1,13 @@
+Attention!
+    Not international standard code!!!
+    NNBSP is instead by MVS called MSC
+    内蒙古自治区民委共享工程标准编码
+    FVS1='	FVS2=''	FVS3=''' or `
+    anusvara&anunāsik=M	viram=v;	visarga=h;
+    damaru=F	ubadama=u;	ubadama_alt=u;;
+    baluda=b;	baluda3=b;;	birga=@
+    Aligali keyboard:
+    ᠣᠸᠠ	O	ᢉ	k;	ᡘ	G	ᢊ	n;	ᡔ	J	ᡛ	ny
+    ᢌ	T;	ᢍ	t;	ᢎ	d;	ᢏ	N	ᢐ	T	ᢑ	D
+    ᢒ	p;	ᢓ	P	ᢋ	z;	ᢕ	x;	ᢖ	S	ᢔ	X
+    ᢗ	V	ᢧ	Y	ᢦ	W
