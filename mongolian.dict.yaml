@@ -122,8 +122,8 @@ use_preset_vocabulary: true
 ᠎ᠪᠡᠨ	-ben
 ᠎ᠢᠶᠠᠨ	-iyan
 ᠎ᠢᠶᠡᠨ	-iyen
-ᠬᠦ᠌ 	hu''
-᠎ᠨᠤᠭᠤᠳ 	-nvgvd
+ᠬᠦ᠌	hu''
+᠎ᠨᠤᠭᠤᠳ	-nvgvd
 ᠎ᠨᠦᠭᠦᠳ	-nugud
 ᠎ᠳᠤᠷ	-dvr
 ᠎ᠳᠦᠷ	-dur
@@ -2464,8 +2464,8 @@ use_preset_vocabulary: true
 ᠣᠳᠣᠯᠠᠬᠤ	qdqlahv
 ᠣᠳᠣᠲᠠᠢ	qdqtai
 ᠣᠳᠣᠲᠣᠬᠤ	qdqtqhv
-ᠣᠳᠬᠣᠨ	qdhqn
-ᠣᠳᠬᠣᠯᠠᠬᠤ	qdhqlahv
+ᠣᠳᠬᠣᠨ	qdqqn
+ᠣᠳᠬᠣᠯᠠᠬᠤ	qdqqlahv
 ᠣᠳᠬᠤ	qdhv
 ᠣᠴᠢᠬᠤ	qcihv
 ᠣᠴᠢᠵᠤ	qcijv
@@ -19266,7 +19266,7 @@ use_preset_vocabulary: true
 ᠠᠭᠠᠵᠢᠪᠲᠤᠷ	agajibtvr
 ᠠᠵᠢᠢ	ajii
 ᠠᠭᠠᠵᠢᠮ	agajim
-ᠠᠭᠠᠵᠢᠮ᠎ ᠳᠠᠭᠠᠨ	agajim-dagan
+ᠠᠭᠠᠵᠢᠮ᠎ᠳᠠᠭᠠᠨ	agajim-dagan
 ᠠᠭᠠᠵᠢᠮᠳᠠᠬᠤ	agajimdahv
 ᠠᠭᠠᠵᠢᠮᠳᠠᠭᠤᠯᠬᠤ	agajimdagvlhv
 ᠠᠭᠠᠵᠢᠮᠯᠠᠬᠤ	agajimlahv
@@ -19450,7 +19450,6 @@ use_preset_vocabulary: true
 ᠠᠪᠵᠠᠭᠠᠲᠠᠢ	abjagatai
 ᠠᠪᠢᠶ᠎ᠠ	abiy-a
 ᠠᠪᠢᠶᠠᠵᠢᠬᠤ	abiyajihv
-ᠠᠪᠢᠶ᠎ᠠ ᠵᠦᠢ	abiy-a jui
 ᠠᠪᠢᠶᠠᠯᠠᠬᠤ	abiyalahv
 ᠠᠪᠢᠶᠠᠯᠠᠪᠤᠷᠢ	abiyalabvri
 ᠠᠪᠢᠶᠠᠯᠠᠭᠤᠷ	abiyalagvr
@@ -19464,7 +19463,7 @@ use_preset_vocabulary: true
 ᠠᠪᠢᠶᠠᠴᠢᠯᠠᠬᠤ	abiyacilahv
 ᠠᠪᠢᠳᠠ	abida
 ᠠᠪᠢᠳᠠᠷᠮ᠎ᠠ	abidarm-a
-ᠠᠪᠢᠽ 	abiz
+ᠠᠪᠢᠽ	abiz
 ᠠᠪᠽᠢ	abizi
 ᠠᠪᠯᠢᠭ᠎ᠠ	ablig-a
 ᠠᠪᠯᠢᠭᠠᠭᠴᠢ	abligagci
@@ -19799,7 +19798,6 @@ use_preset_vocabulary: true
 ᠠᠭᠲᠠᠯᠠᠯᠴᠠᠬᠤ	agtalalcahv
 ᠠᠭᠲᠠᠯᠠᠬᠤ	agtalahv
 ᠠᠭᠲᠠᠯᠠᠭᠤᠯᠬᠤ	agtalagvlhv
-ᠠᠭᠲᠠ ᠠᠷᠠᠭ᠎ᠠ	agta arag-a
 ᠠᠭᠲᠠᠴᠢᠳ	agtacid
 ᠠᠭᠲᠠᠴᠢᠨ	agtacin
 ᠠᠭᠤᠢ	agvi
@@ -20053,7 +20051,7 @@ use_preset_vocabulary: true
 ᠠᠵᠠᠷᠭᠠᠨ᠎ᠠ	ajargan-a
 ᠠᠵᠠᠷᠲᠤᠬᠤ	ajartvhv
 ᠠᠽᠢᠳ᠋	azid'
-ᠠᠽᠢ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	azi-yin-hin
+ᠠᠽᠢ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	azi-yin-hin
 ᠠᠽᠢᠮᠦ᠋ᠲ᠋	azimu't
 ᠠᠵᠠᠨᠠᠬᠤ	ajanahv
 ᠠᠵᠠᠨᠠᠵᠠᠭᠠᠬᠤ	ajanajagahv
@@ -20243,7 +20241,6 @@ use_preset_vocabulary: true
 ᠠᠯᠠᠭᠲᠠᠢ	alagtai
 ᠠᠯᠠᠭᠲᠤᠬᠤ	alagtvhv
 ᠠᠯᠠᠭᠲᠤᠷᠠᠬᠤ	alagtvrahv
-ᠠᠯᠠᠭ ᠲᠠᠭᠤ	alag tagv
 ᠠᠯᠠᠭᠲᠤᠭᠤᠯᠬᠤ	alagtvgvlhv
 ᠠᠯᠠᠭᠬᠠᠨ	alaghan
 ᠠᠯᠠᠭᠴᠢ	alagci
@@ -20424,7 +20421,6 @@ use_preset_vocabulary: true
 ᠠᠯᠢᠪ	alib
 ᠠᠯᠢᠪᠠ	aliba
 ᠠᠯᠢᠭ	alig
-ᠠᠯᠢ ᠭᠠᠯᠢ	ali gali
 ᠠᠯᠢᠭᠯᠠᠬᠤ	aliglahv
 ᠠᠯᠢᠽᠠᠷᠢᠨ	alizarin
 ᠠᠯᠢᠢᠪ	aliib
@@ -20447,7 +20443,6 @@ use_preset_vocabulary: true
 ᠠᠯᠯᠧᠨ	allEn
 ᠠᠯᠯᠣᠺᠰᠣᠨ	allqksqn
 ᠠᠯᠯᠣᠹᠠᠨ	allqfan
-ᠠᠯᠮᠠᠵᠠ(ᠠᠯᠮᠠᠰ)	almaja(almas)
 ᠠᠯᠮᠠᠰ	almas
 ᠠᠯᠮᠠᠢ	almai
 ᠠᠯᠮᠠᠢᠳᠠᠯ	almaidal
@@ -20486,7 +20481,6 @@ use_preset_vocabulary: true
 ᠠᠯᠲᠠᠳᠠᠮᠠᠯ	altadamal
 ᠠᠯᠲᠠᠨᠪᠠᠯ᠎ᠠ	altanbal-a
 ᠠᠯᠲᠠᠩᠬᠤ᠎ᠠ	alta;hv-a
-ᠠᠯᠲᠠᠨ ᠴᠡᠭᠴᠦᠬᠡᠢ	altan cegcuhei
 ᠠᠯᠲᠠᠷᠭᠠᠨ᠎ᠠ	altargan-a
 ᠠᠯᠲᠠᠷᠮᠠᠯ	altarmal
 ᠠᠯᠲᠠᠷᠬᠠᠭ	altarhag
@@ -20616,7 +20610,6 @@ use_preset_vocabulary: true
 ᠠᠮᠠᠷᠠᠵᠠᠭᠠᠬᠤ	amarajagahv
 ᠠᠮᠠᠷᠠᠴᠢᠬᠤ	amaracihv
 ᠠᠮᠠᠷᠴᠢᠯᠠᠬᠤ	amarcilahv
-ᠠᠮᠠᠷᠰᠢᠭ(ᠠᠮᠠᠷ ᠰᠢᠭ)	amarsig(amar sig)
 ᠠᠮᠤᠷᠰᠢᠬᠤ	amvrsihv
 ᠠᠮᠤᠰᠤ	amvsv
 ᠠᠮᠤᠬᠤ	amvhv
@@ -20665,7 +20658,7 @@ use_preset_vocabulary: true
 ᠠᠮᠵᠢᠭᠤᠯᠬᠤ	amjigvlhv
 ᠠᠮᠢᠶ᠎ᠠ	amiy-a
 ᠠᠮᠢᠶᠠᠳᠠᠬᠤ	amiyadahv
-ᠠᠮᠢ᠎ ᠪᠠᠷ᠎ ᠢᠶᠠᠨ	ami-bar-iyan
+ᠠᠮᠢ᠎ᠪᠠᠷ᠎ᠢᠶᠠᠨ	ami-bar-iyan
 ᠠᠮᠢᠶᠠᠲ᠋	amiyat
 ᠠᠮᠢᠶᠠᠲᠤᠬᠤ	amiyatvhv
 ᠠᠮᠢᠳ᠋	amid'
@@ -20685,14 +20678,12 @@ use_preset_vocabulary: true
 ᠠᠮᠢᠯᠠᠭᠤᠷ	amilagvr
 ᠠᠮᠢᠨ	amin
 ᠠᠮᠢᠨᠳᠠᠢ	amindai
-ᠠᠮᠢᠨ ᠳᠡᠮ	amin dem
 ᠠᠮᠢᠨᠵᠢᠬᠤ	aminjihv
 ᠠᠮᠢᠨᠣ᠋	aminq'
 ᠠᠮᠢᠨᠣᠪᠧᠨ᠋ᠽᠣᠯ	aminqbEn'zql
 ᠠᠮᠢᠨᠣᠨᠠᠹᠲ᠋ᠣᠯ	aminqnaft'ql
 ᠠᠮᠢᠨᠣᠹᠧᠨᠣᠯ	aminqfEnql
 ᠠᠮᠢᠨᠲ᠋	amint
-ᠠᠮᠢᠨ ᠬᠦᠴᠢᠯ	amin hucil
 ᠠᠮᠢᠨᠴᠢᠷ	amincir
 ᠠᠮᠢᠨᠴᠢ	aminci
 ᠠᠮᠢᠨᠴᠢᠳᠠᠬᠤ	amincidahv
@@ -20933,7 +20924,6 @@ use_preset_vocabulary: true
 ᠠᠩᠭᠠᠷᠬᠠᠢᠲᠤᠬᠤ	a;garhaitvhv
 ᠠᠩᠭᠠᠰ	a;gas
 ᠠᠩᠭᠠᠬᠤ	a;gahv
-ᠠᠨᠵᠧᠯ(ᠠᠨᠵᠢᠷ)	anjEl(anjir)
 ᠠᠩᠧᠯᠢᠺ	a;Elik
 ᠠᠩᠭᠢ	a;gi
 ᠠᠩᠭᠢᠶᠠᠨ	a;giyan
@@ -20951,7 +20941,6 @@ use_preset_vocabulary: true
 ᠠᠩᠭᠢᠯᠠᠭᠳᠠᠬᠤᠨ	a;gilagdahvn
 ᠠᠩᠭᠢᠯᠠᠭᠴᠢ	a;gilagci
 ᠠᠩᠭᠢᠯᠠᠯ	a;gilal
-ᠠᠩᠭᠢᠯᠠᠯ ᠵᠦᠢ	a;gilal jui
 ᠠᠩᠭᠢᠯᠠᠯᠲᠠ	a;gilalta
 ᠠᠩᠭᠢᠯᠠᠯᠴᠠᠬᠤ	a;gilalcahv
 ᠠᠩᠭᠢᠯᠠᠬᠤ	a;gilahv
@@ -21166,7 +21155,6 @@ use_preset_vocabulary: true
 ᠠᠩᠬᠠᠯᠠᠨ	a;halan
 ᠠᠩᠬᠠᠯᠠᠬᠤ	a;halahv
 ᠠᠩᠬᠠᠯᠠᠭᠤᠯᠬᠤ	a;halagvlhv
-ᠠᠩᠬ᠎ᠠ ᠲᠥᠷᠥᠮᠡᠯ	a;q-a toromel
 ᠠᠩᠴᠢ	a;ci
 ᠠᠩᠴᠢᠭᠠᠷ	a;cigar
 ᠠᠩᠴᠢᠳ	a;cid
@@ -21226,7 +21214,7 @@ use_preset_vocabulary: true
 ᠠᠷᠤᠭᠯᠠᠭᠤᠯᠬᠤ	arvglagvlhv
 ᠠᠷᠠᠭᠣᠨᠢᠲ᠋	aragqnit
 ᠠᠷᠤᠭᠰᠢ	arvgsi
-ᠠᠷᠤᠭᠰᠢ᠎ ᠪᠠᠨ	arvgsi-ban
+ᠠᠷᠤᠭᠰᠢ᠎ᠪᠠᠨ	arvgsi-ban
 ᠠᠷᠠᠢ	arai
 ᠠᠷᠠᠢᠬᠠᠨ	araihan
 ᠠᠷᠠᠢᠬᠢᠵᠦ	araihiju
@@ -21319,7 +21307,6 @@ use_preset_vocabulary: true
 ᠠᠷᠭᠠᠳᠠᠬᠤ	argadahv
 ᠠᠷᠭᠠᠳᠠᠵᠠᠭᠠᠬᠤ	argadajagahv
 ᠠᠷᠭᠠᠳᠠᠭᠤᠯᠬᠤ	argadagvlhv
-ᠠᠷᠭ᠎ᠠ ᠵᠦᠢ	arg-a jui
 ᠠᠷᠭᠠᠢ	argai
 ᠠᠷᠭᠠᠯ	argal
 ᠠᠷᠭᠠᠯᠠᠯᠴᠠᠬᠤ	argalalcahv
@@ -21390,7 +21377,7 @@ use_preset_vocabulary: true
 ᠠᠷᠳᠠᠭᠰᠢᠬᠤ	ardagsihv
 ᠠᠷᠳᠠᠭᠰᠢᠭᠤᠯᠬᠤ	ardagsigvlhv
 ᠠᠷᠳᠠᠩ	arda;
-ᠠᠷᠤ᠎ ᠳᠠᠬᠢ	arv-dahi
+ᠠᠷᠤ᠎ᠳᠠᠬᠢ	arv-dahi
 ᠠᠷᠠᠳᠴᠢ	aradci
 ᠠᠷᠳᠢᠷ	ardir
 ᠠᠷᠠᠳᠤ	aradv
@@ -21839,7 +21826,6 @@ use_preset_vocabulary: true
 ᠠᠲ᠋ᠣᠮᠨᠢᠺᠴᠢ	at'qmnikci
 ᠠᠲ᠋ᠣᠹᠠᠨ	at'qfan
 ᠠᠲᠠᠷᠠᠬᠤ	atarahv
-ᠠᠲᠤᠷᠢᠶ᠎ᠠᠦᠭᠭᠡᠢ	atvriy-a uggei
 ᠠᠲᠤᠷᠢᠶᠠᠵᠢᠬᠤ	atvriyajihv
 ᠠᠲᠤᠷᠢᠶᠠᠲᠤᠯᠤᠭᠴᠢ	atvriyatvlvgci
 ᠠᠲ᠋ᠷᠣᠫᠢᠨ	at'rqpin
@@ -21894,7 +21880,6 @@ use_preset_vocabulary: true
 ᠠᠬᠢᠭᠯᠠᠬᠤ	ahiglahv
 ᠠᠬᠢᠭᠤ	ahigv
 ᠠᠬᠢᠵᠠᠨᠠᠬᠤ	ahijanahv
-ᠠᠬᠢᠯ(ᠠᠬᠢᠯ)	ahil(ahil)
 ᠠᠬᠢᠯᠲᠠ	ahilta
 ᠠᠬᠢᠮᠠᠭ	ahimag
 ᠠᠬᠢᠮᠠᠭᠳᠠᠭᠤ	ahimagdagv
@@ -22015,7 +22000,6 @@ use_preset_vocabulary: true
 ᠠᠱᠠᠷᠭ᠎ᠠ	axarg-a
 ᠠᠱᠠᠷ	axar
 ᠠᠱᠠᠷᠢᠲ᠋	axarit
-ᠠᠱᠤᠸᠠᠨᠢ(ᠠᠱᠸᠠᠨᠢ)	axvwani(axwani)
 ᠠᠰᠢᠭᠦᠢ	asigui
 ᠠᠰᠢᠭ	asig
 ᠠᠰᠢᠭᠯᠠᠭ᠎ᠠ	asiglag-a
@@ -22437,7 +22421,6 @@ use_preset_vocabulary: true
 ᠪᠠᠳᠮ᠎ᠠ	badm-a
 ᠪᠠᠳᠮᠠᠯᠠᠬᠤ	badmalahv
 ᠪᠠᠳᠮᠠᠯᠠᠭᠤᠯᠬᠤ	badmalagvlhv
-ᠪᠠᠳᠮ᠎ᠠ ᠯᠢᠩᠬᠤ᠎ᠠ	badm-a li;hv-a
 ᠪᠠᠳᠮᠠᠷᠠᠭ᠎ᠠ	badmarag-a
 ᠪᠠᠳᠠᠨ	badan
 ᠪᠠᠳᠤᠨ	badvn
@@ -22451,7 +22434,6 @@ use_preset_vocabulary: true
 ᠪᠠᠳᠢᠷᠴᠢᠨ᠎ᠤᠳ	badircin-vd
 ᠪᠠᠳᠢᠷᠴᠢᠯᠠᠬᠤ	badircilahv
 ᠪᠠᠳᠢᠷᠴᠢᠯᠠᠭᠤᠯᠬᠤ	badircilagvlhv
-ᠪᠠᠳᠷ᠎ᠠ ᠰᠢᠷ᠎ᠠ	badr-a sir-a
 ᠪᠠᠳᠬᠠᠨ	badhan
 ᠪᠠᠳᠬᠠᠨ᠎ᠠ	badhan-a
 ᠪᠠᠳᠭᠠᠨᠠᠲᠤᠬᠤ	badganatvhv
@@ -22551,7 +22533,7 @@ use_preset_vocabulary: true
 ᠪᠠᠢᠭᠤᠯᠤᠯᠲᠠᠲᠠᠢ	baigvlvltatai
 ᠪᠠᠢᠭᠤᠯᠤᠯᠴᠠᠬᠤ	baigvlvlcahv
 ᠪᠠᠢᠭᠤᠯᠤᠮᠵᠢ	baigvlvmji
-ᠪᠠᠢᠭᠤᠯᠤᠮᠵᠢ᠎ ᠨᠤᠭᠤᠳ	baigvlvmji-nvgvd
+ᠪᠠᠢᠭᠤᠯᠤᠮᠵᠢ᠎ᠨᠤᠭᠤᠳ	baigvlvmji-nvgvd
 ᠪᠠᠢᠭᠤᠯᠬᠤ	baigvlhv
 ᠪᠠᠢᠭᠤᠯᠤᠯᠭ᠎ᠠ	baigvlvlg-a
 ᠪᠠᠢᠭᠤᠯᠤᠯᠭᠠᠷᠬᠠᠬᠤ	baigvlvlgarhahv
@@ -22639,7 +22621,6 @@ use_preset_vocabulary: true
 ᠪᠠᠢᠬᠤ	baihv
 ᠪᠠᠢᠬᠤᠵᠢᠯ	baihvjil
 ᠪᠠᠢᠬᠤᠵᠢᠬᠤ	baihvjihv
-ᠪᠠᠢᠬᠤ ᠰᠠᠨ	baihv san
 ᠪᠠᠢᠬᠤᠢ	baihvi
 ᠪᠠᠢᠬᠤᠤ	baihvv
 ᠪᠠᠢᠬᠤᠤᠴᠠᠢ	baihvvcai
@@ -23129,7 +23110,6 @@ use_preset_vocabulary: true
 ᠪᠠᠷᠢᠯ	baril
 ᠪᠠᠷᠢᠯᠠᠬᠤ	barilahv
 ᠪᠠᠷᠢᠯᠭ᠎ᠠ	barilg-a
-ᠪᠠᠷᠢᠯᠭᠠᠳ(ᠪᠠᠷᠢᠯᠭ᠎ᠠ᠎ ᠨᠤᠭᠤᠳ)	barilgad(barilg-a-nvgvd)
 ᠪᠠᠷᠢᠯᠭᠠᠵᠢᠯᠲᠠ	barilgajilta
 ᠪᠠᠷᠢᠯᠭᠠᠵᠢᠬᠤ	barilgajihv
 ᠪᠠᠷᠢᠯᠭᠠᠵᠢᠭᠤᠯᠤᠯᠲᠠ	barilgajigvlvlta
@@ -23595,12 +23575,9 @@ use_preset_vocabulary: true
 ᠪᠢᠳᠦ	bidu
 ᠪᠢᠳᠡᠭᠦᠦᠴᠢ	bideguuci
 ᠪᠡᠶ᠎ᠡ	bey-e
-ᠪᠡᠶ᠎ᠡ ᠭᠦᠢᠴᠡᠬᠦ	bey-e guicehu
 ᠪᠡᠶᠡᠵᠢᠯᠲᠡ	beyejilte
 ᠪᠡᠶᠡᠵᠢᠬᠦ	beyejihu
 ᠪᠡᠶᠡᠵᠢᠭᠦᠯᠬᠦ	beyejigulhu
-ᠪᠡᠶ᠎ᠡ ᠵᠦᠢ	bey-e jui
-ᠪᠡᠶ᠎ᠡ ᠵᠦᠢᠴᠢ	bey-e juici
 ᠪᠡᠶᠡᠯᠡᠭᠡ	beyelege
 ᠪᠡᠶᠡᠯᠢᠭ	beyelig
 ᠪᠡᠶᠡᠯᠡᠭᠳᠡᠬᠦ	beyelegdehu
@@ -23615,7 +23592,6 @@ use_preset_vocabulary: true
 ᠪᠡᠶᠡᠯᠡᠭᠦᠯᠦᠯᠲᠡ	beyelegululte
 ᠪᠡᠶᠡᠯᠡᠭᠦᠯᠬᠦ	beyelegulhu
 ᠪᠢᠧᠮ	biEm
-ᠪᠡᠶ᠎ᠡ ᠮᠠᠬᠠᠪᠤᠳ	bey-e mahabvd
 ᠪᠡᠶᠡᠨᠴᠢᠷ	beyencir
 ᠪᠡᠶᠡᠷᠬᠡᠭ	beyerheg
 ᠪᠡᠶᠡᠷᠬᠡᠬᠦ	beyerhehu
@@ -23627,7 +23603,7 @@ use_preset_vocabulary: true
 ᠪᠡᠶᠡᠴᠢᠯᠡᠬᠦ	beyecilehu
 ᠪᠡᠶᠡᠰᠢᠬᠦ	beyesihu
 ᠪᠡᠶᠡᠰᠢᠭᠦᠯᠬᠦ	beyesigulhu
-ᠪᠡᠶ᠎ᠡ᠎ ᠨᠦᠭᠦᠳ	bey-e-nugud
+ᠪᠡᠶ᠎ᠡ᠎ᠨᠦᠭᠦᠳ	bey-e-nugud
 ᠪᠢᠵᠢ	biji
 ᠪᠢᠵᠢᠭᠢᠨᠡᠬᠦ	bijiginehu
 ᠪᠢᠵᠢᠢᠯᠭᠡᠬᠦ	bijiilgehu
@@ -23696,7 +23672,6 @@ use_preset_vocabulary: true
 ᠪᠢᠩ	bi;
 ᠪᠢᠨᠠᠢ	binai
 ᠪᠢᠨᠠᠷ	binar
-ᠪᠢᠩ ᠪᠢᠲᠡᠭᠦᠦ	bi; biteguu
 ᠪᠢᠨ᠋ᠸᠠᠳᠴᠢ	bin'wadci
 ᠪᠢᠨ᠋ᠸᠠᠳᠴᠢᠯᠠᠬᠤ	bin'wadcilahv
 ᠪᠢᠩᠭᠢᠲᠦ	bi;gitu
@@ -23759,7 +23734,7 @@ use_preset_vocabulary: true
 ᠪᠢᠲᠡᠭᠦᠦ	biteguu
 ᠪᠢᠲᠡᠭᠦᠪᠲᠦᠷ	bitegubtur
 ᠪᠢᠲᠡᠭᠦᠳᠡᠬᠦ	bitegudehu
-ᠪᠢᠲᠡᠭᠦᠦ᠎ ᠳᠡᠭᠡᠨ	biteguu-degen
+ᠪᠢᠲᠡᠭᠦᠦ᠎ᠳᠡᠭᠡᠨ	biteguu-degen
 ᠪᠢᠲᠡᠭᠦᠳᠡᠭᠡᠬᠦ	bitegudegehu
 ᠪᠢᠲᠡᠭᠦᠳᠡᠭᠦᠦ	bitegudeguu
 ᠪᠢᠲᠡᠭᠦᠳᠡᠭᠦᠯᠬᠦ	bitegudegulhu
@@ -23803,9 +23778,6 @@ use_preset_vocabulary: true
 ᠪᠢᠴᠢᠭ᠍ᠴᠢ	bicigci
 ᠪᠢᠴᠢᠵᠡᠨᠡᠬᠦ	bicijenehu
 ᠪᠢᠴᠢᠯ	bicil
-ᠪᠢᠴᠢᠯ ᠠᠮᠫᠧᠷ	bicil ampEr
-ᠪᠢᠴᠢᠯ ᠪᠥᠮ	bicil bom
-ᠪᠢᠴᠢᠯ ᠸᠠᠲ᠋	bicil wat
 ᠪᠢᠴᠢᠯᠯᠡᠬᠡᠨ	bicillehen
 ᠪᠢᠴᠢᠯᠲᠡ	bicilte
 ᠪᠢᠴᠢᠯᠬᠷᠣᠮᠰᠣᠮ	bicilhrqmsqm
@@ -23850,7 +23822,6 @@ use_preset_vocabulary: true
 ᠪᠢᠰᠢᠷᠡᠬᠦ	bisirehu
 ᠪᠢᠰᠢᠷᠡᠭᠦᠯᠬᠦ	bisiregulhu
 ᠪᠢᠰᠢᠭᠤ	bisigv
-ᠪᠢᠰᠢ᠎ᠦᠦ	bisi uu
 ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠭ	bisigurheg
 ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠮᠡᠲᠡᠭᠡᠢ	bisigurhemetegei
 ᠪᠢᠰᠢᠭᠦᠷᠬᠡᠬᠦ	bisigurhehu
@@ -23925,7 +23896,7 @@ use_preset_vocabulary: true
 ᠪᠣᠭᠱᠣᠷᠭ᠎ᠠ	bqgxqrg-a
 ᠪᠣᠭᠰᠢᠬᠤ	bqgsihv
 ᠪᠣᠭᠰᠢᠮᠠᠯ	bqgsimal
-ᠪᠣᠭᠱᠣᠣᠳᠠᠢ	bqgxhqdai
+ᠪᠣᠭᠱᠣᠣᠳᠠᠢ	bqgxqqdai
 ᠪᠣᠭᠰᠢᠭᠠᠬᠤ	bqgsigahv
 ᠪᠣᠭᠰᠢᠭᠤᠯᠬᠤ	bqgsigvlhv
 ᠪᠣᠳᠠ	bqda
@@ -23939,11 +23910,9 @@ use_preset_vocabulary: true
 ᠪᠣᠳᠢᠽ	bqdiz
 ᠪᠣᠳᠠᠰ	bqdas
 ᠪᠣᠳᠢᠰᠠᠳ᠋ᠸ᠎ᠠ	bqdisad'w-a
-ᠪᠣᠳᠠᠰ ᠵᠦᠢ	bqdas jui
 ᠪᠣᠳᠠᠲᠤ	bqdatv
 ᠪᠣᠳᠠᠲᠠᠢ	bqdatai
 ᠪᠣᠳᠣᠯᠭ᠎ᠠ	bqdqlg-a
-ᠪᠣᠳᠣᠯᠭ᠎ᠠ ᠵᠦᠢ	bqdqlg-a jui
 ᠪᠣᠳᠣᠯᠭᠠᠲᠠᠢ	bqdqlgatai
 ᠪᠣᠳᠣᠯᠭᠠᠲᠠᠨ	bqdqlgatan
 ᠪᠣᠳᠣᠯᠭᠠᠴᠢ	bqdqlgaci
@@ -24397,7 +24366,7 @@ use_preset_vocabulary: true
 ᠪᠣᠷᠣᠩᠬᠤᠢ	bqrq;hvi
 ᠪᠣᠷᠣᠩᠬᠤᠢᠯᠠᠬᠤ	bqrq;hvyilahv
 ᠪᠣᠷᠣᠭ᠎ᠠ	bqrqg-a
-ᠪᠣᠷᠣᠣ	bqrhq
+ᠪᠣᠷᠣᠣ	bqrqq
 ᠪᠣᠷᠣᠭᠠᠵᠢᠭᠤᠯᠤᠭᠴᠢ	bqrqgajigvlvgci
 ᠪᠣᠷᠣᠭᠠᠵᠢᠭᠤᠯᠤᠯᠲᠠ	bqrqgajigvlvlta
 ᠪᠣᠷᠣᠭᠠᠵᠢᠭᠤᠯᠬᠤ	bqrqgajigvlhv
@@ -24420,7 +24389,6 @@ use_preset_vocabulary: true
 ᠪᠣᠷᠰᠣᠬᠤ	bqrsqhv
 ᠪᠣᠷᠲ᠋	bqrt
 ᠪᠣᠷᠲᠤ	bqrtv
-ᠪᠣᠷᠣ ᠲᠠᠭᠠᠷ	bqrq tagar
 ᠪᠣᠷᠲᠣᠭᠣ	bqrtqgq
 ᠪᠣᠷᠲ᠋ᠣᠸᠺᠠ	bqrt'qwka
 ᠪᠣᠷᠲᠣᠭᠣᠳᠠᠭᠤ	bqrtqgqdagv
@@ -24448,7 +24416,6 @@ use_preset_vocabulary: true
 ᠪᠣᠷᠰᠢᠬᠤ	bqrsihv
 ᠪᠣᠷᠣᠰᠢᠬᠤ	bqrqsihv
 ᠪᠣᠷᠰᠢᠷᠠᠭ᠎ᠠ	bqrsirag-a
-ᠪᠣᠷᠣ ᠰᠢᠪᠠᠭᠤ	bqrq sibagv
 ᠪᠣᠷᠰᠢᠭᠤᠯᠬᠤ	bqrsigvlhv
 ᠪᠣᠷᠣᠰᠢᠭᠤᠯᠬᠤ	bqrqsigvlhv
 ᠪᠣᠷᠢᠬᠢ	bqrihi
@@ -24541,7 +24508,6 @@ use_preset_vocabulary: true
 ᠪᠷᠠᠦ᠋ᠨᠢᠩ	brau'ni;
 ᠪᠷᠧᠽᠧᠨ᠋ᠲ᠋	brEzEn't
 ᠪᠷᠧᠶᠢᠺ	brEyik
-ᠪᠠᠷᠢᠭᠠᠳᠠ(ᠪᠷᠢᠭᠠᠳ᠋)	barigada(brigad')
 ᠪᠠᠷᠢᠭᠠᠳᠠᠯᠠᠬᠤ	barigadalahv
 ᠪᠠᠷᠢᠭᠠᠳᠠᠯᠠᠭᠤᠯᠬᠤ	barigadalagvlhv
 ᠪᠠᠷᠢᠭᠠᠳᠠᠴᠢᠨ	barigadacin
@@ -24731,7 +24697,6 @@ use_preset_vocabulary: true
 ᠪᠤᠢᠳᠠᠬᠤ	bvyidahv
 ᠪᠤᠢᠳᠠᠭᠤᠷ	bvyidagvr
 ᠪᠤᠢᠳᠠᠬᠠᠨ	bvyidahan
-ᠪᠤᠢ ᠵ᠎ᠠ	bvi j-a
 ᠪᠤᠢᠯᠠ	bvyila
 ᠪᠤᠢᠯᠠᠭᠠᠨ	bvyilagan
 ᠪᠤᠢᠯᠠᠩᠭᠠᠷ	bvyila;gar
@@ -25255,7 +25220,6 @@ use_preset_vocabulary: true
 ᠪᠤᠲᠠᠷᠠᠬᠤ	bvtarahv
 ᠪᠤᠲᠠᠷᠠᠭᠤᠯᠬᠤ	bvtaragvlhv
 ᠪᠤᠲᠠᠭᠤᠯ	bvtagvl
-ᠪᠤᠲᠠ ᠴᠣᠬᠢᠬᠤ	bvta cqhihv
 ᠪᠤᠲᠠᠴᠢᠬᠤ	bvtacihv
 ᠪᠤᠲᠠᠴᠢᠭᠤᠯᠬᠤ	bvtacigvlhv
 ᠪᠤᠤ	bvv
@@ -25458,7 +25422,6 @@ use_preset_vocabulary: true
 ᠪᠡᠪᠦᠭᠯᠡᠬᠦ	bebuglehu
 ᠪᠡᠪᠡᠯᠵᠡᠬᠦ	bebeljehu
 ᠪᠡᠪᠡᠨᠡᠳᠡᠬᠦ	bebenedehu
-ᠪᠡᠭ ᠪᠠᠭᠠᠲᠤᠷ	beg bagatvr
 ᠪᠡᠩᠨᠡᠵᠡᠨᠡᠬᠦ	be;nejenehu
 ᠪᠡᠩᠨᠡᠬᠦ	be;nehu
 ᠪᠡᠩᠨᠡᠵᠡᠭᠡᠬᠦ	be;nejegehu
@@ -25605,7 +25568,6 @@ use_preset_vocabulary: true
 ᠪᠡᠯᠡᠨ	belen
 ᠪᠡᠯᠡᠩ	bele;
 ᠪᠡᠯᠡᠩᠳᠡᠬᠦ	bele;dehu
-ᠪᠡᠯᠡᠨ ᠬᠢᠬᠦ	belen hihu
 ᠪᠡᠯᠡᠩᠴᠢ	bele;ci
 ᠪᠡᠯᠡᠩᠴᠢᠬᠦ	bele;cihu
 ᠪᠡᠯᠡᠨᠴᠢᠯᠡᠭᠴᠢ	belencilegci
@@ -26426,7 +26388,7 @@ use_preset_vocabulary: true
 ᠪᠦᠬᠦᠢ	buhui
 ᠪᠦᠬᠦᠯᠢ	buhuli
 ᠪᠦᠬᠦᠯᠢᠳᠡᠬᠦ	buhulidehu
-ᠪᠦᠬᠦᠯᠢ᠎ ᠳᠡᠭᠡᠨ	buhuli-degen
+ᠪᠦᠬᠦᠯᠢ᠎ᠳᠡᠭᠡᠨ	buhuli-degen
 ᠪᠦᠬᠦᠯᠢᠳᠡᠭᠦᠯᠬᠦ	buhulidegulhu
 ᠪᠦᠬᠦᠯᠢᠴᠢᠯᠡᠬᠦ	buhulicilehu
 ᠪᠦᠬᠦᠨ	buhun
@@ -26876,7 +26838,6 @@ use_preset_vocabulary: true
 ᠸᠠᠽᠧᠯᠢᠨᠳᠠᠬᠤ	wazElindahv
 ᠸᠠᠽᠧᠯᠢᠨᠳᠠᠭᠤᠯᠬᠤ	wazElindagvlhv
 ᠸᠠᠺᠦ᠋ᠦ᠋ᠮ	wahu'u'm
-ᠸᠠᠺᠦ᠋ᠦ᠋ᠮ ᠮᠧᠲ᠋ᠷ	wahu'u'm mEt'r
 ᠸᠠᠺᠦ᠋ᠦ᠋ᠮᠲᠦ	wahu'u'mtu
 ᠸᠠᠺᠼᠢᠨ	wakCin
 ᠸᠠᠺᠼᠢᠨᠳᠠᠬᠤ	wakCindahv
@@ -26913,7 +26874,6 @@ use_preset_vocabulary: true
 ᠸᠠᠲ᠋ᠢᠺᠠᠨ	wat'ikan
 ᠸᠠᠲ᠋ᠮᠠᠨ	wat'man
 ᠸᠠᠲ᠋	wat
-ᠸᠠᠲ᠋ ᠮᠧᠲ᠋ᠷ	wat' mEt'r
 ᠸᠠᠹᠯᠢ	wafli
 ᠸᠴᠢᠷ	wcir
 ᠸᠴᠢᠷᠪᠠᠨᠢ	wcirbani
@@ -26973,7 +26933,6 @@ use_preset_vocabulary: true
 ᠸᠣᠯᠧᠶᠢᠪᠣᠯ	wqlEyibql
 ᠸᠣᠯᠧᠶᠢᠪᠣᠯᠴᠢ	wqlEyibqlci
 ᠸᠣᠯᠢᠲ᠋	wqlit
-ᠸᠣᠯᠢᠲ᠋ ᠠᠮᠫᠧᠷ	wqlit' ampEr
 ᠸᠣᠯᠢᠲ᠋ᠮᠧᠲ᠋ᠷ	wqlit'mEt'r
 ᠸᠣᠯᠢᠹᠷᠠᠮ	wqlifram
 ᠸᠣᠯᠢᠹᠷᠠᠮᠢᠲ᠋	wqliframit
@@ -27292,7 +27251,7 @@ use_preset_vocabulary: true
 ᠭᠠᠯᠪᠢᠷᠵᠢᠭᠤᠯᠬᠤ	galbirjigvlhv
 ᠭᠠᠯᠪᠢᠷᠲᠤ	galbirtv
 ᠭᠠᠯᠪᠢᠷᠲᠠᠢ	galbirtai
-ᠭᠠᠯᠪᠠ᠎ ᠶᠢᠨ	galba-yin
+ᠭᠠᠯᠪᠠ᠎ᠶᠢᠨ	galba-yin
 ᠭᠠᠯᠭᠢᠭᠤᠯᠠᠩᠬᠠᠨ	galgigvla;han
 ᠭᠠᠯᠭᠢᠭᠤᠯᠬᠤ	galgigvlhv
 ᠭᠠᠯᠭᠢᠬᠤ	galgihv
@@ -27538,14 +27497,14 @@ use_preset_vocabulary: true
 ᠭᠠᠩᠬᠤᠯᠵᠠᠬᠤ	ga;hvljahv
 ᠭᠠᠩᠬᠤᠯᠵᠠᠭᠤᠯᠬᠤ	ga;hvljagvlhv
 ᠭᠠᠩᠬᠤᠯᠲᠠ	ga;hvlta
-ᠭᠠᠩᠬᠣᠩᠬᠠᠨ	ga;hq;han
+ᠭᠠᠩᠬᠣᠩᠬᠠᠨ	ga;qq;han
 ᠭᠠᠩᠬᠤᠬᠤ	ga;hvhv
 ᠭᠠᠩᠬᠤᠪᠠᠯᠵᠠᠬᠤ	ga;hvbaljahv
 ᠭᠠᠩᠬᠢᠬᠦ	ga;hihu
 ᠭᠠᠩᠬᠤᠯᠠᠭᠤᠷ	ga;hvlagvr
 ᠭᠠᠩᠬᠤᠮᠠᠯ	ga;hvmal
 ᠭᠠᠩᠬᠤᠭᠤᠯᠬᠤ	ga;hvgvlhv
-ᠭᠠᠭᠴᠠᠭᠠᠷ᠎ ᠢᠶᠠᠨ	gagcagar-iyan
+ᠭᠠᠭᠴᠠᠭᠠᠷ᠎ᠢᠶᠠᠨ	gagcagar-iyan
 ᠭᠠᠭᠴᠠᠭᠠᠷᠤᠩᠭᠢ	gagcagarv;gi
 ᠭᠠᠭᠴᠠᠭᠠᠷᠳᠠᠯ	gagcagardal
 ᠭᠠᠭᠴᠠᠭᠠᠷᠳᠠᠮ᠎ᠠ	gagcagardam-a
@@ -27892,8 +27851,8 @@ use_preset_vocabulary: true
 ᠭᠡᠢᠯᠭᠡᠬᠦ	geilgehu
 ᠭᠡᠢᠯᠡᠬᠦ	geilehu
 ᠭᠡᠢᠨᠠᠬᠤ	geinahv
-ᠭᠡᠢᠩᠭᠣᠣ	gei;ghq
-ᠭᠡᠢᠩᠭᠣᠣᠯᠠᠬᠤ	gei;ghqlahv
+ᠭᠡᠢᠩᠭᠣᠣ	gei;gqq
+ᠭᠡᠢᠩᠭᠣᠣᠯᠠᠬᠤ	gei;gqqlahv
 ᠭᠡᠢᠰᠬᠡᠬᠦ	geishehu
 ᠭᠡᠢᠰᠦᠮ᠎ᠡ	geisum-e
 ᠭᠡᠢᠬᠦ	geihu
@@ -27973,7 +27932,6 @@ use_preset_vocabulary: true
 ᠭᠢᠩᠭᠢᠨᠡᠬᠦ	gi;ginehu
 ᠭᠢᠩᠭᠢᠨᠡᠭᠦᠯᠬᠦ	gi;ginegulhu
 ᠭᠢᠩᠭᠢᠨᠡᠭᠦᠷ	gi;ginegur
-ᠭᠢᠨ ᠳ᠋ᠡᠦ	gin d'eu
 ᠭᠢᠨᠵᠢ	ginji
 ᠭᠢᠨᠵᠢᠯᠡᠵᠡᠭᠡᠬᠦ	ginjilejegehu
 ᠭᠢᠨᠵᠢᠲᠦ	ginjitu
@@ -28120,7 +28078,7 @@ use_preset_vocabulary: true
 ᠭᠣᠭᠣᠳᠠᠬᠤ	gqgqdahv
 ᠭᠣᠭᠣᠳ	gqgqd
 ᠭᠣᠭᠣᠳᠠᠭᠳᠠᠬᠤ	gqgqdagdahv
-ᠭᠣᠭᠣᠣᠳᠠᠢ	gqghqdai
+ᠭᠣᠭᠣᠣᠳᠠᠢ	gqgqqdai
 ᠭᠣᠭᠣᠳᠠᠵᠠᠭᠠᠬᠤ	gqgqdajagahv
 ᠭᠣᠭᠣᠳᠠᠭᠤᠯᠬᠤ	gqgqdagvlhv
 ᠭᠣᠭᠣᠢ	gqgqi
@@ -28214,7 +28172,7 @@ use_preset_vocabulary: true
 ᠭᠣᠵᠣᠯᠵᠠᠬᠤ	gqjqljahv
 ᠭᠣᠵᠣᠯᠵᠠᠭᠤᠯᠬᠤ	gqjqljagvlhv
 ᠭᠣᠵᠣᠩ	gqjq;
-ᠭᠣᠵᠣᠣᠷᠣᠢ	gqjhqrqi
+ᠭᠣᠵᠣᠣᠷᠣᠢ	gqjqqrqi
 ᠭᠣᠵᠣᠰ	gqjqs
 ᠭᠣᠢᠭᠣᠷ	gqyigqr
 ᠭᠣᠢᠭᠣᠷᠠᠬᠤ	gqyigqrahv
@@ -28222,18 +28180,17 @@ use_preset_vocabulary: true
 ᠭᠣᠢᠳᠠᠯᠠᠬᠤ	gqyidalahv
 ᠭᠣᠢᠳᠠᠷᠬᠠᠬᠤ	gqyidarhahv
 ᠭᠣᠢᠵᠢᠬᠤ	gqyijihv
-ᠭᠤᠢᠮᠣᠩ(ᠭᠤᠸᠠᠮᠢᠶᠠᠨ)	gvyimq;(gvwamiyan)
 ᠭᠣᠢᠷᠠᠬᠤ	gqyirahv
 ᠭᠣᠢᠷᠠᠭᠤᠯᠬᠤ	gqyiragvlhv
-ᠭᠣᠣᠯ	ghql
+ᠭᠣᠣᠯ	gqql
 ᠭᠣᠯᠳᠢ	gqldi
-ᠭᠣᠣᠯᠳᠠᠯᠭ᠎ᠠ	ghqldalg-a
-ᠭᠣᠣᠯᠳᠠᠭᠴᠢ	ghqldagci
-ᠭᠣᠣᠯᠳᠠᠴᠢ	ghqldaci
-ᠭᠣᠣᠯᠳᠠᠬᠤ	ghqldahv
-ᠭᠣᠣᠯᠳᠠᠭᠤ	ghqldagv
+ᠭᠣᠣᠯᠳᠠᠯᠭ᠎ᠠ	gqqldalg-a
+ᠭᠣᠣᠯᠳᠠᠭᠴᠢ	gqqldagci
+ᠭᠣᠣᠯᠳᠠᠴᠢ	gqqldaci
+ᠭᠣᠣᠯᠳᠠᠬᠤ	gqqldahv
+ᠭᠣᠣᠯᠳᠠᠭᠤ	gqqldagv
 ᠭᠣᠤᠯᠳᠠᠭᠤᠯᠬᠤ	ghvldagvlhv
-ᠭᠣᠣᠯᠳᠠᠭᠤᠬᠠᠨ	ghqldagvhan
+ᠭᠣᠣᠯᠳᠠᠭᠤᠬᠠᠨ	gqqldagvhan
 ᠭᠣᠯᠢᠭᠠᠨᠠᠯᠳᠤᠬᠤ	gqliganaldvhv
 ᠭᠣᠯᠢᠭᠠᠨᠠᠬᠤ	gqliganahv
 ᠭᠣᠯᠢᠭᠠᠨᠠᠭᠤᠯᠬᠤ	gqliganagvlhv
@@ -28248,23 +28205,23 @@ use_preset_vocabulary: true
 ᠭᠣᠯᠢᠶᠠᠯᠢᠭ	gqliyalig
 ᠭᠣᠯᠢᠶᠠᠬᠠᠢ	gqliyahai
 ᠭᠣᠯᠢᠷᠬᠠᠭᠤ	gqlirhagv
-ᠭᠣᠣᠯᠯᠠᠪᠤᠷᠢ	ghqllabvri
-ᠭᠣᠣᠯᠯᠠᠭᠳᠠᠬᠤ	ghqllagdahv
-ᠭᠣᠣᠯᠯᠠᠭ᠎ᠠ	ghqllag-a
-ᠭᠣᠣᠯᠯᠠᠭᠴᠢ	ghqllagci
-ᠭᠣᠣᠯᠯᠠᠳᠠᠭᠭᠦᠢ	ghqlladaggui
-ᠭᠣᠣᠯᠯᠠᠯᠲᠠ	ghqllalta
-ᠭᠣᠣᠯᠯᠠᠯᠴᠠᠬᠤ	ghqllalcahv
-ᠭᠣᠣᠯᠯᠠᠬᠤ	ghqllahv
-ᠭᠣᠣᠯᠯᠠᠵᠠᠭᠠᠬᠤ	ghqllajagahv
-ᠭᠣᠣᠯᠯᠠᠴᠢᠬᠤ	ghqllacihv
+ᠭᠣᠣᠯᠯᠠᠪᠤᠷᠢ	gqqllabvri
+ᠭᠣᠣᠯᠯᠠᠭᠳᠠᠬᠤ	gqqllagdahv
+ᠭᠣᠣᠯᠯᠠᠭ᠎ᠠ	gqqllag-a
+ᠭᠣᠣᠯᠯᠠᠭᠴᠢ	gqqllagci
+ᠭᠣᠣᠯᠯᠠᠳᠠᠭᠭᠦᠢ	gqqlladaggui
+ᠭᠣᠣᠯᠯᠠᠯᠲᠠ	gqqllalta
+ᠭᠣᠣᠯᠯᠠᠯᠴᠠᠬᠤ	gqqllalcahv
+ᠭᠣᠣᠯᠯᠠᠬᠤ	gqqllahv
+ᠭᠣᠣᠯᠯᠠᠵᠠᠭᠠᠬᠤ	gqqllajagahv
+ᠭᠣᠣᠯᠯᠠᠴᠢᠬᠤ	gqqllacihv
 ᠭᠣᠤᠯᠯᠠᠭᠤᠯᠤᠭᠴᠢ	ghvllagvlvgci
 ᠭᠣᠤᠯᠯᠠᠭᠤᠯᠬᠤ	ghvllagvlhv
 ᠭᠣᠯᠣᠭᠳᠠᠮᠠᠯ	gqlqgdamal
 ᠭᠣᠯᠣᠭᠳᠠᠯ	gqlqgdal
 ᠭᠣᠯᠣᠭᠳᠠᠬᠤ	gqlqgdahv
 ᠭᠣᠯᠣᠭᠷᠠᠹᠢ	gqlqgrafi
-ᠭᠣᠣᠯᠣᠯᠲᠠ	ghqlqlta
+ᠭᠣᠣᠯᠣᠯᠲᠠ	gqqlqlta
 ᠭᠣᠯᠣᠮᠲᠠ	gqlqmta
 ᠭᠣᠯᠣᠮᠠᠲᠠᠭᠠᠢ	gqlqmatagai
 ᠭᠣᠯᠣᠮᠲᠣᠨᠴᠢᠷ	gqlqmtqncir
@@ -28275,30 +28232,29 @@ use_preset_vocabulary: true
 ᠭᠣᠯᠣᠩᠬᠠᠢ	gqlq;hai
 ᠭᠣᠯᠣᠩᠴᠠᠷ	gqlq;car
 ᠭᠣᠯᠣᠭᠠᠰᠢ	gqlqgasi
-ᠭᠣᠣᠯᠣᠷᠬᠠᠭ	ghqlqrhag
+ᠭᠣᠣᠯᠣᠷᠬᠠᠭ	gqqlqrhag
 ᠭᠣᠯᠣᠬᠤ	gqlqhv
-ᠭᠣᠣᠯᠲᠤ	ghqltv
-ᠭᠣᠣᠯᠲᠣ ᠪᠣᠷᠣ	ghqltq bqrq
-ᠭᠣᠣᠯᠲᠠᠢ	ghqltai
+ᠭᠣᠣᠯᠲᠤ	gqqltv
+ᠭᠣᠣᠯᠲᠠᠢ	gqqltai
 ᠭᠣᠯᠲᠠᠷᠬᠠᠢ	gqltarhai
-ᠭᠣᠣᠯᠲᠣᠬᠤ	ghqltqhv
+ᠭᠣᠣᠯᠲᠣᠬᠤ	gqqltqhv
 ᠭᠣᠯᠲᠣᠷᠢᠭ	gqltqrig
 ᠭᠣᠯᠣᠭᠤᠯᠬᠤ	gqlqgvlhv
 ᠭᠣᠯᠬᠣᠷᠠᠮᠠᠲᠠᠭᠠᠢ	gqlhqramatagai
 ᠭᠣᠯᠬᠣᠷᠠᠬᠤ	gqlhqrahv
 ᠭᠣᠯᠬᠣᠷᠠᠭᠤᠯᠬᠤ	gqlhqragvlhv
 ᠭᠣᠯᠣᠵᠠᠭᠠᠬᠤ	gqlqjagahv
-ᠭᠣᠣᠯᠴᠠᠭᠤ	ghqlcagv
-ᠭᠣᠣᠯᠴᠢ	ghqlci
-ᠭᠣᠣᠯᠴᠢᠯᠠᠬᠤ	ghqlcilahv
-ᠭᠣᠣᠯᠴᠢᠯᠠᠭᠤᠯᠬᠤ	ghqlcilagvlhv
-ᠭᠣᠣᠯᠴᠢᠲᠠᠢ	ghqlcitai
-ᠭᠣᠣᠯᠴᠢᠬᠠᠨ	ghqlcihan
-ᠭᠣᠣᠯᠰᠢᠭ	ghqlsig
-ᠭᠣᠣᠯᠰᠢᠭᠬᠠᠨ	ghqlsighan
+ᠭᠣᠣᠯᠴᠠᠭᠤ	gqqlcagv
+ᠭᠣᠣᠯᠴᠢ	gqqlci
+ᠭᠣᠣᠯᠴᠢᠯᠠᠬᠤ	gqqlcilahv
+ᠭᠣᠣᠯᠴᠢᠯᠠᠭᠤᠯᠬᠤ	gqqlcilagvlhv
+ᠭᠣᠣᠯᠴᠢᠲᠠᠢ	gqqlcitai
+ᠭᠣᠣᠯᠴᠢᠬᠠᠨ	gqqlcihan
+ᠭᠣᠣᠯᠰᠢᠭ	gqqlsig
+ᠭᠣᠣᠯᠰᠢᠭᠬᠠᠨ	gqqlsighan
 ᠭᠣᠯᠳᠣᠷᠢᠯ	gqldqril
 ᠭᠣᠯᠢᠹ	gqlif
-ᠭᠣᠣᠮ	ghqm
+ᠭᠣᠣᠮ	gqqm
 ᠭᠣᠮᠠᠲ᠋ᠷᠣᠫᠢᠨ	gqmat'rqpin
 ᠭᠣᠮᠣᠳᠠᠯ	gqmqdal
 ᠭᠣᠮᠣᠳᠠᠯᠯᠠᠬᠤ	gqmqdallahv
@@ -28384,17 +28340,16 @@ use_preset_vocabulary: true
 ᠭᠣᠩᠰᠢᠯ	gq;sil
 ᠭᠣᠩᠰᠢᠬᠤ	gq;sihv
 ᠭᠣᠨᠢ	gqni
-ᠭᠣᠣᠷᠪᠢᠼ	ghqrbiC
+ᠭᠣᠣᠷᠪᠢᠼ	gqqrbiC
 ᠭᠣᠭᠣᠭᠳᠠᠬᠤ	gqgqgdahv
 ᠭᠣᠭᠣᠭᠣᠯ	gqgqgql
-ᠭᠣᠣ ᠭᠣᠣ	ghq ghq
-ᠭᠣᠣᠳᠠᠬᠤ	ghqdahv
+ᠭᠣᠣᠳᠠᠬᠤ	gqqdahv
 ᠭᠣᠤᠳᠠᠭᠤᠯᠬᠤ	ghvdagvlhv
-ᠭᠣᠣᠵᠢᠳᠠᠰᠤ	ghqjidasv
+ᠭᠣᠣᠵᠢᠳᠠᠰᠤ	gqqjidasv
 ᠭᠣᠭᠣᠵᠢᠯ	gqgqjil
 ᠭᠣᠭᠣᠵᠢᠯᠲᠠ	gqgqjilta
 ᠭᠣᠭᠣᠵᠢᠮᠠᠬᠠᠢ	gqgqjimahai
-ᠭᠣᠣᠵᠢᠩ	ghqji;
+ᠭᠣᠣᠵᠢᠩ	gqqji;
 ᠭᠣᠭᠣᠵᠢᠩᠬᠠᠢ	gqgqji;hai
 ᠭᠣᠭᠣᠵᠢᠷᠬᠠᠢ	gqgqjirhai
 ᠭᠣᠭᠣᠵᠢᠬᠤ	gqgqjihv
@@ -28402,39 +28357,38 @@ use_preset_vocabulary: true
 ᠭᠣᠭᠣᠵᠢᠭᠤᠯᠬᠤ	gqgqjigvlhv
 ᠭᠣᠭᠣᠵᠢᠭᠤᠷ	gqgqjigvr
 ᠭᠣᠭᠣᠵᠢᠭᠤᠷᠭ᠎ᠠ	gqgqjigvrg-a
-ᠭᠣᠸ᠎ᠠ ᠵᠦᠢ	gqw-a jui
 ᠭᠣᠸᠠᠯᠢᠭ	gqwalig
 ᠭᠣᠸᠠᠯᠢᠭᠬᠠᠨ	gqwalighan
-ᠭᠣᠣᠮᠠ	ghqma
-ᠭᠣᠣᠮᠠᠢ	ghqmai
-ᠭᠣᠣᠮᠠᠢᠳᠠᠬᠤ	ghqmaidahv
-ᠭᠣᠣᠮᠠᠢᠳᠠᠭᠤᠯᠬᠤ	ghqmaidagvlhv
-ᠭᠣᠣᠮᠠᠢᠯᠠᠬᠤ	ghqmailahv
-ᠭᠣᠣᠮᠠᠢᠷᠠᠬᠤ	ghqmairahv
-ᠭᠣᠣᠮᠠᠢᠲᠤᠬᠤ	ghqmaitvhv
-ᠭᠣᠣᠮᠠᠢᠬᠠᠨ	ghqmaihan
-ᠭᠣᠣᠨᠣᠭᠣᠷ	ghqnqgqr
-ᠭᠣᠣᠨᠣᠭᠣᠷᠬᠠᠨ	ghqnqgqrhan
-ᠭᠣᠣᠨᠣᠢᠯᠭᠠᠬᠤ	ghqnqyilgahv
-ᠭᠣᠣᠨᠣᠢᠬᠤ	ghqnqyihv
-ᠭᠣᠣᠨᠣᠩ	ghqnq;
-ᠭᠣᠣᠨᠢ	ghqni
-ᠭᠣᠣᠷᠪᠢᠰ	ghqrbis
-ᠭᠣᠣᠷᠭᠣᠷ	ghqrgqr
-ᠭᠣᠣᠷᠣᠯ	ghqrql
-ᠭᠣᠣᠷᠬᠠᠭ	ghqrhag
-ᠭᠣᠣᠷᠬᠠᠬᠤ	ghqrhahv
-ᠭᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	ghqhqgqnahv
-ᠭᠣᠣᠬᠣᠭᠣᠷ	ghqhqgqr
-ᠭᠣᠣᠬᠣᠢ	ghqhqi
-ᠭᠣᠣᠬᠣᠢᠳᠠᠬᠤ	ghqhqyidahv
-ᠭᠣᠣᠬᠣᠢᠲᠠᠢ	ghqhqyitai
-ᠭᠣᠣᠬᠣᠯᠵᠠᠬᠤ	ghqhqljahv
-ᠭᠣᠣᠴᠢ	ghqci
-ᠭᠣᠣᠴᠢᠯᠠᠭᠳᠠᠬᠤ	ghqcilagdahv
-ᠭᠣᠣᠴᠢᠯᠠᠬᠤ	ghqcilahv
-ᠭᠣᠣᠴᠢᠯᠠᠭᠤᠯᠬᠤ	ghqcilagvlhv
-ᠭᠣᠣᠴᠢᠲᠠᠢ	ghqcitai
+ᠭᠣᠣᠮᠠ	gqqma
+ᠭᠣᠣᠮᠠᠢ	gqqmai
+ᠭᠣᠣᠮᠠᠢᠳᠠᠬᠤ	gqqmaidahv
+ᠭᠣᠣᠮᠠᠢᠳᠠᠭᠤᠯᠬᠤ	gqqmaidagvlhv
+ᠭᠣᠣᠮᠠᠢᠯᠠᠬᠤ	gqqmailahv
+ᠭᠣᠣᠮᠠᠢᠷᠠᠬᠤ	gqqmairahv
+ᠭᠣᠣᠮᠠᠢᠲᠤᠬᠤ	gqqmaitvhv
+ᠭᠣᠣᠮᠠᠢᠬᠠᠨ	gqqmaihan
+ᠭᠣᠣᠨᠣᠭᠣᠷ	gqqnqgqr
+ᠭᠣᠣᠨᠣᠭᠣᠷᠬᠠᠨ	gqqnqgqrhan
+ᠭᠣᠣᠨᠣᠢᠯᠭᠠᠬᠤ	gqqnqyilgahv
+ᠭᠣᠣᠨᠣᠢᠬᠤ	gqqnqyihv
+ᠭᠣᠣᠨᠣᠩ	gqqnq;
+ᠭᠣᠣᠨᠢ	gqqni
+ᠭᠣᠣᠷᠪᠢᠰ	gqqrbis
+ᠭᠣᠣᠷᠭᠣᠷ	gqqrgqr
+ᠭᠣᠣᠷᠣᠯ	gqqrql
+ᠭᠣᠣᠷᠬᠠᠭ	gqqrhag
+ᠭᠣᠣᠷᠬᠠᠬᠤ	gqqrhahv
+ᠭᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	gqqhqgqnahv
+ᠭᠣᠣᠬᠣᠭᠣᠷ	gqqhqgqr
+ᠭᠣᠣᠬᠣᠢ	gqqhqi
+ᠭᠣᠣᠬᠣᠢᠳᠠᠬᠤ	gqqhqyidahv
+ᠭᠣᠣᠬᠣᠢᠲᠠᠢ	gqqhqyitai
+ᠭᠣᠣᠬᠣᠯᠵᠠᠬᠤ	gqqhqljahv
+ᠭᠣᠣᠴᠢ	gqqci
+ᠭᠣᠣᠴᠢᠯᠠᠭᠳᠠᠬᠤ	gqqcilagdahv
+ᠭᠣᠣᠴᠢᠯᠠᠬᠤ	gqqcilahv
+ᠭᠣᠣᠴᠢᠯᠠᠭᠤᠯᠬᠤ	gqqcilagvlhv
+ᠭᠣᠣᠴᠢᠲᠠᠢ	gqqcitai
 ᠭᠣᠷ	gqr
 ᠭᠣᠷᠪᠢ	gqrbi
 ᠭᠣᠷᠪᠢᠳᠠᠬᠤ	gqrbidahv
@@ -28508,7 +28462,7 @@ use_preset_vocabulary: true
 ᠭᠣᠷᠢᠴᠢᠯᠠᠬᠤ	gqricilahv
 ᠭᠣᠰᠫᠢᠲ᠋ᠠᠯᠢ	gqspit'ali
 ᠭᠣᠲ᠋ᠢᠺ	gqt'ik
-ᠭᠣᠬ᠎ᠠ	ghq-a
+ᠭᠣᠬ᠎ᠠ	gqq-a
 ᠭᠣᠬᠠᠳᠠᠭᠳᠠᠬᠤ	gqhadagdahv
 ᠭᠣᠬᠠᠳᠠᠯ	gqhadal
 ᠭᠣᠬᠠᠳᠠᠯᠳᠠᠬᠤ	gqhadaldahv
@@ -28566,7 +28520,7 @@ use_preset_vocabulary: true
 ᠭᠣᠶᠣᠮᠰᠣᠭᠯᠠᠬᠤ	gqyqmsqglahv
 ᠭᠣᠶᠣᠮᠰᠠᠭᠤ	gqyqmsagv
 ᠭᠣᠶᠣᠮᠠᠲᠠᠭᠠᠢ	gqyqmatagai
-ᠭᠣᠶᠣᠣ	gqyhq
+ᠭᠣᠶᠣᠣ	gqyqq
 ᠭᠣᠶᠣᠯᠲᠤ	gqyqltv
 ᠭᠣᠶᠣᠷᠬᠠᠬᠤ	gqyqrhahv
 ᠭᠣᠶᠣᠷᠬᠠᠭᠤ	gqyqrhagv
@@ -29144,7 +29098,6 @@ use_preset_vocabulary: true
 ᠭᠤᠤᠷᠰᠤᠲᠤ	gvvrsvtv
 ᠭᠤᠤᠷᠰᠤᠲᠠᠨ	gvvrsvtan
 ᠭᠤᠤᠷᠰᠤᠲᠠᠰᠤ	gvvrsvtasv
-ᠭᠤᠤᠷᠰᠤ ᠲᠣᠭᠣᠷᠢᠨᠲᠠᠰᠤ	gvvrsv tqgqrintasv
 ᠭᠤᠤᠷᠲᠤᠬᠤ	gvvrtvhv
 ᠭᠤᠤᠷᠲᠤᠭᠤᠯᠬᠤ	gvvrtvgvlhv
 ᠭᠤᠴᠠᠭᠳᠠᠬᠤ	gvcagdahv
@@ -29361,7 +29314,7 @@ use_preset_vocabulary: true
 ᠭᠡᠷᠰᠡᠬᠦ	gersehu
 ᠭᠡᠷᠲᠦ	gertu
 ᠭᠡᠷᠲᠡᠢ	gertei
-ᠭᠡᠷ᠎ ᠲᠡᠭᠡᠨ	ger-tegen
+ᠭᠡᠷ᠎ᠲᠡᠭᠡᠨ	ger-tegen
 ᠭᠡᠷᠡᠴᠢ	gereci
 ᠭᠡᠷᠡᠴᠢᠯᠡᠭᠡ	gerecilege
 ᠭᠡᠷᠡᠴᠢᠯᠡᠵᠡᠭᠡᠬᠦ	gerecilejegehu
@@ -29470,7 +29423,7 @@ use_preset_vocabulary: true
 ᠭᠡᠬᠢᠬᠦ	gehihu
 ᠭᠡᠬᠦᠴᠢᠯᠡᠨ	gehucilen
 ᠭᠡᠬᠢᠭᠨᠡᠬᠦ	gehignehu
-ᠭᠡᠬᠦ᠎ ᠳᠦ	gehu-du
+ᠭᠡᠬᠦ᠎ᠳᠦ	gehu-du
 ᠭᠡᠬᠢᠯᠵᠡᠭᠦᠯᠬᠦ	gehiljegulhu
 ᠭᠡᠬᠢᠰ	gehis
 ᠭᠡᠬᠢᠰᠬᠢᠬᠦ	gehishihu
@@ -30110,7 +30063,6 @@ use_preset_vocabulary: true
 ᠳᠠᠭᠠᠭᠠᠮᠠᠢᠰᠢᠭ	dagagamaisig
 ᠳᠠᠭᠠᠭᠠᠮᠠᠯ	dagagamal
 ᠳᠠᠭᠠᠭᠠᠮᠠᠯᠯᠠᠬᠤ	dagagamallahv
-ᠳ᠋ᠠ ᠮᠧᠨ	d'a mEn
 ᠳᠠᠭᠠᠭᠠᠮᠠᠭᠠᠢ	dagagamagai
 ᠳᠠᠭᠠᠭᠠᠮᠠᠭᠠᠢᠳᠠᠬᠤ	dagagamagaidahv
 ᠳᠠᠭᠠᠮᠳᠠᠬᠤ	dagamdahv
@@ -30881,7 +30833,7 @@ use_preset_vocabulary: true
 ᠳᠠᠮᠵᠢᠵᠠᠭᠠᠬᠤ	damjijagahv
 ᠳᠠᠮᠵᠢᠯᠭ᠎ᠠ	damjilg-a
 ᠳᠠᠮᠵᠢᠯᠭᠠᠲᠤ	damjilgatv
-ᠳᠠᠮᠵᠢᠯᠭ᠎ᠠ᠎ ᠨᠤᠭᠤᠳ	damjilg-a-nvgvd
+ᠳᠠᠮᠵᠢᠯᠭ᠎ᠠ᠎ᠨᠤᠭᠤᠳ	damjilg-a-nvgvd
 ᠳᠠᠮᠵᠢᠯᠠᠯ	damjilal
 ᠳᠠᠮᠵᠢᠯᠠᠯᠴᠠᠬᠤ	damjilalcahv
 ᠳᠠᠮᠵᠢᠯᠠᠬᠤ	damjilahv
@@ -30962,7 +30914,7 @@ use_preset_vocabulary: true
 ᠳᠠᠩᠭᠢᠨᠠᠭᠤᠯᠬᠤ	da;ginagvlhv
 ᠳᠠᠩᠭᠢᠨᠠᠭᠤᠷ	da;ginagvr
 ᠳ᠋ᠠᠩᠭᠦᠨ	d'a;gun
-ᠳᠠᠩᠳᠠ᠎ ᠪᠠᠨ	da;da-ban
+ᠳᠠᠩᠳᠠ᠎ᠪᠠᠨ	da;da-ban
 ᠳᠠᠩᠳᠠᠢ	da;dai
 ᠳᠠᠩᠳᠠᠢᠯᠠᠬᠤ	da;dailahv
 ᠳᠠᠩᠳᠠᠢᠯᠭᠠᠬᠤ	da;dailgahv
@@ -31241,7 +31193,7 @@ use_preset_vocabulary: true
 ᠳᠠᠷᠤᠢ	darvi
 ᠳᠠᠷᠤᠢᠪᠲᠤᠷ	darvyibtvr
 ᠳᠠᠷᠤᠢᠪᠴᠢᠯᠠᠨ	darvyibcilan
-ᠳᠠᠷᠤᠢ᠎ ᠳᠤ	darvyi-dv
+ᠳᠠᠷᠤᠢ᠎ᠳᠤ	darvyi-dv
 ᠳᠠᠷᠤᠢᠬᠠᠨ	darvyihan
 ᠳᠠᠷᠤᠤ	darvv
 ᠳᠠᠷᠤᠤᠪᠲᠤᠷ	darvvbtvr
@@ -31438,7 +31390,6 @@ use_preset_vocabulary: true
 ᠳ᠋ᠢᠸᠠᠳᠠᠳᠯᠠᠬᠤ	d'iwadadlahv
 ᠳ᠋ᠧᠪᠠᠵᠠᠨ	d'Ebajan
 ᠳ᠋ᠢᠸᠠᠩ	d'iwa;
-ᠳ᠋ᠢᠸᠠᠩ ᠭᠠᠯᠪᠠ	d'iwa; galba
 ᠳ᠋ᠢᠸᠠᠩᠭᠠᠷ	d'iwa;gar
 ᠳ᠋ᠢᠸᠢᠽ	d'iwiz
 ᠳ᠋ᠢᠸᠢᠽᠢᠶᠣᠨ	d'iwiziyqn
@@ -31888,8 +31839,7 @@ use_preset_vocabulary: true
 ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠯ	dq;sigvcilal
 ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠬᠤ	dq;sigvcilahv
 ᠳᠣᠩᠰᠢᠭᠤᠴᠢᠯᠠᠭᠤᠯᠬᠤ	dq;sigvcilagvlhv
-ᠳ᠋ᠣᠣ	d'hq
-ᠳ᠋ᠣᠪᠲ᠋ᠣᠷ(ᠳ᠋ᠣᠺᠲ᠋ᠣᠷ)	d'qbt'qr(d'qkt'qr)
+ᠳ᠋ᠣᠣ	d'qq
 ᠳᠣᠭᠣᠭᠢ	dqgqgi
 ᠳᠣᠭᠣᠭᠢᠯᠠᠮᠠᠲᠠᠭᠠᠢ	dqgqgilamatagai
 ᠳᠣᠭᠣᠭᠢᠯᠠᠩᠭᠤᠢ	dqgqgila;gvi
@@ -31908,28 +31858,28 @@ use_preset_vocabulary: true
 ᠳᠣᠭᠤᠤᠷᠬᠢ	dqgvvrhi
 ᠳᠣᠭᠤᠤᠷᠰᠢᠭ	dqgvvrsig
 ᠳᠣᠭᠣᠭᠢᠴᠢ	dqgqgici
-ᠳᠣᠣᠷᠠᠳᠤ	dhqradv
-ᠳᠣᠣᠳᠣᠵᠢ	dhqdqji
-ᠳᠣᠣᠳᠣᠬᠢ	dhqdqhi
-ᠳᠣᠣᠳᠣᠭᠤᠯ	dhqdqgvl
+ᠳᠣᠣᠷᠠᠳᠤ	dqqradv
+ᠳᠣᠣᠳᠣᠵᠢ	dqqdqji
+ᠳᠣᠣᠳᠣᠬᠢ	dqqdqhi
+ᠳᠣᠣᠳᠣᠭᠤᠯ	dqqdqgvl
 ᠳᠣᠭᠣᠵᠢ	dqgqji
-ᠳᠣᠣᠵᠢ	dhqji
-ᠳᠣᠣᠵᠢᠩᠨᠠᠬᠤ	dhqji;nahv
-ᠳᠣᠣᠵᠢᠩ	dhqji;
-ᠳᠣᠣᠵᠠ	dhqja
-ᠳᠣᠣᠵᠠᠲᠠᠢ	dhqjatai
-ᠳᠣᠣᠵᠢᠲᠠᠢ	dhqjitai
+ᠳᠣᠣᠵᠢ	dqqji
+ᠳᠣᠣᠵᠢᠩᠨᠠᠬᠤ	dqqji;nahv
+ᠳᠣᠣᠵᠢᠩ	dqqji;
+ᠳᠣᠣᠵᠠ	dqqja
+ᠳᠣᠣᠵᠠᠲᠠᠢ	dqqjatai
+ᠳᠣᠣᠵᠢᠲᠠᠢ	dqqjitai
 ᠳᠣᠮᠪᠣᠷᠳᠠᠵᠠᠭᠠᠬᠤ	dqmbqrdajagahv
 ᠳᠣᠮᠪᠣᠷᠳᠠᠭᠤᠯᠬᠤ	dqmbqrdagvlhv
 ᠳᠣᠮᠪᠣᠷᠴᠢ	dqmbqrci
-ᠳᠣᠣᠨᠣᠷ	dhqnqr
-ᠳᠣᠣᠷ᠎ᠠ	dhqr-a
-ᠳᠣᠣᠷᠠᠳᠤᠰ	dhqradvs
-ᠳᠣᠣᠷᠠᠳᠠᠬᠤ	dhqradahv
-ᠳᠣᠣᠷᠠᠳᠠᠭᠤᠯᠬᠤ	dhqradagvlhv
-ᠳᠣᠣᠷᠠᠬᠢ	dhqrahi
-ᠳᠣᠣᠷᠠᠰᠢᠶᠠᠬᠤ	dhqrasiyahv
-ᠳᠣᠣᠬᠠᠨ	dhqhan
+ᠳᠣᠣᠨᠣᠷ	dqqnqr
+ᠳᠣᠣᠷ᠎ᠠ	dqqr-a
+ᠳᠣᠣᠷᠠᠳᠤᠰ	dqqradvs
+ᠳᠣᠣᠷᠠᠳᠠᠬᠤ	dqqradahv
+ᠳᠣᠣᠷᠠᠳᠠᠭᠤᠯᠬᠤ	dqqradagvlhv
+ᠳᠣᠣᠷᠠᠬᠢ	dqqrahi
+ᠳᠣᠣᠷᠠᠰᠢᠶᠠᠬᠤ	dqqrasiyahv
+ᠳᠣᠣᠬᠠᠨ	dqqhan
 ᠳᠣᠭᠣᠬᠢᠯᠠᠯ	dqgqhilal
 ᠳᠣᠭᠣᠬᠢᠯᠠᠬᠤ	dqgqhilahv
 ᠳᠣᠭᠣᠭᠰᠢ	dqgqgsi
@@ -32042,13 +31992,13 @@ use_preset_vocabulary: true
 ᠳᠣᠷᠣᠮᠵᠢᠯᠠᠬᠤ	dqrqmjilahv
 ᠳᠣᠷᠣᠮᠵᠢᠯᠠᠭᠤᠯᠬᠤ	dqrqmjilagvlhv
 ᠳᠣᠷᠣᠮᠵᠢᠬᠠᠨ	dqrqmjihan
-ᠳᠣᠣᠷ᠎ᠠ᠎ ᠪᠠᠨ	dhqr-a-ban
+ᠳᠣᠣᠷ᠎ᠠ᠎ᠪᠠᠨ	dqqr-a-ban
 ᠳᠣᠷᠰᠣᠭᠣᠢ	dqrsqgqi
 ᠳᠣᠷᠰᠣᠭᠣᠢᠪᠲᠣᠷ	dqrsqgqyibtqr
 ᠳᠣᠷᠰᠣᠭᠣᠢᠳᠠᠬᠤ	dqrsqgqyidahv
 ᠳᠣᠷᠰᠣᠭᠣᠢᠳᠠᠭᠤ	dqrsqgqyidagv
 ᠳᠣᠷᠰᠣᠭᠣᠢᠬᠠᠨ	dqrsqgqyihan
-ᠳᠣᠣᠷᠰᠣᠭᠣᠢᠰᠢᠭ	dhqrsqgqyisig
+ᠳᠣᠣᠷᠰᠣᠭᠣᠢᠰᠢᠭ	dqqrsqgqyisig
 ᠳᠣᠷᠰᠣᠭᠣᠨᠠᠬᠤ	dqrsqgqnahv
 ᠳᠣᠷᠰᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	dqrsqgqnagvlhv
 ᠳᠣᠷᠰᠣᠭᠣᠷ	dqrsqgqr
@@ -32068,9 +32018,8 @@ use_preset_vocabulary: true
 ᠳᠣᠷᠣᠰᠠᠭᠤᠯᠬᠤ	dqrqsagvlhv
 ᠳᠣᠷᠣᠳᠬᠤ	dqrqdhv
 ᠳᠣᠷᠣᠳᠬᠠᠭᠤᠯᠬᠤ	dqrqdhagvlhv
-ᠳᠣᠣᠷᠠᠬᠢᠨ	dhqrahin
-ᠳᠣᠣᠷᠠᠬᠠᠨ᠎ ᠠ	dhqrahan-a
-ᠳᠣᠣᠷᠠᠬᠠᠨ	dhqrahan
+ᠳᠣᠣᠷᠠᠬᠢᠨ	dqqrahin
+ᠳᠣᠣᠷᠠᠬᠠᠨ	dqqrahan
 ᠳᠣᠷᠣᠰᠢᠶᠠᠭᠳᠠᠬᠤ	dqrqsiyagdahv
 ᠳᠣᠷᠣᠰᠢᠶᠠᠯ	dqrqsiyal
 ᠳᠣᠷᠣᠰᠢᠶᠠᠯᠭᠠᠬᠤ	dqrqsiyalgahv
@@ -32373,7 +32322,6 @@ use_preset_vocabulary: true
 ᠳᠤᠩᠭᠤᠢᠯᠠᠬᠤ	dv;gvyilahv
 ᠳᠤᠩᠭᠤᠢᠯᠳᠠᠬᠤ	dv;gvyildahv
 ᠳᠤᠩᠭᠤᠢᠯᠳᠠᠭᠤᠯᠬᠤ	dv;gvyildagvlhv
-ᠳᠤᠮᠳᠠ(ᠳᠤᠨᠳᠠ)	dvmda(dvnda)
 ᠳᠤᠮᠳᠠᠴᠢ	dvmdaci
 ᠳᠤᠮᠳᠠᠴᠢᠯᠠᠭᠳᠠᠬᠤ	dvmdacilagdahv
 ᠳᠤᠮᠳᠠᠴᠢᠯᠠᠬᠤ	dvmdacilahv
@@ -32693,7 +32641,6 @@ use_preset_vocabulary: true
 ᠳᠠᠭᠤᠷᠢᠰᠬᠠᠯᠲᠠᠢ	dagvrishaltai
 ᠳᠠᠭᠤᠷᠢᠰᠬᠠᠯᠴᠠᠬᠤ	dagvrishalcahv
 ᠳᠠᠭᠤᠷᠢᠰᠬᠠᠮ᠎ᠠ	dagvrisham-a
-ᠳᠠᠭᠤᠷᠢ ᠬᠤᠭᠤᠷ	dagvri hvgvr
 ᠳᠠᠭᠤᠰᠤᠯ	dagvsvl
 ᠳᠠᠭᠤᠰᠤᠯᠲᠠ	dagvsvlta
 ᠳᠠᠭᠤᠰᠤᠨ	dagvsvn
@@ -32729,7 +32676,6 @@ use_preset_vocabulary: true
 ᠳᠤᠬᠤᠳᠠᠬᠤ	dvhvdahv
 ᠳᠤᠬᠤᠳᠠᠭᠤᠯᠠᠰᠬᠢᠬᠦ	dvhvdagvlashihu
 ᠳᠤᠬᠤᠳᠠᠭᠤᠯᠬᠤ	dvhvdagvlhv
-ᠳ᠋ᠦᠸᠧᠯᠢ(ᠳ᠋ᠦᠸᠧᠯ)	d'uwEli(d'uwEl)
 ᠳ᠋ᠦᠧᠲ᠋	d'uEt
 ᠳᠡᠪᠡ	debe
 ᠳ᠋ᠡᠪ	d'eb
@@ -33169,7 +33115,6 @@ use_preset_vocabulary: true
 ᠳᠡᠮᠲᠡᠢ	demtei
 ᠳᠡᠮᠴᠢ	demci
 ᠳᠡᠮᠴᠢᠯᠡᠬᠦ	demcilehu
-ᠳᠡᠩ(ᠳ᠋ᠡᠩ)	de;(d'e;)
 ᠳ᠋ᠧᠩ	d'E;
 ᠳᠡᠨᠳᠡᠭᠡᠨᠡᠬᠦ	dendegenehu
 ᠳᠡᠨᠳᠡᠭᠡᠨᠡᠭᠦᠯᠬᠦ	dendegenegulhu
@@ -33305,7 +33250,6 @@ use_preset_vocabulary: true
 ᠳᠡᠷᠡᠰᠦᠲᠡᠢ	deresutei
 ᠳᠡᠷᠡᠰᠦᠷᠬᠦᠦ	deresurhuu
 ᠳᠡᠷᠲ᠋	dert
-ᠳᠡᠷ ᠬᠢᠬᠦ	der hihu
 ᠳᠡᠷᠴᠢᠭᠢᠨᠡᠬᠦ	derciginehu
 ᠳᠡᠷᠴᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ	derciginegulhu
 ᠳᠡᠷᠴᠢᠭᠢᠷ	dercigir
@@ -33373,7 +33317,6 @@ use_preset_vocabulary: true
 ᠳᠡᠭᠡᠵᠢᠯᠡᠯ	degejilel
 ᠳᠡᠭᠡᠵᠢᠯᠡᠬᠦ	degejilehu
 ᠳᠡᠭᠡᠵᠢᠯᠡᠭᠦᠯᠬᠦ	degejilegulhu
-ᠳᠡᠪᠡᠯ(ᠳᠡᠭᠡᠯ)	debel(degel)
 ᠳᠡᠪᠡᠯᠡᠢ	debelei
 ᠳᠡᠭᠡᠷ᠎ᠡ	deger-e
 ᠳᠡᠭᠡᠷᠡᠳᠡᠴᠢᠬᠦ	degeredecihu
@@ -33418,7 +33361,7 @@ use_preset_vocabulary: true
 ᠳᠡᠭᠡᠷᠡᠩᠭᠦᠢᠯᠡᠭᠦᠯᠬᠦ	degere;guilegulhu
 ᠳᠡᠭᠡᠷᠡᠩᠭᠦᠢᠬᠡᠨ	degere;guihen
 ᠳᠡᠭᠡᠷᠡᠩᠬᠦᠦ	degere;huu
-ᠳᠡᠭᠡᠷ᠎ᠡ᠎ ᠡᠴᠡ	deger-e-ece
+ᠳᠡᠭᠡᠷ᠎ᠡ᠎ᠡᠴᠡ	deger-e-ece
 ᠳᠡᠭᠡᠰᠦ	degesu
 ᠳᠡᠭᠡᠰᠦᠯᠡᠭᠳᠡᠬᠦ	degesulegdehu
 ᠳᠡᠭᠡᠰᠦᠯᠡᠬᠦ	degesulehu
@@ -33670,7 +33613,6 @@ use_preset_vocabulary: true
 ᠳᠡᠭᠦᠦ	deguu
 ᠳ᠋ᠧᠦ	d'Eu
 ᠳᠦᠦᠭᠡᠬᠦ	duugehu
-ᠳ᠋ᠡᠦ ᠭᠦᠨᠢᠶᠠᠩ	d'eu guniya;
 ᠳᠦᠦᠭᠡᠦᠷ	duugeur
 ᠳᠦᠦᠭᠡᠦᠷᠳᠡᠬᠦ	duugeurdehu
 ᠳᠦᠦᠭᠡᠦᠷᠳᠡᠭᠦᠯᠬᠦ	duugeurdegulhu
@@ -33786,7 +33728,6 @@ use_preset_vocabulary: true
 ᠳᠥᠯᠥᠰᠬᠢᠬᠦ	doloshihu
 ᠳᠥᠯᠥᠲᠦ	dolotu
 ᠳᠥᠯᠴᠥᠭ	dolcog
-ᠳᠥᠯᠦᠯᠡᠬᠦ(ᠳᠥᠯᠦᠭᠦᠯᠬᠦ)	dolulehu(dolugulhu)
 ᠳᠥᠯᠥᠭᠦᠬᠡᠨ	dologuhen
 ᠳᠥᠯᠥᠯᠵᠡᠬᠦ	dololjehu
 ᠳᠥᠯᠥᠩᠴᠥᠭ	dolo;cog
@@ -34035,10 +33976,10 @@ use_preset_vocabulary: true
 ᠶᠥᠷᠭᠡᠬᠦ	yorgehu
 ᠶᠥᠷᠭᠡᠭᠡ	yorgege
 ᠶᠡᠷᠦᠳᠡ	yerude
-ᠶᠡᠷᠦᠨᠳᠡ᠎ ᠶᠢᠨ	yerunde-yin
+ᠶᠡᠷᠦᠨᠳᠡ᠎ᠶᠢᠨ	yerunde-yin
 ᠶᠡᠷᠡᠳᠦᠭᠡᠷ	yereduger
 ᠶᠡᠷᠦᠳᠡᠭᠡᠨ	yerudegen
-ᠶᠡᠷᠦ᠎ ᠶᠢᠨ	yeru-yin
+ᠶᠡᠷᠦ᠎ᠶᠢᠨ	yeru-yin
 ᠶᠢᠷᠲᠢᠨᠴᠦ	yirtincu
 ᠶᠢᠷᠲᠢᠨᠴᠦᠰ	yirtincus
 ᠶᠥᠷᠬᠥᠭ	yorhog
@@ -34059,7 +34000,7 @@ use_preset_vocabulary: true
 ᠶᠡᠷᠦᠩᠬᠡᠢᠳᠡᠭᠦᠦ	yeru;heideguu
 ᠶᠡᠷᠦᠩᠬᠡᠢᠳᠡᠭᠦᠯᠬᠦ	yeru;heidegulhu
 ᠶᠡᠷᠦᠩᠬᠡᠢᠳᠡᠬᠦ	yeru;heidehu
-ᠶᠡᠷᠦᠩᠬᠡᠢ᠎ ᠳᠡᠭᠡᠨ	yeru;hei-degen
+ᠶᠡᠷᠦᠩᠬᠡᠢ᠎ᠳᠡᠭᠡᠨ	yeru;hei-degen
 ᠶᠡᠷᠦᠩᠬᠡᠢᠯᠡᠮᠡᠯ	yeru;heilemel
 ᠶᠡᠷᠦᠩᠬᠡᠢᠯᠡᠵᠡᠭᠡᠬᠦ	yeru;heilejegehu
 ᠶᠡᠷᠦᠩᠬᠡᠢᠯᠡᠭᠦᠯᠬᠦ	yeru;heilegulhu
@@ -34076,8 +34017,8 @@ use_preset_vocabulary: true
 ᠢᠷᠥᠭᠡᠯᠴᠢ	irogelci
 ᠢᠷᠥᠭᠡᠯᠴᠢᠷᠬᠡᠭᠦᠦ	irogelcirheguu
 ᠢᠷᠥᠭᠡᠷ	iroger
-ᠶᠡᠷᠦ᠎ ᠡᠴᠡ	yeru-ece
-ᠶᠡᠷᠦ᠎ ᠡᠴᠡ᠎ ᠪᠡᠨ	yeru-ece-ben
+ᠶᠡᠷᠦ᠎ᠡᠴᠡ	yeru-ece
+ᠶᠡᠷᠦ᠎ᠡᠴᠡ᠎ᠪᠡᠨ	yeru-ece-ben
 ᠢᠷᠥᠭᠡᠬᠦ	irogehu
 ᠢᠷᠥᠭᠡᠵᠡᠭᠡᠬᠦ	irogejegehu
 ᠢᠷᠥᠭᠡᠴᠢᠬᠦ	irogecihu
@@ -34179,12 +34120,12 @@ use_preset_vocabulary: true
 ᠶᠣᠵᠣᠲᠣᠭᠤᠯᠬᠤ	yqjqtqgvlhv
 ᠶᠣᠵᠣᠭᠣᠷ	yqjqgqr
 ᠶᠣᠵᠣᠭᠣᠷᠬᠠᠨ	yqjqgqrhan
-ᠶᠣᠣᠵᠠ	yhqja
+ᠶᠣᠣᠵᠠ	yqqja
 ᠶᠣᠵᠣᠭᠣᠷᠲᠠᠢ	yqjqgqrtai
 ᠶᠣᠢᠯᠭᠣᠷ	yqyilgqr
-ᠶᠣᠣᠯᠠᠯ	yhqlal
-ᠶᠣᠣᠯᠠᠯᠳᠤᠬᠤ	yhqlaldvhv
-ᠶᠣᠣᠯᠠᠬᠤ	yhqlahv
+ᠶᠣᠣᠯᠠᠯ	yqqlal
+ᠶᠣᠣᠯᠠᠯᠳᠤᠬᠤ	yqqlaldvhv
+ᠶᠣᠣᠯᠠᠬᠤ	yqqlahv
 ᠶᠣᠯᠣ	yqlq
 ᠶᠣᠯᠪᠣᠭᠣᠷ	yqlbqgqr
 ᠶᠣᠯᠪᠣᠭᠣᠷᠳᠠᠬᠤ	yqlbqgqrdahv
@@ -34192,7 +34133,6 @@ use_preset_vocabulary: true
 ᠶᠣᠯᠪᠣᠭᠣᠷᠰᠢᠭ	yqlbqgqrsig
 ᠶᠣᠯᠪᠣᠢᠯᠭᠠᠬᠤ	yqlbqyilgahv
 ᠶᠣᠯᠪᠣᠢᠬᠤ	yqlbqyihv
-ᠶᠣᠯᠭᠣᠮ(ᠢᠯᠭᠣᠮ)	yqlgqm(ilgqm)
 ᠶᠣᠯᠣᠭᠠᠷ	yqlqgar
 ᠶᠣᠯᠣᠢᠯᠭᠠᠬᠤ	yqlqyilgahv
 ᠶᠣᠯᠣᠢᠬᠤ	yqlqyihv
@@ -34301,8 +34241,8 @@ use_preset_vocabulary: true
 ᠶᠣᠩᠰᠢᠬᠤ	yq;sihv
 ᠶᠣᠩᠰᠢᠭᠤᠯᠬᠤ	yq;sigvlhv
 ᠶᠣ᠋	yq'
-ᠶᠣᠣᠳᠤᠤ	yhqdvv
-ᠶᠣᠣᠯᠠᠯᠳᠤᠭᠠᠨ	yhqlaldvgan
+ᠶᠣᠣᠳᠤᠤ	yqqdvv
+ᠶᠣᠣᠯᠠᠯᠳᠤᠭᠠᠨ	yqqlaldvgan
 ᠶᠣᠣᠯᠠᠭᠠᠨ	yhqlagan
 ᠶᠣᠣᠯᠠᠭᠤᠯᠬᠤ	yhqlagvlhv
 ᠶᠣᠣᠯᠠᠵᠠᠭᠠᠬᠤ	yhqlajagahv
@@ -34315,19 +34255,19 @@ use_preset_vocabulary: true
 ᠶᠣᠣᠲᠠᠩ	yhqta;
 ᠶᠣᠣᠲᠤᠤ	yhqtvv
 ᠶᠣᠣᠲᠤᠤᠳᠠᠬᠤ	yhqtvvdahv
-ᠶᠣᠣᠬᠣᠭᠣᠷ	yhqhqgqr
-ᠶᠣᠣᠬᠣᠭᠣᠷᠬᠠᠨ	yhqhqgqrhan
-ᠶᠣᠣᠬᠣᠭᠣᠷᠰᠢᠭ	yhqhqgqrsig
-ᠶᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	yhqhqgqnahv
-ᠶᠣᠣᠬᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	yhqhqgqnagvlhv
-ᠶᠣᠣᠬᠣᠢᠯᠭᠠᠬᠤ	yhqhqyilgahv
-ᠶᠣᠣᠬᠣᠢᠬᠤ	yhqhqyihv
-ᠶᠣᠣᠬᠣᠯᠵᠠᠬᠤ	yhqhqljahv
-ᠶᠣᠣᠬᠣᠷ	yhqhqr
-ᠶᠣᠣᠬᠣᠷᠳᠠᠬᠤ	yhqhqrdahv
-ᠶᠣᠣᠬᠣᠷᠳᠠᠭᠤᠯᠬᠤ	yhqhqrdagvlhv
-ᠶᠣᠣᠬᠣᠷᠯᠠᠬᠤ	yhqhqrlahv
-ᠶᠣᠣᠬᠣᠷᠯᠠᠭᠤᠯᠬᠤ	yhqhqrlagvlhv
+ᠶᠣᠣᠬᠣᠭᠣᠷ	yqqhqgqr
+ᠶᠣᠣᠬᠣᠭᠣᠷᠬᠠᠨ	yqqhqgqrhan
+ᠶᠣᠣᠬᠣᠭᠣᠷᠰᠢᠭ	yqqhqgqrsig
+ᠶᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	yqqhqgqnahv
+ᠶᠣᠣᠬᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	yqqhqgqnagvlhv
+ᠶᠣᠣᠬᠣᠢᠯᠭᠠᠬᠤ	yqqhqyilgahv
+ᠶᠣᠣᠬᠣᠢᠬᠤ	yqqhqyihv
+ᠶᠣᠣᠬᠣᠯᠵᠠᠬᠤ	yqqhqljahv
+ᠶᠣᠣᠬᠣᠷ	yqqhqr
+ᠶᠣᠣᠬᠣᠷᠳᠠᠬᠤ	yqqhqrdahv
+ᠶᠣᠣᠬᠣᠷᠳᠠᠭᠤᠯᠬᠤ	yqqhqrdagvlhv
+ᠶᠣᠣᠬᠣᠷᠯᠠᠬᠤ	yqqhqrlahv
+ᠶᠣᠣᠬᠣᠷᠯᠠᠭᠤᠯᠬᠤ	yqqhqrlagvlhv
 ᠶᠣᠣᠴᠢᠨ	yhqcin
 ᠶᠣᠣᠴᠢᠨᠳᠠᠬᠤ	yhqcindahv
 ᠶᠣᠣᠴᠢᠨᠳᠠᠵᠠᠭᠠᠬᠤ	yhqcindajagahv
@@ -35020,7 +34960,7 @@ use_preset_vocabulary: true
 ᠵᠢᠬᠡᠭᠦᠴᠡᠬᠦ	jihegucehu
 ᠵᠢᠬᠡᠭᠦᠴᠡᠭᠦᠯᠬᠦ	jihegucegulhu
 ᠵᠢᠴᠢ	jici
-ᠵᠢᠴᠢ᠎ ᠳᠡᠭᠡᠨ	jici-degen
+ᠵᠢᠴᠢ᠎ᠳᠡᠭᠡᠨ	jici-degen
 ᠵᠢᠴᠢᠨᠴᠢᠷ	jicincir
 ᠵᠢᠱᠢᠭ᠌	jixig
 ᠵᠢᠱᠢᠭᠳᠡᠭᠴᠢ	jixigdegci
@@ -35054,8 +34994,7 @@ use_preset_vocabulary: true
 ᠵᠢᠰᠢᠭᠦᠬᠡᠨ	jisiguhen
 ᠵᠣᠪ	jqb
 ᠵᠣᠪᠠᠭᠠᠩ	jqbaga;
-ᠵᠣᠳᠬᠠᠷ(ᠵᠣᠳᠬᠡᠷ)	jqdhar(jqdher)
-ᠵᠣᠳᠣᠣ	jqdhq
+ᠵᠣᠳᠣᠣ	jqdqq
 ᠵᠣᠵᠢᠭ	jqjig
 ᠵᠣᠵᠢᠭᠳᠠᠭᠤ	jqjigdagv
 ᠵᠣᠵᠢᠭᠷᠠᠬᠤ	jqjigrahv
@@ -35109,7 +35048,7 @@ use_preset_vocabulary: true
 ᠵᠣᠩᠬᠤᠤᠰᠢᠬᠤ	jq;hvvsihv
 ᠵᠣᠩᠰᠢ	jq;si
 ᠵᠣᠩᠰᠢᠲᠠᠰᠤ	jq;sitasv
-ᠵᠣᠣᠮ᠎ᠠ	jhqm-a
+ᠵᠣᠣᠮ᠎ᠠ	jqqm-a
 ᠵᠣᠲᠣᠭᠣᠨᠠᠬᠤ	jqtqgqnahv
 ᠵᠣᠲᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	jqtqgqnagvlhv
 ᠵᠣᠲᠣᠭᠣᠷ	jqtqgqr
@@ -35138,8 +35077,8 @@ use_preset_vocabulary: true
 ᠵᠢᠷᠣᠭᠠᠯᠠᠬᠤ	jirqgalahv
 ᠵᠢᠷᠣᠭᠠᠯᠠᠭᠤᠯᠬᠤ	jirqgalagvlhv
 ᠵᠣᠷᠴᠢ	jqrci
-ᠵᠣᠣ	jhq
-ᠵᠢᠤᠳᠣᠣ	jivdhq
+ᠵᠣᠣ	jqq
+ᠵᠢᠤᠳᠣᠣ	jivdqq
 ᠵᠤᠭᠠᠨᠲᠠᠰᠤ	jvgantasv
 ᠵᠢᠭᠤᠷ	jigvr
 ᠵᠢᠭᠤᠯᠴᠢᠨ	jigvlcin
@@ -36035,7 +35974,7 @@ use_preset_vocabulary: true
 ᠵᠠᠷᠵᠢᠬᠢᠨ	jarjihin
 ᠵᠠᠷᠢᠭᠳᠠᠭᠠᠨ	jarigdagan
 ᠵᠠᠷᠢᠮ	jarim
-ᠵᠠᠷᠢᠮ᠎ ᠳᠠᠭᠠᠨ	jarim-dagan
+ᠵᠠᠷᠢᠮ᠎ᠳᠠᠭᠠᠨ	jarim-dagan
 ᠵᠠᠷᠢᠮᠳᠤᠭ	jarimdvg
 ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠬᠤ	jarimdvglahv
 ᠵᠠᠷᠢᠮᠳᠤᠭᠯᠠᠭᠤᠯᠬᠤ	jarimdvglagvlhv
@@ -36132,7 +36071,7 @@ use_preset_vocabulary: true
 ᠵᠠᠬᠠᠯᠠᠵᠠᠨᠠᠬᠤ	jahalajanahv
 ᠵᠠᠬᠠᠯᠠᠵᠠᠭᠠᠬᠤ	jahalajagahv
 ᠵᠠᠬᠠᠰ	jahas
-ᠵᠠᠬ᠎ᠠ᠎ ᠳᠤ	jaq-a-dv
+ᠵᠠᠬ᠎ᠠ᠎ᠳᠤ	jaq-a-dv
 ᠵᠠᠬᠠᠳᠠᠬᠤ	jahadahv
 ᠵᠠᠬᠠᠳᠠᠭᠤ	jahadagv
 ᠵᠠᠬᠠᠳᠠᠭᠤᠯᠬᠤ	jahadagvlhv
@@ -36254,7 +36193,6 @@ use_preset_vocabulary: true
 ᠵᠣᠭᠳᠣᠷᠲᠤ	jqgdqrtv
 ᠵᠣᠭᠢᠰᠬᠤ	jqgishv
 ᠵᠣᠭᠢᠰᠣᠭᠤᠯᠬᠤ	jqgisqgvlhv
-ᠵᠣᠭᠠᠭ ᠬᠢᠬᠦ	jqgag hihu
 ᠵᠣᠭᠣᠩ	jqgq;
 ᠵᠣᠭᠢᠶᠠᠰᠤ	jqgiyasv
 ᠵᠣᠭᠣᠭᠣᠬᠤ	jqgqgqhv
@@ -36272,7 +36210,7 @@ use_preset_vocabulary: true
 ᠵᠣᠭᠰᠣᠩᠭᠣᠢᠷᠠᠬᠤ	jqgsq;gqyirahv
 ᠵᠣᠭᠰᠣᠭ᠎ᠠ	jqgsqg-a
 ᠵᠣᠭᠰᠣᠭᠠᠭᠳᠠᠬᠤ	jqgsqgagdahv
-ᠵᠣᠭᠰᠣᠭ᠎ᠠ᠎ ᠪᠠᠷ	jqgsqg-a-bar
+ᠵᠣᠭᠰᠣᠭ᠎ᠠ᠎ᠪᠠᠷ	jqgsqg-a-bar
 ᠵᠣᠭᠰᠣᠭᠠᠭᠤᠷ	jqgsqgagvr
 ᠵᠣᠭᠰᠣᠭᠠᠯ	jqgsqgal
 ᠵᠣᠭᠰᠣᠭᠠᠯᠭ᠎ᠠ	jqgsqgalg-a
@@ -36394,17 +36332,17 @@ use_preset_vocabulary: true
 ᠵᠣᠭᠣᠯᠭᠠᠭᠤᠯᠬᠤ	jqgqlgagvlhv
 ᠵᠣᠭᠣᠯᠳᠠᠬᠤ	jqgqldahv
 ᠵᠣᠭᠣᠯᠳᠠᠭᠤᠯᠬᠤ	jqgqldagvlhv
-ᠽᠣᠣᠯᠣᠭᠢ	zhqlqgi
+ᠽᠣᠣᠯᠣᠭᠢ	zqqlqgi
 ᠽᠣᠣᠯᠣᠭᠢᠴᠢ	zhqlqgici
 ᠵᠣᠯᠠᠬᠤ	jqlahv
-ᠵᠣᠣᠯᠲᠠ	jhqlta
-ᠵᠣᠣᠯᠲᠠᠲᠠᠢ	jhqltatai
-ᠵᠣᠣᠯᠲᠠᠭᠤᠷ	jhqltagvr
+ᠵᠣᠣᠯᠲᠠ	jqqlta
+ᠵᠣᠣᠯᠲᠠᠲᠠᠢ	jqqltatai
+ᠵᠣᠣᠯᠲᠠᠭᠤᠷ	jqqltagvr
 ᠵᠣᠭᠣᠮᠠᠯ	jqgqmal
 ᠵᠣᠭᠣᠮᠠᠯᠰᠢᠭᠤᠷ	jqgqmalsigvr
 ᠵᠣᠭᠣᠩᠭᠢ	jqgq;gi
-ᠽᠣᠣᠫᠠᠯᠧᠨ᠋ᠲ᠋ᠣᠯᠣᠭᠢ	zhqpalEn't'qlqgi
-ᠽᠣᠣᠫᠠᠷᠺ	zhqpark
+ᠽᠣᠣᠫᠠᠯᠧᠨ᠋ᠲ᠋ᠣᠯᠣᠭᠢ	zqqpalEn't'qlqgi
+ᠽᠣᠣᠫᠠᠷᠺ	zqqpark
 ᠵᠣᠭᠣᠷᠢᠯᠠᠯᠴᠠᠬᠤ	jqgqrilalcahv
 ᠵᠣᠭᠣᠷᠢᠯᠠᠬᠤ	jqgqrilahv
 ᠵᠣᠭᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ	jqgqrilagvlhv
@@ -36413,13 +36351,13 @@ use_preset_vocabulary: true
 ᠵᠣᠭᠣᠰ	jqgqs
 ᠵᠣᠭᠣᠰᠣᠨᠴᠢᠷ	jqgqsqncir
 ᠵᠣᠭᠣᠰᠴᠢ	jqgqsci
-ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠭ	zhqt'Egnig
-ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠺᠦ᠋ᠮ	zhqt'Egnihu'm
-ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠭᠴᠢ	zhqt'Egnigci
-ᠽᠣᠣᠲ᠋ᠣᠮᠢ	zhqt'qmi
+ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠭ	zqqt'Egnig
+ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠺᠦ᠋ᠮ	zqqt'Egnihu'm
+ᠽᠣᠣᠲ᠋ᠧᠭᠨᠢᠭᠴᠢ	zqqt'Egnigci
+ᠽᠣᠣᠲ᠋ᠣᠮᠢ	zqqt'qmi
 ᠵᠣᠭᠣᠬᠤ	jqgqhv
 ᠵᠣᠭᠣᠵᠠᠭᠠᠬᠤ	jqgqjagahv
-ᠽᠣᠣᠴᠢᠳ	zhqcid
+ᠽᠣᠣᠴᠢᠳ	zqqcid
 ᠵᠣᠷᠭᠢᠯᠭᠠᠬᠤ	jqrgilgahv
 ᠵᠣᠷᠭ᠎ᠠ	jqrg-a
 ᠵᠣᠷᠭᠣᠳᠠᠰᠤ	jqrgqdasv
@@ -36439,7 +36377,7 @@ use_preset_vocabulary: true
 ᠵᠣᠷᠢᠭᠯᠠᠬᠤ	jqriglahv
 ᠵᠣᠷᠢᠭᠯᠠᠵᠠᠭᠠᠬᠤ	jqriglajagahv
 ᠵᠣᠷᠢᠭᠯᠠᠭᠤᠯᠬᠤ	jqriglagvlhv
-ᠵᠣᠷᠢᠭ᠎ ᠢᠶᠠᠷ	jqrig-iyar
+ᠵᠣᠷᠢᠭ᠎ᠢᠶᠠᠷ	jqrig-iyar
 ᠵᠣᠷᠢᠭᠲᠤ	jqrigtv
 ᠵᠣᠷᠢᠭᠲᠠᠢ	jqrigtai
 ᠵᠣᠷᠢᠭᠲᠠᠶ᠎ᠠ	jqrigtay-a
@@ -36451,7 +36389,7 @@ use_preset_vocabulary: true
 ᠵᠣᠷᠢᠮᠠᠭᠠᠢ	jqrimagai
 ᠵᠣᠷᠢᠮᠠᠭᠠᠢᠳᠠᠭᠤ	jqrimagaidagv
 ᠵᠣᠷᠢᠮᠠᠭᠠᠢᠬᠠᠨ	jqrimagaihan
-ᠵᠣᠷᠢᠮᠠᠭ᠎ ᠢᠶᠠᠷ	jqrimag-iyar
+ᠵᠣᠷᠢᠮᠠᠭ᠎ᠢᠶᠠᠷ	jqrimag-iyar
 ᠵᠣᠷᠢᠮᠠᠭ	jqrimag
 ᠵᠣᠷᠢᠮᠠᠭᠳᠠᠬᠤ	jqrimagdahv
 ᠵᠣᠷᠢᠮᠠᠭᠳᠠᠭᠤ	jqrimagdagv
@@ -36591,7 +36529,6 @@ use_preset_vocabulary: true
 ᠵᠤᠭᠠᠷᠬᠠᠭ	jvgarhag
 ᠵᠤᠭᠠᠲᠠᠢ	jvgatai
 ᠵᠤᠭᠠᠲᠠᠢᠬᠠᠨ	jvgataihan
-ᠵᠤᠭ᠎ᠠ ᠬᠢᠬᠦ	jvg-a hihu
 ᠵᠤᠭᠠᠴᠠᠯ	jvgacal
 ᠵᠤᠭᠠᠴᠠᠬᠤ	jvgacahv
 ᠵᠤᠭᠠᠴᠠᠵᠠᠭᠠᠬᠤ	jvgacajagahv
@@ -37097,7 +37034,7 @@ use_preset_vocabulary: true
 ᠵᠢᠷᠪᠡᠭᠡᠷ	jirbeger
 ᠵᠡᠷᠪᠡᠰ	jerbes
 ᠵᠡᠷᠪᠡᠰᠬᠡᠨ	jerbeshen
-ᠵᠡᠷᠭᠡ᠎ ᠳᠦ	jerge-du
+ᠵᠡᠷᠭᠡ᠎ᠳᠦ	jerge-du
 ᠵᠡᠷᠭᠡᠳᠡ	jergede
 ᠵᠡᠷᠭᠡᠳᠦᠯᠡᠬᠦ	jergedulehu
 ᠵᠡᠷᠭᠡᠯ	jergel
@@ -37236,7 +37173,7 @@ use_preset_vocabulary: true
 ᠵᠢᠭᠡᠯᠡᠭᠴᠢ	jigelegci
 ᠵᠢᠭᠡᠯᠡᠯ	jigelel
 ᠵᠢᠭᠡᠯᠡᠬᠦ	jigelehu
-ᠵᠢᠭᠡᠯᠡᠭᠡ᠎ ᠪᠡᠷ	jigelege-ber
+ᠵᠢᠭᠡᠯᠡᠭᠡ᠎ᠪᠡᠷ	jigelege-ber
 ᠵᠢᠭᠡᠯᠡᠭᠦᠯᠭᠡ	jigelegulge
 ᠵᠢᠭᠡᠯᠡᠭᠦᠯᠦᠭᠴᠢ	jigelegulugci
 ᠵᠢᠭᠡᠯᠡᠭᠦᠯᠬᠦ	jigelegulhu
@@ -37492,7 +37429,7 @@ use_preset_vocabulary: true
 ᠵᠡᠭᠦᠨᠴᠢᠷᠬᠦᠦ	jeguncirhuu
 ᠵᠡᠭᠦᠨᠰᠢ	jegunsi
 ᠵᠡᠭᠦᠨᠰᠢᠯᠡᠬᠦ	jegunsilehu
-ᠵᠡᠭᠦᠨᠰᠢ᠎ ᠪᠡᠨ	jegunsi-ben
+ᠵᠡᠭᠦᠨᠰᠢ᠎ᠪᠡᠨ	jegunsi-ben
 ᠵᠡᠭᠦᠷᠮᠡᠭ	jegurmeg
 ᠵᠦᠭᠦᠷᠮᠡᠭᠯᠡᠬᠦ	jugurmeglehu
 ᠵᠡᠭᠦᠷᠮᠡᠭᠯᠡᠭᠦᠯᠬᠦ	jegurmeglegulhu
@@ -37523,7 +37460,7 @@ use_preset_vocabulary: true
 ᠵᠥᠪᠯᠡᠯᠲᠦ	jobleltu
 ᠵᠥᠪᠯᠡᠮᠵᠢ	joblemji
 ᠵᠥᠪᠯᠡᠬᠦ	joblehu
-ᠵᠥᠪᠯᠡᠬᠦ᠎ ᠨᠦᠭᠦᠳ	joblehu-nugud
+ᠵᠥᠪᠯᠡᠬᠦ᠎ᠨᠦᠭᠦᠳ	joblehu-nugud
 ᠵᠥᠪᠯᠡᠵᠡᠭᠡᠬᠦ	joblejegehu
 ᠵᠥᠪᠰᠡᠭᠡᠬᠦ	jobsegehu
 ᠵᠥᠪᠲᠥᠭᠡᠭᠦᠯᠬᠦ	jobtogegulhu
@@ -37923,7 +37860,6 @@ use_preset_vocabulary: true
 ᠢᠵᠢᠯᠢᠭ	ijilig
 ᠢᠵᠢᠯᠡᠭᠦᠷ	ijilegur
 ᠢᠵᠢᠲᠡᠢ	ijitei
-ᠢᠽᠣᠠᠨᠠᠪᠠᠽ(ᠢᠽᠣ᠋ ᠠᠨᠠᠪᠠᠽ)	izhanabaz(izq' anabaz)
 ᠢᠽᠣᠪᠦ᠋ᠲ᠋ᠠᠨ	izqbu't'an
 ᠢᠽᠣᠪᠦ᠋ᠲ᠋ᠢᠯᠧᠨ	izqbu't'ilEn
 ᠢᠽᠣᠫᠷᠧᠨ	izqprEn
@@ -37939,12 +37875,11 @@ use_preset_vocabulary: true
 ᠡᠢᠯᠳᠡᠬᠦ	eildehu
 ᠡᠢᠯᠬᠦ	eilhu
 ᠡᠢᠮᠦ	eimu
-ᠡᠢᠮᠦ᠎ ᠳᠦ	eimu-du
+ᠡᠢᠮᠦ᠎ᠳᠦ	eimu-du
 ᠡᠢᠮᠦᠬᠡᠨ	eimuhen
-ᠡᠢᠮᠦ ᠰᠢᠤᠬᠠᠨ	eimu sivhan
 ᠡᠢᠮᠦᠷᠬᠦᠦ	eimurhuu
 ᠡᠢᠮᠦᠷᠬᠦᠬᠡᠨ	eimurhuhen
-ᠡᠢᠮᠦ᠎ ᠡᠴᠡ	eimu-ece
+ᠡᠢᠮᠦ᠎ᠡᠴᠡ	eimu-ece
 ᠡᠢᠨ	ein
 ᠡᠢᠩᠬᠡᠨ	ei;hen
 ᠡᠢᠨᠬᠦ	einhu
@@ -38070,7 +38005,7 @@ use_preset_vocabulary: true
 ᠢᠯᠢᠯᠲᠡ	ililte
 ᠢᠯᠡᠨ	ilen
 ᠢᠯᠡᠷᠬᠡᠢ	ilerhei
-ᠢᠯᠡᠷᠬᠡᠢ᠎ ᠪᠡᠷ	ilerhei-ber
+ᠢᠯᠡᠷᠬᠡᠢ᠎ᠪᠡᠷ	ilerhei-ber
 ᠢᠯᠡᠷᠬᠡᠢᠯᠡᠪᠦᠷᠢ	ilerheileburi
 ᠢᠯᠡᠷᠬᠡᠢᠯᠡᠭᠳᠡᠬᠦ	ilerheilegdehu
 ᠢᠯᠡᠷᠬᠡᠢᠯᠡᠭᠴᠢ	ilerheilegci
@@ -38195,7 +38130,6 @@ use_preset_vocabulary: true
 ᠢᠨᠧᠷᠲ᠋	inErt
 ᠢᠨᠧᠷᠼᠢ	inErCi
 ᠢᠨᠵᠢ	inji
-ᠢᠨᠵᠢ ᠪᠤᠭᠤᠷᠠᠯ	inji bvgvral
 ᠢᠨᠵᠧᠺᠲ᠋ᠣᠷ	injEkt'qr
 ᠢᠨᠵᠧᠨᠧᠷᠢᠩ	injEnEri;
 ᠢᠨᠵᠧᠨᠧᠷᠴᠢᠯᠡᠯ	injEnErcilel
@@ -38226,7 +38160,7 @@ use_preset_vocabulary: true
 ᠢᠨᠲ᠋ᠧᠷᠨᠠᠼᠢᠣᠨᠠᠯᠴᠢ	int'ErnaCiqnalci
 ᠢᠨᠲ᠋ᠧᠷᠨᠠᠼᠢᠣᠨᠠᠯᠴᠢᠯᠠᠯ	int'ErnaCiqnalcilal
 ᠢᠨᠲ᠋ᠧᠷᠨᠠᠼᠢᠣᠨᠠᠯᠴᠢᠯᠠᠬᠤ	int'ErnaCiqnalcilahv
-ᠢᠩᠲᠣᠣᠷ	i;thqr
+ᠢᠩᠲᠣᠣᠷ	i;tqqr
 ᠢᠨᠲ᠋ᠦ᠋ᠷᠢᠰᠲ᠋	int'u'rist
 ᠢᠨᠹᠠᠷᠺᠲ᠋	infarkt
 ᠢᠨᠹᠯᠢᠶᠠᠼ	infliyaC
@@ -38280,7 +38214,6 @@ use_preset_vocabulary: true
 ᠢᠶᠣᠨᠴᠢᠯᠠᠭᠤᠯᠬᠤ	iyqncilagvlhv
 ᠢᠫᠷᠢᠲ᠋	iprit
 ᠢᠷ	ir
-ᠶᠡᠷᠡ(ᠶᠡᠷᠡᠨ)	yere(yeren)
 ᠢᠷᠠᠨᠴᠢ	iranci
 ᠢᠷᠪᠢᠢᠬᠦ	irbiihu
 ᠢᠷᠪᠢᠰ	irbis
@@ -38365,7 +38298,6 @@ use_preset_vocabulary: true
 ᠢᠷᠡᠮᠡᠲᠡᠭᠡᠢ	iremetegei
 ᠢᠷᠡᠬᠦ	irehu
 ᠢᠷᠡᠬᠦᠢ	irehui
-ᠢᠷᠡᠬᠦᠢᠶ᠎ ᠡ	irehuiy-e
 ᠢᠷᠡᠭᠡᠳᠦᠢ	iregedui
 ᠢᠷᠡᠭᠦᠯ	iregul
 ᠢᠷᠡᠭᠦᠯᠬᠦ	iregulhu
@@ -38447,7 +38379,7 @@ use_preset_vocabulary: true
 ᠶᠡᠬᠡᠳᠡᠯᠲᠡ	yehedelte
 ᠶᠡᠬᠡᠳᠡᠮ᠎ᠡ	yehedem-e
 ᠶᠡᠬᠡᠳᠡᠬᠦ	yehedehu
-ᠶᠡᠬᠡ᠎ ᠳᠡᠭᠡᠨ	yehe-degen
+ᠶᠡᠬᠡ᠎ᠳᠡᠭᠡᠨ	yehe-degen
 ᠶᠡᠬᠡᠳᠡᠭᠦᠯᠬᠦ	yehedegulhu
 ᠶᠡᠬᠡᠵᠢᠬᠦ	yehejihu
 ᠶᠡᠬᠡᠵᠢᠶᠡᠷᠢ	yehejiyeri
@@ -38464,7 +38396,6 @@ use_preset_vocabulary: true
 ᠶᠡᠬᠡᠲᠡᠢ	yehetei
 ᠶᠡᠬᠡᠳᠬᠦ	yehedhu
 ᠶᠡᠬᠡᠬᠡᠨ	yehehen
-ᠶᠡᠬᠡ ᠰᠢᠭ	yehe sig
 ᠶᠡᠬᠡᠪᠲᠦᠷ	yehebtur
 ᠶᠡᠬᠡᠪᠴᠢᠯᠡᠨ	yehebcilen
 ᠶᠡᠬᠡᠪᠴᠢᠯᠡᠬᠦ	yehebcilehu
@@ -38480,9 +38411,8 @@ use_preset_vocabulary: true
 ᠶᠡᠬᠡᠮᠰᠦᠬᠦ	yehemsuhu
 ᠶᠡᠬᠡᠮᠡᠲᠡᠭᠡᠢ	yehemetegei
 ᠶᠡᠬᠡᠩᠬᠢ	yehe;hi
-ᠶᠡᠬᠡᠩᠬᠢ᠎ ᠳᠡᠭᠡᠨ	yehe;hi-degen
+ᠶᠡᠬᠡᠩᠬᠢ᠎ᠳᠡᠭᠡᠨ	yehe;hi-degen
 ᠢᠬᠡᠷ᠎ᠡ	iher-e
-ᠢᠬᠢᠷ ᠰᠢᠬᠢᠷ	ihir sihir
 ᠢᠬᠡᠷᠡᠯᠡᠬᠦ	iherelehu
 ᠢᠬᠡᠷᠡᠯᠡᠭᠡ	iherelege
 ᠢᠬᠡᠷᠡᠯᠡᠭᠦᠯᠬᠦ	iherelegulhu
@@ -38579,7 +38509,6 @@ use_preset_vocabulary: true
 ᠡᠰᠢᠯᠡᠭᠦᠯᠬᠦ	esilegulhu
 ᠡᠰᠢᠲᠡᠢ	esitei
 ᠡᠰᠢᠴᠢᠯᠡᠬᠦ	esicilehu
-ᠬᠠᠰᠠᠭ(ᠺᠠᠽᠠᠭ)	hasag(kazag)
 ᠭᠢᠳᠠᠨ	gidan
 ᠭᠢᠷᠭᠢᠰ	girgis
 ᠺᠣᠮᠢᠨᠲ᠋ᠧᠷᠠᠨ	kqmint'Eran
@@ -38759,15 +38688,10 @@ use_preset_vocabulary: true
 ᠺᠢᠨᠧᠲ᠋ᠢᠺ	kinEt'ik
 ᠺᠢᠨᠵᠠᠯ	kinjal
 ᠺᠢᠨᠣ᠋	kinq'
-ᠺᠢᠨᠣ᠋ ᠠᠫᠫᠠᠷᠠᠲ᠋	kinq' apparat
 ᠺᠢᠨᠣᠵᠢᠭᠤᠯᠬᠤ	kinqjigvlhv
 ᠺᠢᠨᠣᠯᠧᠨ᠋ᠲ᠋	kinqlEn't
-ᠺᠢᠨᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭᠴᠢ	kinq' mEhanigci
 ᠺᠢᠨᠣᠮᠣᠨᠲ᠋ᠠᠵᠢᠴᠢᠨ	kinqmqnt'ajicin
-ᠬᠢᠨᠣ᠋ ᠣᠫᠧᠷᠠᠲ᠋ᠣᠷ	hinq' qpErat'qr
 ᠺᠢᠨᠣᠰᠲ᠋ᠦ᠋ᠳᠢ	kinqst'u'di
-ᠺᠢᠨᠣ᠋ ᠲᠢᠶᠠᠲ᠋ᠷ	kinq' tiyat'r
-ᠬᠢᠨᠣ᠋ ᠲᠧᠭᠨᠢᠭᠴᠢ	hinq' tEgnigci
 ᠺᠢᠨᠣᠹᠧᠰᠲ᠋ᠢᠸᠠᠯᠢ	kinqfEst'iwali
 ᠺᠢᠨᠣᠹᠢᠯᠢᠮ	kinqfilim
 ᠬᠢᠨᠣᠴᠢᠳ	hinqcid
@@ -38795,7 +38719,6 @@ use_preset_vocabulary: true
 ᠺᠣᠳ᠋ᠯᠠᠭᠤᠯᠬᠤ	kqd'lagvlhv
 ᠺᠣᠳ᠋ᠴᠢᠯᠠᠭᠳᠠᠬᠤ	kqd'cilagdahv
 ᠺᠣᠳ᠋ᠴᠢᠯᠠᠬᠤ	kqd'cilahv
-ᠺᠣᠺᠠᠨ ᠺᠣᠯᠠ	kqkan kqla
 ᠺᠣᠺᠠᠢᠨ	kqkain
 ᠺᠣᠺᠺᠣᠯᠢᠲ᠋	kqkkqlit
 ᠺᠣᠺᠰ	kqks
@@ -39050,7 +38973,6 @@ use_preset_vocabulary: true
 ᠯᠠᠪᠯᠠᠭᠤᠯᠬᠤ	lablagvlhv
 ᠯᠠᠪᠮᠠᠭ	labmag
 ᠯᠠᠪᠠᠷᠠᠬᠤ	labarahv
-ᠯᠠᠪᠠᠷᠢᠩ(ᠯᠠᠪᠷᠣᠩ)	labari;(labrq;)
 ᠯᠠᠪᠰᠠ	labsa
 ᠯᠠᠪᠰᠠᠭ᠎ᠠ	labsag-a
 ᠯᠠᠪᠰᠠᠬᠤ	labsahv
@@ -39350,13 +39272,13 @@ use_preset_vocabulary: true
 ᠯᠣᠩᠬᠣᠯᠠᠵᠠᠭᠠᠬᠤ	lq;hqlajagahv
 ᠯᠣᠩᠬᠣᠨᠴᠢᠷ	lq;hqncir
 ᠯᠣᠪᠤᠵᠠ	lqbvja
-ᠯᠣᠣᠶᠧ	lhqyE
-ᠯᠣᠣᠵᠢ	lhqji
-ᠯᠣᠣᠽᠣᠩᠨᠠᠬᠤ	lhqzq;nahv
-ᠯᠣᠣᠯᠠᠢ	lhqlai
-ᠯᠣᠣᠯᠢ	lhqli
-ᠯᠣᠣᠮ	lhqm
-ᠯᠣᠣᠮᠢ	lhqmi
+ᠯᠣᠣᠶᠧ	lqqyE
+ᠯᠣᠣᠵᠢ	lqqji
+ᠯᠣᠣᠽᠣᠩᠨᠠᠬᠤ	lqqzq;nahv
+ᠯᠣᠣᠯᠠᠢ	lqqlai
+ᠯᠣᠣᠯᠢ	lqqli
+ᠯᠣᠣᠮ	lqqm
+ᠯᠣᠣᠮᠢ	lqqmi
 ᠯᠣᠫᠣᠯᠢᠲ᠋	lqpqlit
 ᠯᠣᠲ᠋ᠣ᠋	lqt'q'
 ᠯᠣᠬᠣᠭᠣᠷ	lqhqgqr
@@ -39411,7 +39333,6 @@ use_preset_vocabulary: true
 ᠯᠤᠤᠯᠠᠢ	lvvlai
 ᠯᠠᠭᠤᠰᠬᠠᠨ᠎ᠠ	lagvshan-a
 ᠯᠤᠤᠲᠤ	lvvtv
-ᠯᠤᠤᠲᠤ ᠬᠦᠵᠢᠩ	lvvtv huji;
 ᠯᠤᠤᠬ᠎ᠠ	lvvq-a
 ᠯᠤᠤᠬᠠᠨ	lvvhan
 ᠯᠤᠤᠬᠠᠳᠠᠬᠤ	lvvhadahv
@@ -39793,7 +39714,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠯᠴᠢ	malci
 ᠮᠠᠯᠴᠢᠳ	malcid
 ᠮᠠᠯᠴᠢᠨ	malcin
-ᠮᠠᠯ ᠰᠢᠭ	mal sig
 ᠮᠠᠯᠢᠲ᠋ᠣᠽ	malit'qz
 ᠮᠠᠮᠤ	mamv
 ᠮᠠᠮᠮᠣᠨᠢᠽᠮ	mammqnizm
@@ -39804,7 +39724,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠨᠤ	manv
 ᠮᠠᠨᠠᠭ᠎ᠠ	manag-a
 ᠮᠠᠨᠠᠭᠠᠳᠠᠰᠤ	managadasv
-ᠮᠠᠨ᠎ ᠠᠴᠠ	man-aca
+ᠮᠠᠨ᠎ᠠᠴᠠ	man-aca
 ᠮᠠᠨᠠᠭᠠᠰᠤ	managasv
 ᠮᠠᠨᠠᠬᠠᠨ	manahan
 ᠮᠠᠨᠠᠭᠠᠴᠢ	managaci
@@ -39938,7 +39858,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠨᠤᠰ	manvs
 ᠮᠠᠨᠤᠤᠬᠠᠢ	manvvhai
 ᠮᠠᠨᠦ᠋ᠹᠠᠺᠲ᠋ᠦ᠋ᠷ	manu'fakt'u'r
-ᠮᠠᠨᠤᠬᠤ(ᠮᠠᠨᠤ)	manvhv(manv)
 ᠮᠠᠩᠬ᠎ᠠ	ma;q-a
 ᠮᠠᠩᠬᠠᠭ	ma;hag
 ᠮᠠᠩᠬᠠᠭᠯᠠᠬᠤ	ma;haglahv
@@ -40056,7 +39975,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠷᠮᠠᠷᠬᠢᠬᠦ	marmarhihu
 ᠮᠠᠷᠮᠠᠷᠬᠢᠴᠢᠬᠦ	marmarhicihu
 ᠮᠠᠷᠰ	mars
-ᠮᠠᠷᠰᠠᠭᠠᠨᠠ᠎ ᠬᠤ	marsagana-hv
 ᠮᠠᠷᠰᠠᠭᠠᠷ	marsagar
 ᠮᠠᠷᠰᠠᠢᠬᠤ	marsaihv
 ᠮᠠᠷᠰᠧᠯᠢᠧᠽ	marsEliEz
@@ -40075,8 +39993,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠷᠲᠠᠬᠤ	martahv
 ᠮᠠᠷᠲᠠᠵᠠᠭᠠᠬᠤ	martajagahv
 ᠮᠠᠷᠲ᠋ᠧᠨ	mart'En
-ᠮᠠᠷᠲᠠᠨᠢᠭᠤᠯᠬᠤ(ᠮᠠᠷᠲᠠᠩᠨᠢᠭᠤᠯᠬᠤ)	martanigvlhv(marta;nigvlhv)
-ᠮᠠᠷᠲᠠᠨᠢᠬᠤ(ᠮᠠᠷᠲᠠᠩᠨᠢᠬᠤ)	martanihv(marta;nihv)
 ᠮᠠᠷᠲᠠᠭᠤᠯᠬᠤ	martagvlhv
 ᠮᠠᠷᠲᠠᠭᠤᠰᠢᠲᠠᠢ	martagvsitai
 ᠮᠠᠷᠲᠠᠴᠢᠬᠤ	martacihv
@@ -40176,7 +40092,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠬᠢᠷᠯᠠᠬᠤ	mahirlahv
 ᠮᠠᠬᠢᠷᠠᠰᠤ	mahirasv
 ᠮᠠᠬᠢᠬᠤ	mahihv
-ᠮᠢᠬ᠎ᠠ ᠺᠣᠮᠪᠢᠨᠠᠲ᠋	miq-a kqmbinat
 ᠮᠢᠬᠠᠯᠢᠭ	mihalig
 ᠮᠢᠬᠠᠯᠠᠭᠳᠠᠬᠤ	mihalagdahv
 ᠮᠢᠬᠠᠯᠢᠭᠳᠠᠭᠤ	mihaligdagv
@@ -40248,13 +40163,11 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠧᠪᠧᠯ	mEbEl
 ᠮᠧᠭᠠᠪᠠᠷ	mEgabar
 ᠮᠧᠭᠠᠸᠠᠲ᠋	mEgawat
-ᠮᠧᠭᠠᠸᠠᠲ᠋ ᠴᠠᠭ	mEgawat' cag
 ᠮᠧᠭᠠᠭᠧᠷᠼ	mEgagErC
 ᠮᠧᠭᠠᠭᠷᠠᠮ	mEgagram
 ᠮᠧᠭᠠᠮᠧᠲ᠋ᠷ	mEgamEt'r
 ᠮᠧᠭᠠᠲ᠋ᠣᠨ	mEgat'qn
 ᠮᠧᠭᠠᠲ᠋ᠣᠨᠴᠢ	mEgat'qnci
-ᠮᠧᠭᠠ ᠡᠯᠧᠺᠲ᠋ᠷᠣᠨ	mEga elEkt'rqn
 ᠮᠧᠭᠭᠧᠷ	mEggEr
 ᠮᠧᠭᠣᠮ	mEgqm
 ᠮᠧᠳᠠᠯ	mEdal
@@ -40341,31 +40254,22 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠢᠢᠬᠡᠨ	miihen
 ᠮᠢᠺᠣᠪᠠᠺᠲ᠋ᠧᠷᠢ	mikqbakt'Eri
 ᠮᠢᠺᠣᠽ	mikqz
-ᠮᠢᠺᠷᠣ᠋ ᠠᠮᠫᠧᠷ	mikrq' ampEr
 ᠮᠢᠺᠷᠣᠪ	mikrqb
 ᠮᠢᠺᠷᠣᠪᠢᠧᠲ᠋	mikrqbiEt
 ᠮᠢᠺᠷᠣᠪᠢᠣᠯᠣᠭᠢ	mikrqbiqlqgi
 ᠮᠢᠺᠷᠣᠪᠢᠣᠯᠣᠭᠴᠢ	mikrqbiqlqgci
-ᠮᠢᠺᠷᠣ ᠪᠦᠲᠦᠴᠡ	mikrq butuce
-ᠮᠢᠺᠷᠣ ᠳᠣᠯᠭᠢᠶᠠᠨ	mikrq dqlgiyan
 ᠮᠢᠺᠷᠣᠺᠣᠮᠫᠢᠦ᠋ᠲ᠋ᠧᠷ	mikrqkqmpiu't'Er
 ᠮᠢᠺᠷᠣᠮᠧᠲ᠋ᠷ	mikrqmEt'r
 ᠮᠢᠺᠷᠣᠨ	mikrqn
-ᠮᠢᠺᠷᠣᠣᠷᠭᠠᠨᠢᠰᠮ	mikrhqrganism
+ᠮᠢᠺᠷᠣᠣᠷᠭᠠᠨᠢᠰᠮ	mikrqqrganism
 ᠮᠢᠺᠷᠣᠫᠷᠣᠼᠢᠰᠰᠣᠷ	mikrqprqCissqr
-ᠮᠢᠺᠷᠣ ᠷᠣᠮᠠᠨ	mikrq rqman
-ᠮᠢᠺᠷᠣ ᠰᠢᠰᠲ᠋ᠧᠮ	mikrq sist'Em
 ᠮᠢᠺᠷᠣᠰᠺᠣᠫ	mikrqskqp
 ᠮᠢᠺᠷᠣᠰᠺᠣᠫᠳᠠᠬᠤ	mikrqskqpdahv
 ᠮᠢᠺᠷᠣᠰᠣᠮ	mikrqsqm
-ᠮᠢᠺᠷᠣ ᠲᠧᠭᠨᠢᠭ	mikrq tEgnig
 ᠮᠢᠺᠷᠣᠲ᠋ᠣᠮ	mikrqt'qm
-ᠮᠢᠺᠷᠣ ᠹᠢᠯᠢᠮ	mikrq filim
 ᠮᠢᠺᠷᠣᠹᠢᠱᠢ	mikrqfixi
 ᠮᠢᠺᠷᠣᠹᠣᠨ	mikrqfqn
 ᠮᠢᠺᠷᠣᠬᠢᠮᠢ	mikrqhimi
-ᠮᠢᠺᠷᠣ ᠡᠧᠺᠲ᠋ᠷᠣᠨᠢᠺ	mikrq eEkt'rqnik
-ᠮᠢᠺᠷᠣ ᠡᠯᠧᠮᠧᠨ᠋ᠲ᠋	mikrq elEmEn't
 ᠮᠢᠺᠷᠦ᠋ᠷᠭᠢ	mikru'rgi
 ᠮᠢᠯ	mil
 ᠮᠢᠯᠡᠭᠡᠷ	mileger
@@ -40373,7 +40277,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠢᠯᠢᠲ᠋ᠠᠷᠢᠰᠲ᠋	milit'arist
 ᠮᠢᠯᠢᠲ᠋ᠠᠷᠢᠴᠢᠯᠠᠯ	milit'aricilal
 ᠮᠢᠯᠢᠲ᠋ᠠᠷᠢᠴᠢᠯᠠᠬᠤ	milit'aricilahv
-ᠮᠢᠯᠯᠢ ᠠᠮᠫᠧᠷ	milli ampEr
 ᠮᠢᠯᠢᠶᠠᠷᠳ᠋	miliyard'
 ᠮᠢᠯᠢᠪᠠᠷ	milibar
 ᠮᠢᠯᠢᠸᠠᠲ᠋	miliwat
@@ -40466,7 +40369,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠭᠠᠢᠷᠬᠠᠭᠤ	mqgairhagv
 ᠮᠣᠭᠠᠢᠴᠢ	mqgaici
 ᠮᠣᠭᠠᠢᠴᠢᠯᠠᠬᠤ	mqgaicilahv
-ᠮᠣᠭᠠᠢ ᠰᠢᠭ	mqgai sig
 ᠮᠣᠭᠣᠯᠵᠤᠤᠷ	mqgqljvvr
 ᠮᠣᠭᠣᠯᠴᠣᠭ	mqgqlcqg
 ᠮᠣᠭᠣᠯᠴᠣᠭᠲᠠᠢ	mqgqlcqgtai
@@ -40477,7 +40379,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠭᠴᠣᠢᠬᠤ	mqgcqyihv
 ᠮᠣᠭᠢᠰᠣᠬᠤ	mqgisqhv
 ᠮᠣᠳᠣ	mqdq
-ᠮᠣᠣᠳ᠋	mhqd'
+ᠮᠣᠣᠳ᠋	mqqd'
 ᠮᠣᠳᠧᠯ	mqdEl
 ᠮᠣᠳᠧᠯᠨᠢᠰᠮ	mqdElnism
 ᠮᠣᠳᠧᠯᠨᠢᠰᠲ᠋	mqdElnist
@@ -40595,7 +40497,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠨᠲᠣᠭᠣᠷ	mqntqgqr
 ᠮᠣᠨᠲᠣᠢᠯᠭᠠᠬᠤ	mqntqyilgahv
 ᠮᠣᠨᠲᠣᠢᠬᠤ	mqntqyihv
-ᠮᠣᠨᠲᠣᠣᠬᠠᠢ	mqnthqhai
+ᠮᠣᠨᠲᠣᠣᠬᠠᠢ	mqntqqhai
 ᠮᠣᠨᠲ᠋ᠶᠣᠷ	mqnt'yqr
 ᠮᠣᠨᠦ᠋ᠮᠧᠨ᠋ᠲ᠋ᠠᠯᠢ	mqnu'mEn't'ali
 ᠮᠣᠩᠬᠣᠭᠣᠨᠠᠬᠤ	mq;hqgqnahv
@@ -40637,9 +40539,9 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠣᠪᠢᠩ	mhqbi;
 ᠮᠣᠣᠳᠣᠭᠠᠨᠠᠭᠤᠯᠬᠤ	mhqdqganagvlhv
 ᠮᠣᠣᠳᠣᠭᠣᠷᠬᠠᠨ	mhqdqgqrhan
-ᠮᠣᠣᠳ᠋ᠯᠠᠬᠤ	mhqd'lahv
+ᠮᠣᠣᠳ᠋ᠯᠠᠬᠤ	mqqd'lahv
 ᠮᠣᠳᠣᠢᠬᠤ	mqdqyihv
-ᠮᠣᠣᠮ	mhqm
+ᠮᠣᠣᠮ	mqqm
 ᠮᠣᠷᠠᠯ	mqral
 ᠮᠣᠷᠭᠣ	mqrgq
 ᠮᠣᠷᠳᠠᠬᠤ	mqrdahv
@@ -40670,12 +40572,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠷᠢᠲᠠᠨ	mqritan
 ᠮᠣᠰᠲ᠋	mqst
 ᠮᠣᠲ᠋ᠣ᠋	mqt'q'
-ᠮᠣᠲ᠋ᠣ᠋ ᠪᠤᠤᠳᠠᠯᠭ᠎ᠠ	mqt'q' bvvdalg-a
-ᠮᠣᠲ᠋ᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭ	mqt'q' mEhanig
-ᠮᠣᠲ᠋ᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭᠵᠢᠯᠲᠠ	mqt'q' mEhanigjilta
-ᠮᠣᠲ᠋ᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭᠵᠢᠬᠤ	mqt'q' mEhanigjihv
-ᠮᠣᠲ᠋ᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭᠵᠢᠭᠤᠯᠤᠯᠲᠠ	mqt'q' mEhanigjigvlvlta
-ᠮᠣᠲ᠋ᠣ᠋ ᠮᠧᠬᠠᠨᠢᠭᠵᠢᠭᠤᠯᠬᠤ	mqt'q' mEhanigjigvlhv
 ᠮᠣᠲ᠋ᠣᠷ	mqt'qr
 ᠮᠣᠲ᠋ᠣᠷᠵᠢᠯᠲᠠ	mqt'qrjilta
 ᠮᠣᠲ᠋ᠣᠷᠵᠢᠬᠤ	mqt'qrjihv
@@ -40684,8 +40580,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠣᠲ᠋ᠣᠷᠲᠤ	mqt'qrtv
 ᠮᠣᠲ᠋ᠣᠷᠴᠢ	mqt'qrci
 ᠮᠣᠲ᠋ᠣᠷᠴᠢᠯᠠᠬᠤ	mqt'qrcilahv
-ᠮᠣᠲ᠋ᠣ᠋ ᠰᠫᠣᠷᠲ᠋	mqt'q' spqrt
-ᠮᠣᠲ᠋ᠣ᠋ ᠬᠤᠶᠠᠭᠲᠤ	mqt'q' hvyagtv
 ᠮᠣᠲ᠋ᠣᠼᠢᠺᠢᠯ	mqt'qCikil
 ᠮᠣᠲ᠋ᠣᠼᠢᠺᠯᠴᠢ	mqt'qCiklci
 ᠮᠣᠬᠣᠳᠠᠭ	mqhqdag
@@ -40803,7 +40697,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠤᠨᠠᠨᠴᠠᠷ	mvnancar
 ᠮᠤᠨᠠᠬᠤ	mvnahv
 ᠮᠤᠩᠭᠠᠨᠢᠬᠤ	mv;ganihv
-ᠮᠤᠩᠭᠢᠨᠠ(ᠮᠤᠩᠢᠨᠠᠭ᠎ᠠ)	mv;gina(mv;inag-a)
 ᠮᠤᠩᠭᠢᠨᠠᠯᠳᠤᠬᠤ	mv;ginaldvhv
 ᠮᠤᠩᠭᠢᠨᠠᠬᠤ	mv;ginahv
 ᠮᠤᠩᠭᠢᠨᠠᠵᠠᠭᠠᠬᠤ	mv;ginajagahv
@@ -40945,7 +40838,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠠᠭᠤᠰᠢᠶᠠᠬᠤ	magvsiyahv
 ᠮᠠᠭᠤᠰᠢᠶᠠᠵᠠᠭᠠᠬᠤ	magvsiyajagahv
 ᠮᠠᠭᠤᠰᠢᠶᠠᠴᠢᠬᠤ	magvsiyacihv
-ᠮᠠᠭᠤ ᠰᠢᠭ	magv sig
 ᠮᠦᠹᠲ᠋	muft
 ᠮᠤᠬᠤᠷ	mvhvr
 ᠮᠤᠬᠤᠷᠳᠠᠯ	mvhvrdal
@@ -41283,13 +41175,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠡᠲᠡᠭᠡᠭᠡᠴᠢ	metegegeci
 ᠮᠡᠲᠡᠭᠡᠭᠦᠯᠬᠦ	metegegulhu
 ᠮᠡᠲᠡᠢᠯᠭᠡᠬᠦ	meteilgehu
-ᠮᠡᠲᠦ᠎ ᠶᠢᠨ	metu-yin
+ᠮᠡᠲᠦ᠎ᠶᠢᠨ	metu-yin
 ᠮᠡᠲᠡᠢᠬᠦ	meteihu
 ᠮᠡᠲᠦᠬᠡᠨ	metuhen
 ᠮᠡᠲᠦᠴᠢᠯᠡᠨ	metucilen
-ᠮᠡᠲᠦ ᠰᠢᠭ	metu sig
 ᠮᠡᠲᠦᠷᠬᠡᠦ	meturheu
-ᠮᠡᠲᠦ᠎ ᠪᠡᠷ	metu-ber
+ᠮᠡᠲᠦ᠎ᠪᠡᠷ	metu-ber
 ᠮᠡᠬᠡ	mehe
 ᠮᠡᠬᠦᠭᠡᠷ	mehuger
 ᠮᠡᠬᠦᠭᠡᠷᠳᠡᠬᠦ	mehugerdehu
@@ -41361,16 +41252,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠢᠯᠴᠠᠢᠬᠤ	milcaihv
 ᠮᠢᠩᠭ᠎ᠠ	mi;g-a
 ᠮᠢᠩᠭᠠᠭᠠᠳ	mi;gagad
-ᠮᠢᠩᠭᠠᠨ ᠠᠮᠫᠧᠷ	mi;gan ampEr
-ᠮᠢᠩᠭᠠᠨ ᠸᠣᠯᠲ᠋	mi;gan wqlt
-ᠮᠢᠩᠭᠠᠨ ᠸᠠᠲ᠋	mi;gan wat
-ᠮᠢᠩᠭᠠᠨ ᠾᠧᠷᠼ	mi;gan HErC
 ᠮᠢᠩᠭᠠᠲᠤ	mi;gatv
 ᠮᠢᠩᠭᠤᠵᠢᠨ	mi;gvjin
 ᠮᠢᠨᠳᠠᠭ	mindag
 ᠮᠢᠨᠳᠠᠭᠯᠠᠬᠤ	mindaglahv
 ᠮᠢᠨᠳᠠᠭᠲᠠᠨ	mindagtan
-ᠮᠢᠨᠳᠠᠭᠲᠠᠨ᠎ ᠨᠤᠭᠤᠳ	mindagtan-nvgvd
+ᠮᠢᠨᠳᠠᠭᠲᠠᠨ᠎ᠨᠤᠭᠤᠳ	mindagtan-nvgvd
 ᠮᠢᠨᠳᠠᠨᠢᠭ	mindanig
 ᠮᠢᠨᠳᠠᠰᠤ	mindasv
 ᠮᠢᠨᠳᠠᠰᠤᠯᠢᠭ	mindasvlig
@@ -41380,7 +41267,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠢᠨᠳᠠᠰᠤᠷᠬᠠᠭᠤ	mindasvrhagv
 ᠮᠢᠨᠲᠤᠤᠵᠠ	mintvvja
 ᠮᠢᠨᠴᠤ	mincv
-ᠮᠢᠶᠣᠣ	miyhq
+ᠮᠢᠶᠣᠣ	miyqq
 ᠮᠢᠷᠠᠭ᠎ᠠ	mirag-a
 ᠮᠢᠷᠢᠶᠠᠯᠭᠠᠬᠤ	miriyalgahv
 ᠮᠢᠷᠢᠶᠠᠯᠢᠭ	miriyalig
@@ -41509,7 +41396,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠥᠩᠭᠥᠯᠡᠭᠳᠡᠬᠦ	mo;golegdehu
 ᠮᠥᠩᠭᠥᠯᠡᠬᠦ	mo;golehu
 ᠮᠥᠩᠭᠥᠲᠦ	mo;gotu
-ᠮᠥᠩᠭᠥ ᠬᠦᠦᠯᠡᠭᠴᠢᠳ	mo;go huulegcid
 ᠮᠥᠩᠭᠥᠴᠢ	mo;goci
 ᠮᠥᠨᠳᠥᠢᠯᠡᠬᠦ	mondoilehu
 ᠮᠥᠨᠳᠥᠢᠬᠦ	mondoihu
@@ -41588,7 +41474,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠥᠷᠥᠯᠡᠴᠢᠬᠦ	morolecihu
 ᠮᠥᠷᠲᠡᠯ᠎ᠡ	mortel-e
 ᠮᠥᠷᠲᠡᠭᠡᠨ	mortegen
-ᠮᠥᠷ᠎ ᠲᠡᠭᠡᠨ	mor-tegen
+ᠮᠥᠷ᠎ᠲᠡᠭᠡᠨ	mor-tegen
 ᠮᠥᠷᠴᠡᠭᠡᠬᠡᠢ	morcegehei
 ᠮᠥᠷᠴᠢ	morci
 ᠮᠥᠷᠥᠪᠴᠢ	morobci
@@ -41613,7 +41499,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠥᠷᠥᠭᠡᠳᠬᠦ	morogedhu
 ᠮᠥᠷᠥᠭᠡᠳᠴᠡᠭᠡᠬᠦ	morogedcegehu
 ᠮᠥᠷᠥᠭᠡᠯ	morogel
-ᠮᠥᠷ᠎ ᠢᠶᠡᠷ	mor-iyer
+ᠮᠥᠷ᠎ᠢᠶᠡᠷ	mor-iyer
 ᠮᠥᠷᠥᠭᠡᠰᠦᠯ	morogesul
 ᠮᠥᠰᠥ	moso
 ᠮᠥᠰᠥᠳᠥᠯᠭᠡ	mosodolge
@@ -41713,7 +41599,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠮᠥᠴᠢᠭᠦᠳᠡᠭᠦᠯᠬᠦ	mocigudegulhu
 ᠮᠥᠴᠢᠭᠦᠯᠬᠦ	mocigulhu
 ᠮᠥᠴᠢᠭᠦᠬᠡᠨ	mociguhen
-ᠮᠥᠴᠡᠭᠡ᠎ ᠪᠡᠨ	mocege-ben
+ᠮᠥᠴᠡᠭᠡ᠎ᠪᠡᠨ	mocege-ben
 ᠮᠥᠴᠡᠭᠡᠷᠬᠡᠦ	mocegerheu
 ᠮᠥᠴᠡᠭᠡᠷᠬᠡᠭᠦᠯᠬᠦ	mocegerhegulhu
 ᠮᠥᠴᠡᠭᠡᠷᠬᠡᠯ	mocegerhel
@@ -41876,7 +41762,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠠᠪᠰᠠᠭᠠᠷᠬᠠᠨ	nabsagarhan
 ᠨᠠᠪᠰᠠᠭᠠᠰᠬᠢᠬᠦ	nabsagashihu
 ᠨᠠᠪᠲᠠᠭ	nabtag
-ᠨᠠᠪᠲᠠᠭ ᠬᠢᠬᠦ	nabtag hihu
 ᠨᠠᠪᠲᠠᠢᠯᠭᠠᠬᠤ	nabtailgahv
 ᠨᠠᠪᠲᠠᠢᠮᠠᠯ	nabtaimal
 ᠨᠠᠪᠲᠠᠢᠬᠤ	nabtaihv
@@ -42747,7 +42632,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠢᠳᠬᠡᠭᠡᠷᠢ	neidhegeri
 ᠨᠡᠢᠳᠬᠡᠭᠡᠰᠦ	neidhegesu
 ᠨᠡᠢᠳᠬᠡᠭᠦᠯᠬᠦ	neidhegulhu
-ᠨᠡᠢᠲᠡ᠎ ᠳᠡᠭᠡᠨ	neite-degen
+ᠨᠡᠢᠲᠡ᠎ᠳᠡᠭᠡᠨ	neite-degen
 ᠨᠡᠢᠲᠡᠯᠢᠭ	neitelig
 ᠨᠡᠢᠲᠡᠯᠡᠭᠳᠡᠬᠦ	neitelegdehu
 ᠨᠡᠢᠲᠡᠯᠡᠭᠴᠢ	neitelegci
@@ -42792,7 +42677,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠢᠺᠣᠲ᠋ᠢᠨ	nikqt'in
 ᠨᠢᠯ	nil
 ᠨᠢᠯᠦ	nilu
-ᠨᠢᠯ᠎ ᠳᠡᠭᠡᠨ	nil-degen
+ᠨᠢᠯ᠎ᠳᠡᠭᠡᠨ	nil-degen
 ᠨᠢᠯᠬᠢᠬᠦ	nilhihu
 ᠨᠢᠯᠴᠢᠭᠢᠨᠡᠮ᠎ᠡ	nilciginem-e
 ᠨᠢᠯᠴᠢᠭᠢᠨᠡᠬᠦ	nilciginehu
@@ -43068,7 +42953,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠣᠩᠭᠢᠰᠣ	nq;gisq
 ᠨᠣᠨᠢᠭᠤᠰ	nqnigvs
 ᠨᠣᠩᠨᠣᠢ	nq;nqi
-ᠨᠣᠣᠭ	nhqg
+ᠨᠣᠣᠭ	nqqg
 ᠨᠣᠵᠣᠭᠣᠢ	nqjqgqi
 ᠨᠣᠯᠭᠣᠷ	nqlgqr
 ᠨᠣᠯᠣᠭᠳᠠᠬᠤ	nqlqgdahv
@@ -43086,40 +42971,40 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠣᠯᠣᠵᠠᠭᠠᠬᠤ	nqlqjagahv
 ᠨᠣᠯᠣᠴᠢᠬᠤ	nqlqcihv
 ᠨᠣᠯᠣᠢ	nqlqi
-ᠨᠣᠣᠮᠣᠢ	nhqmqi
+ᠨᠣᠣᠮᠣᠢ	nqqmqi
 ᠨᠣᠷᠮᠠᠲᠤ	nqrmatv
-ᠨᠣᠣᠷᠠᠭ	nhqrag
-ᠨᠣᠣᠷᠠᠭᠯᠠᠬᠤ	nhqraglahv
+ᠨᠣᠣᠷᠠᠭ	nqqrag
+ᠨᠣᠣᠷᠠᠭᠯᠠᠬᠤ	nqqraglahv
 ᠨᠣᠤᠷᠠᠭᠯᠠᠭᠤᠯᠬᠤ	nhvraglagvlhv
-ᠨᠣᠣᠷᠠᠢᠬᠤ	nhqraihv
-ᠨᠣᠣᠷᠠᠯᠳᠤᠬᠤ	nhqraldvhv
+ᠨᠣᠣᠷᠠᠢᠬᠤ	nqqaihv
+ᠨᠣᠣᠷᠠᠯᠳᠤᠬᠤ	nqqaldvhv
 ᠨᠣᠷᠮ᠎ᠠ	nqrm-a
-ᠨᠣᠣᠷᠠᠩᠬᠠᠢ	nhqra;hai
-ᠨᠣᠣᠷᠠᠬᠤ	nhqrahv
-ᠨᠣᠣᠷᠰᠣ	nhqrsq
-ᠨᠣᠣᠷᠰᠣᠭᠠᠨ᠎ᠠ	nhqrsqgan-a
-ᠨᠣᠣᠷᠠᠭᠤᠯᠬᠤ	nhqragvlhv
-ᠨᠣᠣᠷᠬᠠᠢ	nhqrhai
-ᠨᠣᠣᠷᠬᠠᠢᠲᠤᠬᠤ	nhqrhaitvhv
-ᠨᠣᠣᠷᠬᠠᠢᠴᠤᠳ	nhqrhaicvd
-ᠨᠣᠣᠰᠣ	nhqsq
-ᠨᠣᠣᠰᠣᠯᠠᠭᠳᠠᠬᠤ	nhqsqlagdahv
-ᠨᠣᠣᠰᠣᠯᠠᠯᠴᠠᠬᠤ	nhqsqlalcahv
-ᠨᠣᠣᠰᠣᠯᠠᠬᠤ	nhqsqlahv
-ᠨᠣᠣᠰᠣᠯᠠᠭᠤᠯᠬᠤ	nhqsqlagvlhv
-ᠨᠣᠣᠰᠣᠯᠠᠵᠠᠭᠠᠬᠤ	nhqsqlajagahv
-ᠨᠣᠣᠰᠣᠷᠬᠠᠭ	nhqsqrhag
-ᠨᠣᠣᠰᠣᠷᠬᠠᠭᠤ	nhqsqrhagv
-ᠨᠣᠣᠰᠣᠷᠠᠬᠤ	nhqsqrahv
-ᠨᠣᠣᠰᠣᠷᠠᠭᠤᠯᠬᠤ	nhqsqragvlhv
+ᠨᠣᠣᠷᠠᠩᠬᠠᠢ	nqqa;hai
+ᠨᠣᠣᠷᠠᠬᠤ	nqqahv
+ᠨᠣᠣᠷᠰᠣ	nqqsq
+ᠨᠣᠣᠷᠰᠣᠭᠠᠨ᠎ᠠ	nqqsqgan-a
+ᠨᠣᠣᠷᠠᠭᠤᠯᠬᠤ	nqqagvlhv
+ᠨᠣᠣᠷᠬᠠᠢ	nqqhai
+ᠨᠣᠣᠷᠬᠠᠢᠲᠤᠬᠤ	nqqhaitvhv
+ᠨᠣᠣᠷᠬᠠᠢᠴᠤᠳ	nqqhaicvd
+ᠨᠣᠣᠰᠣ	nqqq
+ᠨᠣᠣᠰᠣᠯᠠᠭᠳᠠᠬᠤ	nqqqlagdahv
+ᠨᠣᠣᠰᠣᠯᠠᠯᠴᠠᠬᠤ	nqqqlalcahv
+ᠨᠣᠣᠰᠣᠯᠠᠬᠤ	nqqqlahv
+ᠨᠣᠣᠰᠣᠯᠠᠭᠤᠯᠬᠤ	nqqqlagvlhv
+ᠨᠣᠣᠰᠣᠯᠠᠵᠠᠭᠠᠬᠤ	nqqqlajagahv
+ᠨᠣᠣᠰᠣᠷᠬᠠᠭ	nqqqrhag
+ᠨᠣᠣᠰᠣᠷᠬᠠᠭᠤ	nqqqrhagv
+ᠨᠣᠣᠰᠣᠷᠠᠬᠤ	nqqqrahv
+ᠨᠣᠣᠰᠣᠷᠠᠭᠤᠯᠬᠤ	nqqqragvlhv
 ᠨᠣᠲ᠋	nqt
 ᠨᠣᠲᠠᠯᠠᠯ	nqtalal
 ᠨᠣᠲᠠᠯᠠᠬᠤ	nqtalahv
 ᠨᠣᠲᠠᠯᠠᠭᠤᠯᠬᠤ	nqtalagvlhv
-ᠨᠣᠣᠬᠠᠢ	nhqhai
-ᠨᠣᠣᠬᠠᠢᠯᠠᠭᠳᠠᠬᠤ	nhqhailagdahv
-ᠨᠣᠣᠬᠠᠢᠯᠠᠬᠤ	nhqhailahv
-ᠨᠣᠣᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ	nhqhailagvlhv
+ᠨᠣᠣᠬᠠᠢ	nqqhai
+ᠨᠣᠣᠬᠠᠢᠯᠠᠭᠳᠠᠬᠤ	nqqhailagdahv
+ᠨᠣᠣᠬᠠᠢᠯᠠᠬᠤ	nqqhailahv
+ᠨᠣᠣᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ	nqqhailagvlhv
 ᠨᠣᠷᠠᠳ᠋ᠷᠧᠨᠠᠯᠢᠨ	nqrad'rEnalin
 ᠨᠣᠷᠭᠠᠬᠤ	nqrgahv
 ᠨᠣᠷᠭᠠᠭᠤᠯᠬᠤ	nqrgagvlhv
@@ -43151,7 +43036,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠣᠲᠠᠯᠭᠠᠵᠢᠭᠤᠯᠬᠤ	nqtalgajigvlhv
 ᠨᠣᠲᠠᠯᠠᠵᠠᠭᠠᠬᠤ	nqtalajagahv
 ᠨᠣᠲᠠᠯᠠᠴᠢᠬᠤ	nqtalacihv
-ᠨᠣᠦ᠋ ᠬᠠᠦ᠋	nhu' hau'
 ᠨᠣᠬᠤ	nqhv
 ᠨᠣᠬᠢᠯᠠᠬᠤ	nqhilahv
 ᠨᠣᠬᠢᠶᠠᠲᠤᠬᠤ	nqhiyatvhv
@@ -43657,7 +43541,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠩᠵᠢᠭᠦᠯᠬᠦ	ne;jigulhu
 ᠨᠡᠭᠡᠯᠢ	negeli
 ᠨᠢᠭᠡᠮᠦᠰᠦᠨ	nigemusun
-ᠨᠢᠭᠡᠨ᠋᠎ ᠡ	nigen'-e
 ᠨᠢᠭᠡᠰᠬᠡᠯ	nigeshel
 ᠨᠢᠭᠡᠰᠬᠦ	nigeshu
 ᠨᠢᠭᠡᠲᠦ	nigetu
@@ -43685,12 +43568,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠯᠪᠡᠭᠡᠷ	nelbeger
 ᠨᠡᠯᠦᠭᠡᠷ	neluger
 ᠨᠡᠯᠦᠭᠡᠷᠬᠡᠨ	nelugerhen
-ᠨᠡᠯᠦ᠎ ᠳᠦ	nelu-du
+ᠨᠡᠯᠦ᠎ᠳᠦ	nelu-du
 ᠨᠡᠯᠳᠡᠭᠡᠨᠡᠬᠦ	neldegenehu
 ᠨᠡᠯᠳᠡᠭᠡᠷ	neldeger
 ᠨᠡᠯᠳᠡᠢᠯᠭᠡᠬᠦ	neldeilgehu
 ᠨᠡᠯᠳᠡᠢᠬᠦ	neldeihu
-ᠨᠡᠯᠦ᠎ ᠳᠡᠭᠡᠨ	nelu-degen
+ᠨᠡᠯᠦ᠎ᠳᠡᠭᠡᠨ	nelu-degen
 ᠨᠡᠯᠦᠢ	nelui
 ᠨᠡᠯᠦᠢᠯᠭᠡᠬᠦ	neluilgehu
 ᠨᠡᠯᠦᠢᠬᠦ	neluihu
@@ -43706,7 +43589,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠯᠬᠡᠭᠡᠷ	nelheger
 ᠨᠡᠯᠬᠡᠢᠯᠭᠡᠬᠦ	nelheilgehu
 ᠨᠡᠯᠬᠡᠢᠬᠦ	nelheihu
-ᠨᠡᠯ ᠬᠢᠬᠦ	nel hihu
 ᠨᠡᠯᠦᠯᠵᠡᠬᠦ	neluljehu
 ᠨᠡᠯᠦᠯᠵᠡᠭᠦᠯᠬᠦ	neluljegulhu
 ᠨᠡᠯᠦᠩᠬᠡᠢ	nelu;hei
@@ -43789,7 +43671,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠷᠡᠯᠡᠪᠦᠷᠢ	nereleburi
 ᠨᠡᠷᠡᠯᠡᠭᠳᠡᠬᠦ	nerelegdehu
 ᠨᠡᠷᠡᠯᠡᠯ	nerelel
-ᠨᠡᠷᠡᠯᠡᠯ ᠵᠦᠢ	nerelel jui
 ᠨᠡᠷᠡᠯᠡᠬᠦ	nerelehu
 ᠨᠡᠷᠡᠯᠬᠡᠭ	nerelheg
 ᠨᠡᠷᠡᠯᠬᠡᠯ	nerelhel
@@ -44040,7 +43921,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠢᠷᠠᠢᠯᠠᠴᠢᠬᠤ	nirailacihv
 ᠨᠢᠷᠠᠢᠬᠠᠨ	niraihan
 ᠨᠢᠷᠳ᠋ᠬᠢᠯᠭᠡᠬᠦ	nird'hilgehu
-ᠨᠢᠷᠳ᠋ᠬᠢᠬᠦ(ᠨᠢᠷᠳ᠋ ᠬᠢᠬᠦ)	nird'hihu(nird' hihu)
 ᠨᠢᠷᠠᠭᠤᠯᠠᠭ	niragvlag
 ᠨᠢᠷᠠᠭᠤᠬᠠᠨ	niragvhan
 ᠨᠢᠷᠬᠢᠯᠭᠡᠬᠦ	nirhilgehu
@@ -44113,7 +43993,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠦᠳᠦᠯᠳᠡᠬᠦ	nuduldehu
 ᠨᠢᠳᠦᠯᠡᠵᠡᠭᠡᠬᠦ	nidulejegehu
 ᠨᠢᠳᠦᠨᠴᠡᠷ	niduncer
-ᠨᠢᠳᠦᠨ ᠴᠡᠴᠡᠭ	nidun ceceg
 ᠨᠦᠳᠦᠬᠦ	nuduhu
 ᠨᠦᠳᠦᠵᠡᠭᠡᠬᠦ	nudujegehu
 ᠨᠦᠳᠦᠭᠡᠴᠢᠨ	nudugecin
@@ -44204,7 +44083,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠨᠡᠭᠦᠷᠡᠰᠦᠲᠦᠰᠦ	neguresutusu
 ᠨᠡᠭᠦᠷᠡᠰᠦᠲᠦᠬᠦ	neguresutuhu
 ᠨᠡᠭᠦᠷᠡᠰᠦᠲᠥ᠋ᠷᠦᠭᠴᠢ	neguresuto'rugci
-ᠨᠡᠭᠦᠷᠡᠰᠤᠰᠤ	negures vsv
 ᠨᠡᠭᠦᠷᠡᠰᠦ᠎ᠬᠦ᠋ᠴᠢᠯ	neguresu-hu'cil
 ᠨᠡᠭᠦᠷᠡᠰᠦᠴᠢ	neguresuci
 ᠨᠡᠭᠦᠷᠡᠰᠦᠰᠢᠬᠦ	neguresusihu
@@ -44425,8 +44303,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠪᠣᠯᠵᠠᠭᠤᠷ	qbqljagvr
 ᠣᠪᠣᠩ	qbq;
 ᠣᠪᠣᠭ᠎ᠠ	qbqg-a
-ᠣᠪᠣᠣ	qbhq
-ᠣᠪᠣᠣᠳᠠᠢ	qbhqdai
+ᠣᠪᠣᠣ	qbqq
+ᠣᠪᠣᠣᠳᠠᠢ	qbqqdai
 ᠣᠪᠣᠭᠠᠳᠠᠬᠤ	qbqgadahv
 ᠣᠪᠣᠭᠠᠯᠭ᠎ᠠ	qbqgalg-a
 ᠣᠪᠣᠭᠠᠯᠠᠭᠠᠲᠠᠢ	qbqgalagatai
@@ -44622,7 +44500,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠳᠣᠨ	qdqn
 ᠣᠳᠧᠺᠣᠯᠣᠨ	qdEkqlqn
 ᠣᠳᠧᠶᠠᠯ	qdEyal
-ᠣᠳᠣ ᠵᠦᠢ	qdq jui
 ᠣᠳᠣᠯᠢᠭ	qdqlig
 ᠣᠳᠣᠯᠠᠬᠤ	qdqlahv
 ᠣᠳᠣᠭᠰᠠᠳ	qdqgsad
@@ -44636,7 +44513,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠳᠣᠨᠴᠤᠤ	qdqncvv
 ᠣᠳᠣ	qdq
 ᠣᠳᠣᠬᠠᠨ	qdqhan
-ᠣᠳᠣᠬᠠᠨ᠎ ᠳᠠᠭᠠᠨ	qdqhan-dagan
+ᠣᠳᠣᠬᠠᠨ᠎ᠳᠠᠭᠠᠨ	qdqhan-dagan
 ᠣᠳᠣᠬᠢ	qdqhi
 ᠣᠳᠣᠴᠢᠯᠠᠬᠤ	qdqcilahv
 ᠣᠳᠣᠴᠢᠯᠠᠭᠤᠯᠬᠤ	qdqcilagvlhv
@@ -44663,7 +44540,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠢ	qi
 ᠣᠢᠪᠣᠷᠭᠠᠨ	qyibqrgan
 ᠣᠢᠪᠣᠷᠠᠬᠤ	qyibqrahv
-ᠣᠢᠳ ᠴᠣᠢᠳ	qyid cqyid
 ᠣᠢᠵᠢᠬᠤ	qyijihv
 ᠣᠢᠵᠢᠭᠤᠯᠤᠯᠲᠠ	qyijigvlvlta
 ᠣᠢᠵᠢᠭᠤᠯᠬᠤ	qyijigvlhv
@@ -44704,13 +44580,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠢᠮᠣᠰᠣ	qyimqsq
 ᠣᠢᠮᠣᠬᠠᠨ	qyimqhan
 ᠣᠢᠷ᠎ᠠ	qyir-a
-ᠣᠢᠷ᠎ᠠ᠎ ᠳᠠᠭᠠᠨ	qyir-a-dagan
+ᠣᠢᠷ᠎ᠠ᠎ᠳᠠᠭᠠᠨ	qyir-a-dagan
 ᠣᠢᠷᠠᠳᠠᠬᠤ	qyiradahv
 ᠣᠢᠷᠠᠳᠠᠭᠤᠯᠬᠤ	qyiradagvlhv
 ᠣᠢᠷᠠᠳᠠᠴᠢᠬᠤ	qyiradacihv
 ᠣᠢᠷᠠᠮᠠᠭ	qyiramag
 ᠣᠢᠷᠠᠮᠠᠭᠬᠠᠨ	qyiramaghan
-ᠣᠢᠷᠠᠨᠠᠰᠠ(ᠣᠢᠷ᠎ᠠ᠎ ᠠᠴᠠ)	qyiranasa(qyir-a-aca)
 ᠣᠢᠷᠠᠪᠲᠤᠷ	qyirabtvr
 ᠣᠢᠷᠠᠯᠴᠠᠭ᠎ᠠ	qyiralcag-a
 ᠣᠢᠷᠠᠯᠴᠠᠭᠠᠬᠢ	qyiralcagahi
@@ -44877,11 +44752,11 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠯᠠᠨ	qlan
 ᠣᠯᠣᠩᠭᠣᠳᠣᠢ	qlq;gqdqi
 ᠣᠯᠣᠩᠳᠠᠢ	qlq;dai
-ᠣᠯᠠᠨ᠎ ᠳᠠᠭᠠᠨ	qlan-dagan
+ᠣᠯᠠᠨ᠎ᠳᠠᠭᠠᠨ	qlan-dagan
 ᠣᠯᠠᠨᠯᠢᠭ	qlanlig
 ᠣᠯᠠᠨᠲᠠ	qlanta
 ᠣᠯᠠᠩᠬᠢ	qla;hi
-ᠣᠯᠠᠩᠬᠢ᠎ ᠳᠠᠭᠠᠨ	qla;hi-dagan
+ᠣᠯᠠᠩᠬᠢ᠎ᠳᠠᠭᠠᠨ	qla;hi-dagan
 ᠣᠯᠣᠨᠴᠣ	qlqncq
 ᠣᠯᠣᠩᠴᠣᠭ	qlq;cqg
 ᠣᠯᠣᠩᠴᠣᠷ	qlq;cqr
@@ -44934,9 +44809,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠮᠣᠭᠷᠠᠬᠠᠭᠤ	qmqgrahagv
 ᠣᠮᠣᠭᠣᠰ	qmqgqs
 ᠣᠮᠯᠠᠭᠤᠷ	qmlagvr
-ᠣᠮ ᠮᠧᠲ᠋ᠷ	qm mEt'r
 ᠣᠮᠣᠭ	qmqg
-ᠣᠮᠣᠭ(ᠣᠪᠣᠭ)	qmqg(qbqg)
 ᠣᠮᠣᠭᠳᠠᠭᠳᠠᠬᠤ	qmqgdagdahv
 ᠣᠮᠣᠭᠳᠠᠩᠭᠤᠢ	qmqgda;gvi
 ᠣᠮᠣᠭᠳᠠᠬᠤ	qmqgdahv
@@ -45048,20 +44921,20 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠨᠳᠣᠯᠢ	qndqli
 ᠣᠨᠳᠣᠯᠵᠠᠬᠤ	qndqljahv
 ᠣᠨᠳᠣᠯᠵᠠᠭᠤᠯᠬᠤ	qndqljagvlhv
-ᠣᠨᠳᠣᠣ	qndhq
-ᠣᠨᠳᠣᠣᠪᠲᠣᠷ	qndhqbtqr
-ᠣᠨᠳᠣᠣᠵᠢᠯ	qndhqjil
-ᠣᠨᠳᠣᠣᠯᠠᠬᠤ	qndhqlahv
-ᠣᠨᠳᠣᠣᠯᠠᠭᠤᠯᠬᠤ	qndhqlagvlhv
-ᠣᠨᠳᠣᠣᠷᠬᠠᠬᠤ	qndhqrhahv
-ᠣᠨᠳᠣᠣᠰᠢᠭ	qndhqsig
-ᠣᠨᠳᠣᠣᠰᠢᠭᠴᠢ	qndhqsigci
-ᠣᠨᠳᠣᠣᠰᠢᠯ	qndhqsil
-ᠣᠨᠳᠣᠣᠰᠢᠬᠤ	qndhqsihv
-ᠣᠨᠳᠣᠣᠰᠢᠷᠠᠬᠤ	qndhqsirahv
-ᠣᠨᠳᠣᠣᠰᠢᠭᠤᠯᠤᠭᠴᠢ	qndhqsigvlvgci
-ᠣᠨᠳᠣᠣᠰᠢᠭᠤᠯᠬᠤ	qndhqsigvlhv
-ᠣᠨᠳᠣᠣᠰᠢᠴᠢᠬᠤ	qndhqsicihv
+ᠣᠨᠳᠣᠣ	qndqq
+ᠣᠨᠳᠣᠣᠪᠲᠣᠷ	qndqqbtqr
+ᠣᠨᠳᠣᠣᠵᠢᠯ	qndqqjil
+ᠣᠨᠳᠣᠣᠯᠠᠬᠤ	qndqqlahv
+ᠣᠨᠳᠣᠣᠯᠠᠭᠤᠯᠬᠤ	qndqqlagvlhv
+ᠣᠨᠳᠣᠣᠷᠬᠠᠬᠤ	qndqqrhahv
+ᠣᠨᠳᠣᠣᠰᠢᠭ	qndqqsig
+ᠣᠨᠳᠣᠣᠰᠢᠭᠴᠢ	qndqqsigci
+ᠣᠨᠳᠣᠣᠰᠢᠯ	qndqqsil
+ᠣᠨᠳᠣᠣᠰᠢᠬᠤ	qndqqsihv
+ᠣᠨᠳᠣᠣᠰᠢᠷᠠᠬᠤ	qndqqsirahv
+ᠣᠨᠳᠣᠣᠰᠢᠭᠤᠯᠤᠭᠴᠢ	qndqqsigvlvgci
+ᠣᠨᠳᠣᠣᠰᠢᠭᠤᠯᠬᠤ	qndqqsigvlhv
+ᠣᠨᠳᠣᠣᠰᠢᠴᠢᠬᠤ	qndqqsicihv
 ᠣᠨᠳᠣᠷᠠᠬᠤ	qndqrahv
 ᠣᠨᠳᠣᠰ	qndqs
 ᠣᠨᠳᠣᠴᠢᠬᠤ	qndqcihv
@@ -45156,8 +45029,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠨᠲᠠᠢ	qntai
 ᠣᠨᠲᠣᠢᠰᠬᠤ	qntqyishv
 ᠣᠨᠲᠣᠳᠬᠤ	qntqdhv
-ᠣᠨ ᠲᠤᠰᠤᠮ᠎ᠠ	qn tvsvm-a
-ᠣᠨ ᠲᠤᠰᠬᠤ	qn tvshv
 ᠣᠨᠣᠭᠤᠯᠬᠤ	qnqgvlhv
 ᠣᠩᠬᠣ	q;hq
 ᠣᠩᠬᠣᠭᠣᠷ	q;hqgqr
@@ -45221,9 +45092,9 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠨᠢᠰᠣᠲᠠᠨ	qnisqtan
 ᠣᠨᠣᠴᠢᠲᠠᠢ	qnqcitai
 ᠣ	q
-ᠣᠣ	hq
-ᠣᠣᠭ	hqg
-ᠣᠣᠭᠣᠳᠠᠴᠢ	hqgqdaci
+ᠣᠣ	qq
+ᠣᠣᠭ	qqg
+ᠣᠣᠭᠣᠳᠠᠴᠢ	qqgqdaci
 ᠣᠭᠣᠳᠣᠭᠣᠨᠠᠬᠤ	qgqdqgqnahv
 ᠣᠭᠣᠳᠣᠨᠠᠵᠠᠭᠠᠬᠤ	qgqdqnajagahv
 ᠣᠭᠣᠳᠣᠭ	qgqdqg
@@ -45241,24 +45112,24 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠭᠣᠳᠣᠩᠲᠣᠭᠤᠯᠬᠤ	qgqdq;tqgvlhv
 ᠣᠭᠣᠳᠣᠷᠬᠤ	qgqdqrhv
 ᠣᠭᠣᠳᠣᠷᠣᠭᠤᠯᠬᠤ	qgqdqrqgvlhv
-ᠣᠣᠯᠭᠠᠷ	hqlgar
-ᠣᠣᠯᠢᠬᠠᠢ	hqlihai
+ᠣᠣᠯᠭᠠᠷ	qqlgar
+ᠣᠣᠯᠢᠬᠠᠢ	qqlihai
 ᠣᠭᠣᠯᠢᠳᠠᠬᠤ	qgqlidahv
 ᠣᠭᠣᠯᠢᠳᠠᠭᠤᠯᠬᠤ	qgqlidagvlhv
 ᠣᠭᠣᠯᠢᠳᠠᠴᠢᠬᠤ	qgqlidacihv
-ᠣᠣᠷ	hqr
-ᠣᠣᠷᠬᠠᠢ	hqrhai
-ᠣᠣᠷᠴᠣᠭ	hqrcqg
+ᠣᠣᠷ	qqr
+ᠣᠣᠷᠬᠠᠢ	qqrhai
+ᠣᠣᠷᠴᠣᠭ	qqrcqg
 ᠣᠭᠣᠰᠣᠷ	qgqsqr
 ᠣᠭᠣᠰᠣᠷᠯᠠᠭᠳᠠᠬᠤ	qgqsqrlagdahv
 ᠣᠭᠣᠰᠣᠷᠯᠠᠬᠤ	qgqsqrlahv
 ᠣᠭᠣᠰᠣᠷᠯᠠᠵᠠᠭᠠᠬᠤ	qgqsqrlajagahv
 ᠣᠭᠣᠰᠣᠷᠯᠠᠭᠤᠯᠬᠤ	qgqsqrlagvlhv
-ᠣᠣᠬ᠎ᠠ	qhq-a
+ᠣᠣᠬ᠎ᠠ	qqh-a
 ᠣᠭᠣᠴᠢ	qgqci
-ᠣᠣᠴᠢᠨ	hqcin
-ᠣᠣᠴᠢᠷ	hqcir
-ᠣᠣᠴᠢᠷᠯᠠᠬᠤ	hqcirlahv
+ᠣᠣᠴᠢᠨ	qqcin
+ᠣᠣᠴᠢᠷ	qqcir
+ᠣᠣᠴᠢᠷᠯᠠᠬᠤ	qqcirlahv
 ᠣᠭᠣᠴᠢᠬᠤ	qgqcihv
 ᠣᠭᠣᠴᠢᠯᠠᠬᠤ	qgqcilahv
 ᠣᠭᠣᠴᠢᠯᠠᠭᠤᠯᠬᠤ	qgqcilagvlhv
@@ -45332,7 +45203,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠷᠳᠢᠨᠠᠲ᠋ᠦ᠋ᠷ	qrdinat'u'r
 ᠣᠷᠳᠣᠨ	qrdqn
 ᠣᠷᠳᠣᠰᠣ	qrdqsq
-ᠣᠷᠣ ᠳᠠᠰᠤ	qrq dasv
 ᠣᠷᠳᠣᠰᠣᠯᠠᠬᠤ	qrdqsqlahv
 ᠣᠷᠣᠳᠣᠰᠣᠲᠠᠢ	qrqdqsqtai
 ᠣᠷᠣᠳᠠᠬᠤ	qrqdahv
@@ -45493,7 +45363,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠷᠲ᠋ᠣᠳᠣᠺᠰ	qrt'qdqks
 ᠣᠷᠲ᠋ᠣᠺᠯᠠᠽ	qrt'qklaz
 ᠣᠷᠣᠲᠠᠨ	qrqtan
-ᠣᠷᠲᠣᠣᠮ	qrthqm
+ᠣᠷᠲᠣᠣᠮ	qrtqqm
 ᠣᠷᠲᠤᠤᠵᠠ	qrtvvja
 ᠣᠷᠣᠭᠤᠯᠤᠯᠲᠠ	qrqgvlvlta
 ᠣᠷᠣᠭᠤᠯᠬᠤ	qrqgvlhv
@@ -45536,7 +45406,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠷᠴᠢᠮ	qrcim
 ᠣᠷᠴᠢᠮᠪᠠᠷ	qrcimbar
 ᠣᠷᠴᠢᠮᠳᠠᠰᠤ	qrcimdasv
-ᠣᠷᠴᠢᠮ᠎ ᠳᠠᠬᠢ	qrcim-dahi
+ᠣᠷᠴᠢᠮ᠎ᠳᠠᠬᠢ	qrcim-dahi
 ᠣᠷᠴᠢᠮᠲᠣᠰ	qrcimtqs
 ᠣᠷᠴᠢᠨ	qrcin
 ᠣᠷᠴᠢᠬᠤ	qrcihv
@@ -45602,7 +45472,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠲᠣᠭ᠎ᠠ	qtqg-a
 ᠣᠳᠬᠠᠯᠠᠬᠤ	qdhalahv
 ᠣᠳᠬᠠᠯᠠᠭᠤᠯᠬᠤ	qdhalagvlhv
-ᠣᠳᠬᠣᠨ	qdhqn
+ᠣᠳᠬᠣᠨ	qdqqn
 ᠣᠲᠣᠯᠠᠭ᠎ᠠ	qtqlag-a
 ᠣᠲᠣᠯᠠᠯᠲᠠ	qtqlalta
 ᠣᠲᠣᠯᠠᠬᠤ	qtqlahv
@@ -45711,7 +45581,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠣᠶᠣᠯᠴᠠᠬᠤ	qyqlcahv
 ᠣᠶᠣᠮᠠᠯ	qyqmal
 ᠣᠶᠣᠭ᠎ᠠ	qyqg-a
-ᠣᠶᠣᠣ	qyhq
+ᠣᠶᠣᠣ	qyqq
 ᠣᠶᠣᠭᠠᠳᠠᠬᠤ	qyqgadahv
 ᠣᠶᠣᠭᠠᠳᠠᠭᠤᠯᠬᠤ	qyqgadagvlhv
 ᠣᠶᠣᠭᠠᠷᠯᠠᠬᠤ	qyqgarlahv
@@ -45898,7 +45768,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠭᠡᠰᠢ	ogesi
 ᠥᠭᠶᠥᠭᠡ	ogyoge
 ᠥᠭᠦᠯᠡᠪᠦᠷᠢ	oguleburi
-ᠥᠭᠦᠯᠡᠪᠦᠷᠢ ᠵᠦᠢ	oguleburi jui
 ᠥᠭᠦᠯᠡᠯᠭᠡ	ogulelge
 ᠥᠭᠦᠯᠡᠵᠡᠭᠡᠬᠦ	ogulejegehu
 ᠥᠭᠦᠯᠡᠭᠳᠡᠬᠦ	ogulegdehu
@@ -46157,7 +46026,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠮᠦᠨᠡᠭᠦᠷᠬᠢ	emunegurhi
 ᠡᠮᠦᠨ᠎ᠡ	emun-e
 ᠡᠮᠦᠨᠡᠲᠦ	emunetu
-ᠡᠮᠦᠨᠡᠲᠦ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	emunetu-yin-hin
+ᠡᠮᠦᠨᠡᠲᠦ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	emunetu-yin-hin
 ᠡᠮᠦᠨᠡᠳᠬᠡᠯ	emunedhel
 ᠡᠮᠦᠨᠡᠬᠢ	emunehi
 ᠡᠮᠦᠨᠡᠬᠡᠨ	emunehen
@@ -46166,7 +46035,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠮᠨᠥᠭᠡ	omnoge
 ᠥᠮᠨᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ	omnogelegulhu
 ᠥᠮᠨᠥᠭᠡᠯᠡᠬᠦ	omnogelehu
-ᠡᠮᠦᠨ᠎ᠡ᠎ ᠡᠴᠡ	emun-e-ece
+ᠡᠮᠦᠨ᠎ᠡ᠎ᠡᠴᠡ	emun-e-ece
 ᠥᠮᠥᠷᠡᠦ	omoreu
 ᠥᠮᠥᠷᠦᠦᠯ	omoruul
 ᠥᠮᠥᠷᠦᠦᠯᠳᠡᠬᠦ	omoruuldehu
@@ -46214,7 +46083,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠮᠥᠭᠰᠢᠬᠦ	omogsihu
 ᠥᠮᠥᠯᠵᠡᠭᠦᠯᠬᠦ	omoljegulhu
 ᠥᠮᠥᠯᠵᠡᠬᠦ	omoljehu
-ᠦᠮᠡᠨ(ᠦᠮᠡᠨ)	umen(umen)
 ᠥᠮᠥᠩᠭᠡᠷ	omo;ger
 ᠥᠮᠥᠷ	omor
 ᠥᠮᠥᠷᠬᠡᠢ	omorhei
@@ -46309,7 +46177,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠨᠳᠡᠢᠯᠲᠡ	ondeilte
 ᠥᠨᠳᠡᠢᠬᠦ	ondeihu
 ᠥᠨᠳᠡᠢᠵᠡᠭᠡᠬᠦ	ondeijegehu
-ᠥᠨᠳᠥᠷᠡᠰᠢ᠎ ᠪᠡᠨ	ondoresi-ben
+ᠥᠨᠳᠥᠷᠡᠰᠢ᠎ᠪᠡᠨ	ondoresi-ben
 ᠥᠨᠳᠡᠭᠡ	ondege
 ᠥᠨᠳᠡᠭᠡᠯᠡᠭᠦᠯᠬᠦ	ondegelegulhu
 ᠥᠨᠳᠡᠭᠡᠯᠢᠭ	ondegelig
@@ -46479,7 +46347,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠷᠭᠥᠭᠡᠯᠡᠭᠦᠯᠬᠦ	orgogelegulhu
 ᠥᠷᠭᠥᠭᠡᠯᠡᠬᠦ	orgogelehu
 ᠥᠷᠭᠡᠭᠡᠨᠴᠢ	orgegenci
-ᠥᠷᠭᠡᠰᠢ᠎ ᠪᠡᠨ	orgesi-ben
+ᠥᠷᠭᠡᠰᠢ᠎ᠪᠡᠨ	orgesi-ben
 ᠥᠷᠳᠡᠭᠦᠯᠬᠦ	ordegulhu
 ᠥᠷᠢᠳᠡᠭᠦᠯᠬᠦ	oridegulhu
 ᠥᠷᠳᠡᠬᠦ	ordehu
@@ -46502,7 +46370,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠷᠨᠢᠭᠦᠨ	ornigun
 ᠥᠷᠥᠨ᠎ᠡ	oron-e
 ᠥᠷᠥᠨᠡᠲᠦ	oronetu
-ᠥᠷᠥᠨᠡᠲᠦ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	oronetu-yin-hin
+ᠥᠷᠥᠨᠡᠲᠦ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	oronetu-yin-hin
 ᠥᠷᠨᠢᠯ	ornil
 ᠥᠷᠨᠢᠯᠲᠡ	ornilte
 ᠥᠷᠨᠢᠯᠢᠭ	ornilig
@@ -46570,25 +46438,15 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠷᠥᠭᠦᠯᠬᠦ	orogulhu
 ᠥᠷᠥᠭᠦᠳᠦᠬᠦ	oroguduhu
 ᠥᠷᠥᠪ	orob
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠮᠡᠷ	oro ebedumer
-ᠥᠷᠥ ᠡᠪᠳᠡᠭᠦᠦ	oro ebdeguu
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠭᠦᠯᠬᠦ	oro ebedugulhu
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠯ	oro ebedul
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠯᠲᠡᠢ	oro ebedultei
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠮ᠎ᠡ	oro ebedum-e
-ᠥᠷᠥ ᠡᠪᠡᠳᠦᠩᠭᠦᠢ	oro ebedu;gui
-ᠥᠷᠥ ᠡᠪᠡᠳᠬᠦ	oro ebedhu
 ᠥᠷᠥᠪᠯᠢᠭ	oroblig
 ᠥᠷᠥᠪᠢᠰᠬᠡᠬᠦ	orobishehu
 ᠥᠷᠪᠢᠰᠬᠢᠬᠦ	orbishihu
 ᠥᠷᠪᠢᠰᠥᠯ	orbisol
 ᠥᠷᠥᠪᠰᠡᠬᠦ	orobsehu
 ᠥᠷᠪᠢᠰᠬᠦ	orbishu
-ᠥᠷᠪᠢ ᠲᠠᠰ	orbi tas
 ᠦᠷᠦᠪᠲᠦᠯ	urubtul
 ᠦᠷᠦᠪᠲᠦᠯᠳᠡᠭᠦᠯᠬᠦ	urubtuldegulhu
 ᠦᠷᠦᠪᠲᠦᠯᠳᠡᠬᠦ	urubtuldehu
-ᠥᠷᠪᠢ ᠲᠡᠰ	orbi tes
 ᠥᠷᠥᠪᠬᠢᠬᠦ	orobhihu
 ᠥᠷᠥᠪᠴᠢ	orobci
 ᠥᠷᠥᠪᠴᠢᠬᠡᠨ	orobcihen
@@ -46839,8 +46697,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠭᠡᠳᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ	ogedesulegulhu
 ᠥᠭᠡᠳᠡᠰᠦᠯᠡᠬᠦ	ogedesulehu
 ᠥᠭᠡᠳᠡᠰᠦᠬᠡᠨ	ogedesuhen
-ᠥᠭᠡᠳᠡ᠎ ᠪᠡᠨ	ogede-ben
-ᠥᠭᠡᠳᠡ᠎ ᠡᠴᠡ	ogede-ece
+ᠥᠭᠡᠳᠡ᠎ᠪᠡᠨ	ogede-ben
+ᠥᠭᠡᠳᠡ᠎ᠡᠴᠡ	ogede-ece
 ᠥᠶ᠍ᠢ	oy`i
 ᠥᠭᠡᠯᠡᠢ	ogelei
 ᠥᠭᠡᠯᠡᠢᠬᠡᠨ	ogeleihen
@@ -46855,7 +46713,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠭᠡᠨᠲᠡᠭᠰᠢᠬᠦ	ogentegsihu
 ᠥᠭᠡᠷ᠎ᠡ	oger-e
 ᠥᠪᠡᠷ	ober
-ᠥᠪᠡᠷ᠎ ᠢ᠎ ᠪᠡᠨ	ober-i-ben
+ᠥᠪᠡᠷ᠎ᠢ᠎ᠪᠡᠨ	ober-i-ben
 ᠥᠪᠡᠷᠦᠮᠰᠦᠭ	oberumsug
 ᠥᠪᠡᠷᠮᠡᠲᠡᠭᠡᠢ	obermetegei
 ᠥᠪᠡᠷᠦᠮᠰᠢᠬᠦ	oberumsihu
@@ -46864,7 +46722,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠪᠡᠷ᠎ᠦᠨ᠎ᠬᠢ	ober-un-hi
 ᠥᠭᠡᠷᠰᠦ	ogersu
 ᠥᠭᠡᠷᠰ	ogers
-ᠥᠪᠡᠷᠰᠡᠨ᠋᠎ ᠡ	obersen'-e
 ᠥᠪᠡᠷᠰᠡᠳ	obersed
 ᠥᠭᠡᠷᠡᠲᠦᠭᠦᠯᠬᠦ	ogeretugulhu
 ᠥᠭᠡᠷᠡᠲᠦᠬᠦ	ogeretuhu
@@ -46881,7 +46738,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠥᠭᠡᠷᠡᠴᠢᠯᠡᠯ	ogerecilel
 ᠥᠭᠡᠷᠡᠴᠢᠯᠡᠯᠲᠡ	ogerecilelte
 ᠥᠭᠡᠷᠡᠴᠢᠯᠡᠬᠦ	ogerecilehu
-ᠥᠪᠡᠷ᠎ ᠢᠶᠡᠨ	ober-iyen
+ᠥᠪᠡᠷ᠎ᠢᠶᠡᠨ	ober-iyen
 ᠥᠭᠡᠲᠦᠴᠢᠬᠦ	ogetucihu
 ᠥᠭᠡᠲᠦᠭᠦᠯᠬᠦ	ogetugulhu
 ᠥᠭᠡᠲᠦᠬᠦ	ogetuhu
@@ -46967,7 +46824,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠫᠠᠯᠠᠵᠢ	palaji
 ᠫᠠᠯᠠᠩᠴᠤᠭ	pala;cvg
 ᠫᠠᠯᠠᠲ᠋ᠺᠠ	palat'ka
-ᠫᠠᠯᠧᠣ᠋ ᠠᠽᠢ	palEq' azi
 ᠫᠠᠯᠧᠣᠯᠢᠲ᠋	palEqlit
 ᠫᠠᠯᠧᠣᠨᠲ᠋ᠣᠯᠣᠭᠢ	palEqnt'qlqgi
 ᠫᠠᠯᠧᠣᠨᠲ᠋ᠣᠯᠣᠭᠢᠴᠢ	palEqnt'qlqgici
@@ -47121,7 +46977,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠫᠢᠵᠢᠭᠢᠨᠡᠬᠦ	pijiginehu
 ᠫᠢᠵᠢᠭᠢᠨᠡᠭᠦᠯᠬᠦ	pijiginegulhu
 ᠫᠢᠵᠢᠭᠢᠨᠡᠭᠦᠷ	pijiginegur
-ᠫᠢᠸ (ᠫᠢᠣᠸ)	piw (piqw)
 ᠫᠢᠫᠠ	pipa
 ᠫᠢᠰᠢᠩ	pisi;
 ᠫᠢᠺᠧᠲ᠋ᠠᠵ	pihet'aj
@@ -47138,7 +46993,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠫᠢᠩᠰᠡ	pi;se
 ᠫᠢᠩᠰᠡᠯᠡᠬᠦ	pi;selehu
 ᠫᠢᠨᠲ᠋ᠠ	pint'a
-ᠫᠢᠨᠲᠦᠦ (ᠫᠢᠩᠲ᠋ᠧᠦ)	pintuu (pi;t'Eu)
 ᠫᠢᠨᠼᠧᠲ᠋	pinCEt
 ᠫᠢᠣᠨᠧᠷ	piqnEr
 ᠫᠢᠫᠧᠷᠠᠽᠢᠨ	pipErazin
@@ -47230,10 +47084,10 @@ Lᠠᠭᠪᠠ	Lagba
 ᠫᠣᠮᠢᠳᠣᠷ	pqmidqr
 ᠫᠣᠮᠫ	pqmp
 ᠫᠤᠤ	pvv
-ᠫᠣᠣᠸᠠᠷ	phqwar
+ᠫᠣᠣᠸᠠᠷ	pqqwar
 ᠫᠤᠤᠳᠠᠬᠤ	pvvdahv
-ᠫᠣᠣᠯᠣᠭᠣᠷ	phqlqgqr
-ᠫᠣᠣᠯᠤᠤ	phqlvv
+ᠫᠣᠣᠯᠣᠭᠣᠷ	pqqlqgqr
+ᠫᠣᠣᠯᠤᠤ	pqqlvv
 ᠫᠤᠤᠴᠢ	pvvci
 ᠫᠣᠫᠢᠷᠣᠣᠰ	pqpirhqs
 ᠫᠣᠫᠯᠢᠨ	pqplin
@@ -47385,7 +47239,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠫᠢᠶᠠᠩ	piya;
 ᠫᠢᠶᠠᠨᠽᠠ	piyanza
 ᠫᠦᠳ	pud
-ᠫᠦᠢ ᠫᠠᠢ	pui pai
 ᠫᠦᠯ	pul
 ᠫᠦᠯᠬᠢᠯᠭᠡᠬᠦ	pulhilgehu
 ᠫᠦᠯᠬᠢᠬᠦ	pulhihu
@@ -47465,8 +47318,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠷᠠᠳᠢᠣᠵᠢᠭᠤᠯᠤᠯᠲᠠ	radiqjigvlvlta
 ᠷᠠᠳᠢᠣᠵᠢᠭᠤᠯᠬᠤ	radiqjigvlhv
 ᠷᠠᠳᠢᠣᠽᠣᠨᠳ᠋	radiqzqnd'
-ᠷᠠᠳᠢᠣ᠋ ᠢᠳᠡᠪᠬᠢ	radiq' idebhi
-ᠷᠠᠳᠢᠣ᠋ ᠢᠳᠡᠪᠬᠢᠲᠤ	radiq' idebhitv
 ᠷᠠᠳᠢᠣᠽᠣᠲ᠋ᠣᠫ	radiqzqt'qp
 ᠷᠠᠳᠢᠣᠢ᠍ᠮᠫᠦ᠋ᠯᠢᠰ	radiqi`mpu'lis
 ᠷᠠᠳᠢᠣᠺᠯᠶᠦ᠋ᠴᠢ	radiqklyu'ci
@@ -47483,7 +47334,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠷᠠᠳᠢᠣᠫᠧᠯᠧᠭᠠᠨ᠋ᠼ	radiqpElEgan'C
 ᠷᠠᠳᠢᠣᠷᠧᠯᠧᠶᠢᠨ	radiqrElEyin
 ᠷᠠᠳᠢᠣᠰᠢᠭᠨᠠᠯ	radiqsignal
-ᠷᠠᠳᠢᠣ᠋ ᠰᠢᠰᠲ᠋ᠧᠮ	radiq' sist'Em
 ᠷᠠᠳᠢᠣᠰᠲ᠋ᠠᠨᠼᠢ	radiqst'anCi
 ᠷᠠᠳᠢᠣᠰᠲ᠋ᠦ᠋ᠳᠢ	radiqst'u'di
 ᠷᠠᠳᠢᠣᠲ᠋ᠧᠯᠧᠸᠢᠽ	radiqt'ElEwiz
@@ -47495,7 +47345,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠷᠠᠳᠢᠣᠲ᠋ᠧᠭᠨᠢᠭᠲᠤ	radiqt'Egnigtv
 ᠷᠠᠳᠢᠣᠲ᠋ᠣᠷ	radiqt'qr
 ᠷᠠᠳᠢᠣᠴᠢᠨ	radiqcin
-ᠷᠠᠳᠢᠣ᠋ ᠡᠯᠧᠺᠲ᠋ᠷᠣᠨᠢᠺ	radiq' elEkt'rqnik
 ᠷᠠᠳᠢᠰᠲ᠋	radist
 ᠷᠠᠳᠢᠤᠰ	radivs
 ᠷᠠᠳᠣᠮᠧ	radqmE
@@ -47657,7 +47506,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠭᠠᠳᠲᠠᠢ	sagadtai
 ᠰᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ	sagadagvlhv
 ᠰᠠᠭᠠᠳᠬᠢᠯ	sagadhil
-ᠰᠠᠭᠠᠳ ᠬᠢᠬᠦ	sagad hihu
 ᠰᠠᠭᠠᠵᠢᠬᠤ	sagajihv
 ᠰᠠᠭᠠᠵᠠ	sagaja
 ᠰᠠᠭᠠᠵᠠᠨᠠᠬᠤ	sagajanahv
@@ -47759,7 +47607,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠪᠤᠩᠳᠠᠵᠠᠭᠠᠬᠤ	sabv;dajagahv
 ᠰᠠᠪᠤᠩᠳᠠᠭᠤᠯᠬᠤ	sabv;dagvlhv
 ᠰᠠᠪᠤᠩᠵᠢᠬᠤ	sabv;jihv
-ᠰᠠᠪᠤᠩᠨ᠎ᠠ(ᠰᠠᠪᠤᠩᠨᠠ)	sabv;n-a(sabv;na)
 ᠰᠠᠪᠤᠩᠲᠤᠰᠤ	sabv;tvsv
 ᠰᠠᠪᠠᠨᠭᠠᠴᠠᠷ	saba;acar
 ᠰᠠᠪᠤᠩᠰᠢᠬᠤ	sabv;sihv
@@ -47949,7 +47796,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠢᠮᠰᠤᠷᠠᠬᠤ	saimsvrahv
 ᠰᠠᠢᠮᠰᠢᠷᠠᠬᠤ	saimsirahv
 ᠰᠠᠢᠨ	sain
-ᠰᠠᠢᠨ᠎ ᠳᠠᠭᠠᠨ	sain-dagan
+ᠰᠠᠢᠨ᠎ᠳᠠᠭᠠᠨ	sain-dagan
 ᠰᠠᠢᠨᠲᠠᠢ	saintai
 ᠰᠠᠢᠷ	sair
 ᠰᠠᠢᠷᠠᠮ	sairam
@@ -47973,7 +47820,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠢᠬᠠᠯᠢ	saihali
 ᠰᠠᠢᠬᠠᠨ	saihan
 ᠰᠠᠶ᠍ᠢᠬᠢ	say`ihi
-ᠰᠠᠢᠬᠢ(ᠰᠠᠶ᠍ᠢᠬᠢ)	saihi(say`ihi)
 ᠰᠠᠢᠴᠤᠳ	saicvd
 ᠰᠠᠢᠴᠤᠤᠯ	saicvvl
 ᠰᠠᠢᠰᠢᠶᠠᠭᠳᠠᠬᠤ	saisiyagdahv
@@ -48062,7 +47908,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠯᠪᠠᠷᠠᠰᠤ	salbarasv
 ᠰᠠᠯᠪᠠᠷᠠᠭᠤᠯᠬᠤ	salbaragvlhv
 ᠰᠠᠯᠪᠠᠷᠬᠠᠢ	salbarhai
-ᠰᠠᠯᠪᠤᠷᠢ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	salbvri-yin-hin
+ᠰᠠᠯᠪᠤᠷᠢ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	salbvri-yin-hin
 ᠰᠠᠯᠪᠠᠲᠠᠢ	salbatai
 ᠰᠠᠯᠪᠠᠬᠤ	salbahv
 ᠰᠠᠯᠪᠠᠭᠤᠯᠬᠤ	salbagvlhv
@@ -48132,7 +47978,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠯᠢᠰᠤᠲᠤᠨᠴᠢᠷ	salisvtvncir
 ᠰᠠᠯᠢᠰᠤᠲᠤᠬᠤ	salisvtvhv
 ᠰᠠᠯᠢᠰᠤᠲᠤᠭᠤᠯᠬᠤ	salisvtvgvlhv
-ᠰᠠᠯ ᠰᠤᠯ	sal svl
 ᠰᠠᠯᠲᠠᠭ᠎ᠠ	saltag-a
 ᠰᠠᠯᠲᠠᠭᠠᠳᠠᠬᠤ	saltagadahv
 ᠰᠠᠯᠲᠠᠭᠠᠳᠤᠭᠤᠯᠬᠤ	saltagadvgvlhv
@@ -48735,7 +48580,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠠᠶ᠍ᠢᠪᠲᠤᠷᠬᠠᠨ	say`ibtvrhan
 ᠰᠠᠶ᠍ᠢᠭ	say`ig
 ᠰᠠᠶ᠍ᠢᠭᠯᠠᠬᠤ	say`iglahv
-ᠰᠠᠶ᠍ᠢ᠎ ᠳᠠᠭᠠᠨ	say`i-dagan
+ᠰᠠᠶ᠍ᠢ᠎ᠳᠠᠭᠠᠨ	say`i-dagan
 ᠰᠠᠶᠠᠲᠤ	sayatv
 ᠰᠠᠶᠠᠲᠠᠨ	sayatan
 ᠰᠠᠶ᠍ᠢᠬᠠᠨ	say`ihan
@@ -48757,7 +48602,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠧᠺᠦ᠋ᠨᠳ᠋	sEhu'nd'
 ᠰᠧᠺᠦ᠋ᠨᠳᠣᠮᠧᠷ	sEhu'ndqmEr
 ᠰᠧᠺᠼ	sEkC
-ᠰᠧᠺᠼ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	sEkC-yin-hin
+ᠰᠧᠺᠼ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	sEkC-yin-hin
 ᠰᠧᠯᠧᠺᠼ	sElEkC
 ᠰᠧᠯᠧᠨ	sElEn
 ᠰᠧᠯᠧᠨ᠋ᠲ᠋	sElEn't
@@ -48901,7 +48746,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠺᠷᠧᠫᠧᠷ	skrEpEr
 ᠰᠺᠷᠢᠫᠺᠠ	skripka
 ᠰᠯᠠᠸᠵᠢᠨ	slawjin
-ᠰᠯᠠᠸᠶᠠᠨ᠎ ᠨᠤᠭᠤᠳ	slawyan-nvgvd
+ᠰᠯᠠᠸᠶᠠᠨ᠎ᠨᠤᠭᠤᠳ	slawyan-nvgvd
 ᠰᠯᠠᠸᠶᠠᠨᠴᠢ	slawyanci
 ᠰᠯᠧᠰᠠᠷᠢ	slEsari
 ᠰᠯᠧᠰᠠᠷᠢᠴᠢ	slEsarici
@@ -49102,7 +48947,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠣᠩᠭᠣᠭᠤᠯᠢ	sq;gqgvli
 ᠰᠣᠩᠭᠣᠭᠤᠯᠢᠲᠤ	sq;gqgvlitv
 ᠰᠣᠩᠭᠣᠭᠤᠯᠢᠲᠠᠨ	sq;gqgvlitan
-ᠰᠣᠩᠭᠣᠭᠤᠯᠢᠲᠠᠨ᠎ ᠨᠤᠭᠤᠳ	sq;gqgvlitan-nvgvd
+ᠰᠣᠩᠭᠣᠭᠤᠯᠢᠲᠠᠨ᠎ᠨᠤᠭᠤᠳ	sq;gqgvlitan-nvgvd
 ᠰᠣᠨᠳᠣ	sqndq
 ᠰᠣᠨᠳᠣᠭᠣᠢ	sqndqgqi
 ᠰᠣᠨᠳᠣᠭᠣᠢᠪᠲᠣᠷ	sqndqgqyibtqr
@@ -49180,7 +49025,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠣᠨᠣᠰᠬᠠᠭᠴᠢ	sqnqshagci
 ᠰᠣᠨᠣᠰᠬᠠᠭᠴᠢᠳ	sqnqshagcid
 ᠰᠣᠨᠣᠰᠬᠠᠯ	sqnqshal
-ᠰᠣᠨᠣᠰᠬᠠᠯ ᠵᠦᠢ	sqnqshal jui
 ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩ	sqnqshqla;
 ᠰᠣᠨᠣᠰᠬᠣᠯᠠᠩᠲᠤ	sqnqshqla;tv
 ᠰᠣᠨᠣᠰᠬᠠᠬᠤ	sqnqshahv
@@ -49354,13 +49198,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠣᠬᠣᠷᠠᠭᠤᠯᠬᠤ	sqhqragvlhv
 ᠰᠣᠬᠣᠴᠢᠬᠤ	sqhqcihv
 ᠰᠣᠬᠣᠴᠢᠭᠤᠯᠬᠤ	sqhqcigvlhv
-ᠰᠣᠼᠢᠶᠠᠯ᠎ ᠳ᠋ᠧᠮᠣᠺᠷᠠᠲ᠋	sqCiyal-d'Emqkrat
-ᠰᠣᠼᠢᠶᠠᠯ ᠢᠮᠫᠧᠷᠢᠶᠠᠯᠢᠰᠮ	sqCiyal impEriyalism
-ᠰᠣᠼᠢᠶᠠᠯ ᠢᠮᠫᠧᠷᠢᠶᠠᠯᠢᠰᠲ᠋	sqCiyal impEriyalist
-ᠰᠣᠼᠢᠶᠠᠯ ᠹᠠᠱᠢᠰᠮ	sqCiyal faxism
-ᠰᠣᠼᠢᠶᠠᠯ ᠹᠠᠱᠢᠰᠲ᠋	sqCiyal faxist
-ᠰᠣᠼᠢᠶᠠᠯ ᠱᠣᠸᠢᠨᠢᠰᠮ	sqCiyal xqwinism
-ᠰᠣᠼᠢᠶᠠᠯ ᠱᠣᠸᠢᠨᠢᠰᠲ᠋	sqCiyal xqwinist
 ᠰᠣᠼᠢᠶᠠᠯᠢᠰᠮ	sqCiyalism
 ᠰᠣᠼᠢᠶᠠᠯᠢᠰᠲ᠋	sqCiyalist
 ᠰᠣᠼᠢᠶᠠᠯᠣᠭᠢ	sqCiyalqgi
@@ -49585,7 +49422,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠤᠭᠤᠯᠤᠭᠤᠷ	svgvlvgvr
 ᠰᠤᠭᠤᠯᠵᠠᠭᠠᠬᠤ	svgvljagahv
 ᠰᠤᠭᠤᠨᠠᠭ	svgvnag
-ᠰᠤᠭᠠᠷ(ᠱᠤᠭᠠᠷ᠎ᠠ)	svgar(xvgar-a)
 ᠰᠤᠭᠤᠷᠠᠬᠤ	svgvrahv
 ᠰᠤᠭᠤᠷᠠᠭᠤᠯᠬᠤ	svgvragvlhv
 ᠰᠤᠭᠤᠷᠬᠠᠢ	svgvrhai
@@ -49604,7 +49440,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠤᠭᠰᠤᠷᠴᠢᠬᠤ	svgsvrcihv
 ᠰᠤᠭᠰᠤᠷᠬᠤ	svgsvrhv
 ᠰᠤᠭᠰᠤᠷᠤᠭᠤᠯᠬᠤ	svgsvrvgvlhv
-ᠰᠤᠭᠤ᠎ᠠ(ᠱᠤᠤᠭᠤᠸᠠ)	svgv-a(xvvgvwa)
 ᠰᠤᠳ᠋	svd'
 ᠰᠤᠳᠠᠭ	svdag
 ᠰᠤᠳᠠᠢ	svdai
@@ -49792,7 +49627,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠤᠨᠢᠶᠠᠯᠲᠠ	svniyalta
 ᠰᠤᠨᠢᠶᠠᠬᠤ	svniyahv
 ᠰᠤᠨᠢᠶᠠᠵᠠᠭᠠᠬᠤ	svniyajagahv
-ᠰᠤᠩ ᠬᠤᠸᠠ ᠳ᠋ᠠᠨ	sv; hvwa d'an
 ᠰᠤᠨᠴᠢᠩ	svnci;
 ᠰᠤᠨᠴᠢᠩᠳᠠᠬᠤ	svnci;dahv
 ᠰᠦᠫᠧᠷᠹᠣᠰᠹᠠᠲ᠋	supErfqsfat
@@ -50534,7 +50368,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠡᠳᠬᠢᠭᠴᠢᠳ	sedhigcid
 ᠰᠡᠳᠬᠢᠯ	sedhil
 ᠰᠡᠳᠬᠢᠯᠭᠡ	sedhilge
-ᠰᠡᠳᠬᠢᠯ ᠵᠦᠢ	sedhil jui
 ᠰᠡᠳᠬᠡᠯᠲᠡ	sedhelte
 ᠰᠡᠳᠬᠢᠯᠲᠡ	sedhilte
 ᠰᠡᠳᠬᠢᠯᠲᠡᠢ	sedhiltei
@@ -50550,7 +50383,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠡᠳᠬᠢᠵᠡᠭᠡᠬᠦ	sedhijegehu
 ᠰᠡᠳᠬᠢᠴᠢᠬᠦ	sedhicihu
 ᠰᠡᠳᠬᠦᠯ	sedhul
-ᠰᠡᠳᠬᠦᠯ ᠵᠦᠢ	sedhul jui
 ᠰᠡᠳᠬᠦᠯᠴᠢ	sedhulci
 ᠰᠡᠳᠬᠦᠯᠴᠢᠳ	sedhulcid
 ᠰᠡᠳᠬᠡᠭᠦᠯᠬᠦ	sedhegulhu
@@ -50631,7 +50463,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠶᠦᠽᠧᠷᠧᠨ	syuzErEn
 ᠰᠶᠦᠽᠧᠷᠧᠨᠢᠲ᠋ᠧᠲ᠋	syuzErEnit'Et
 ᠰᠶᠦᠶ᠍ᠢᠲ᠋	syuy`it
-ᠰᠶᠦ᠋ᠷᠷᠧᠶᠯᠢᠰᠮ(︕)	syu'rrEylism(!)
 ᠰᠶᠦ᠋ᠷᠲ᠋ᠦ᠋ᠺ	syu'rt'u'k
 ᠰᠦᠪᠡ	sube
 ᠰᠦᠪᠡᠭᠡᠨᠴᠢᠷ	subegencir
@@ -50876,7 +50707,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠦᠵᠢᠬᠦ	sujihu
 ᠰᠡᠭᠦᠵᠢᠯᠡᠬᠦ	segujilehu
 ᠰᠡᠭᠦᠯ	segul
-ᠰᠡᠭᠦᠯ᠎ ᠳᠦ	segul-du
+ᠰᠡᠭᠦᠯ᠎ᠳᠦ	segul-du
 ᠰᠡᠭᠦᠯᠳᠡᠭᠳᠡᠬᠦ	seguldegdehu
 ᠰᠡᠭᠦᠯᠳᠡᠢ	seguldei
 ᠰᠡᠭᠦᠯᠳᠡᠬᠦ	seguldehu
@@ -50900,7 +50731,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠦᠮᠡᠭᠲᠦ	sumegtu
 ᠰᠦᠮᠡᠭᠳᠡᠰᠦ	sumegdesu
 ᠰᠦᠨᠴᠡᠷ	suncer
-ᠰᠦᠨ ᠰᠢᠬᠢᠷ	sun sihir
 ᠰᠡᠭᠦᠷᠢᠯ	seguril
 ᠰᠡᠭᠦᠷᠡᠰᠦ	seguresu
 ᠰᠡᠭᠦᠷᠡᠰᠬᠢᠬᠦ	segureshihu
@@ -51101,7 +50931,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲ	t
 ᠲᠠ	ta
 ᠲᠠᠭ᠎ᠠ	tag-a
-ᠲᠠᠪᠠ᠎ ᠪᠠᠷ	taba-bar
+ᠲᠠᠪᠠ᠎ᠪᠠᠷ	taba-bar
 ᠲᠠᠭᠠᠪᠤᠷᠢ	tagabvri
 ᠲᠠᠭᠠᠪᠤᠷᠢᠯᠠᠭᠳᠠᠬᠤ	tagabvrilagdahv
 ᠲᠠᠭᠠᠪᠤᠷᠢᠯᠠᠯ	tagabvrilal
@@ -51155,7 +50985,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠭᠠᠮᠨᠠᠯ	tagamnal
 ᠲᠠᠭᠠᠮᠨᠠᠬᠤ	tagamnahv
 ᠲᠠᠭᠠᠨ᠎ᠠ	tagan-a
-ᠲᠠ᠎ ᠨᠤᠭᠤᠳ	ta-nvgvd
+ᠲᠠ᠎ᠨᠤᠭᠤᠳ	ta-nvgvd
 ᠲᠠᠨᠤᠰ	tanvs
 ᠲᠠᠭᠠᠷ	tagar
 ᠲᠠᠭᠠᠷ᠎ᠠ	tagar-a
@@ -51353,7 +51183,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠪᠬᠠᠭᠠᠷᠳᠠᠬᠤ	tabhagardahv
 ᠲᠠᠪᠬᠠᠭᠠᠷᠳᠠᠭᠤᠯᠬᠤ	tabhagardagvlhv
 ᠲᠠᠪᠬᠠᠭᠠᠷᠬᠠᠨ	tabhagarhan
-ᠲᠠᠪ ᠬᠢᠬᠦ	tab hihu
 ᠲᠠᠪᠤᠴᠠ	tabvca
 ᠲᠠᠪᠴᠠᠩ	tabca;
 ᠲᠠᠪᠴᠠᠭ᠎ᠠ	tabcag-a
@@ -51529,7 +51358,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠢᠯᠤᠭᠤᠯᠬᠤ	tailvgvlhv
 ᠲᠠᠢᠯᠵᠠᠭᠠᠬᠤ	tailjagahv
 ᠲᠠᠢᠯᠴᠢᠬᠤ	tailcihv
-ᠲᠠᠢᠮᠢᠶᠣᠣ	taimiyhq
+ᠲᠠᠢᠮᠢᠶᠣᠣ	taimiyqq
 ᠲᠠᠢᠷ	tair
 ᠲᠠᠭᠠᠷᠢᠭᠳᠠᠬᠤ	tagarigdahv
 ᠲᠠᠢᠷᠠᠯᠵᠠᠬᠤ	tairaljahv
@@ -51565,9 +51394,9 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲ᠋ᠠᠺᠲ᠋ᠢᠺᠴᠢ	t'akt'ikci
 ᠲᠠᠯ᠎ᠠ	tal-a
 ᠲᠠᠯ	tal
-ᠲᠠᠯ᠎ᠠ᠎ ᠪᠠᠷ	tal-a-bar
+ᠲᠠᠯ᠎ᠠ᠎ᠪᠠᠷ	tal-a-bar
 ᠲᠠᠯᠠᠭᠠᠷ	talagar
-ᠲᠠᠯ᠎ᠠ᠎ ᠪᠠᠷ᠎ᠬᠢ	tal-a-bar-hi
+ᠲᠠᠯ᠎ᠠ᠎ᠪᠠᠷ᠎ᠬᠢ	tal-a-bar-hi
 ᠲᠠᠯᠠᠭᠳᠠᠬᠤ	talagdahv
 ᠲᠠᠯᠠᠷᠬᠠᠭ	talarhag
 ᠲᠠᠯᠠᠷᠬᠠᠭᠳᠠᠬᠤ	talarhagdahv
@@ -51668,8 +51497,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠯᠠᠴᠠᠬᠤ	talacahv
 ᠲᠠᠯᠠᠴᠠᠵᠠᠭᠠᠬᠤ	talacajagahv
 ᠲᠠᠯᠠᠴᠠᠭᠤᠯᠬᠤ	talacagvlhv
-ᠲᠠᠯ᠎ᠠ᠎ ᠶᠢᠨ᠎ᠬᠢ	tal-a-yin-hi
-ᠲᠠᠯ᠎ᠠ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	tal-a-yin-hin
+ᠲᠠᠯ᠎ᠠ᠎ᠶᠢᠨ᠎ᠬᠢ	tal-a-yin-hi
+ᠲᠠᠯ᠎ᠠ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	tal-a-yin-hin
 ᠲᠠᠯᠢᠲᠤ	talitv
 ᠲᠠᠮᠤ	tamv
 ᠲᠠᠮ	tam
@@ -51730,8 +51559,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠮᠲᠤᠯᠠᠬᠤ	tamtvlahv
 ᠲᠠᠮᠲᠤᠷᠠᠬᠤ	tamtvrahv
 ᠲᠠᠮᠲᠤᠷᠢᠬᠤ	tamtvrihv
-ᠲᠠᠮ ᠲᠤᠮ	tam tvm
-ᠲᠠᠮ ᠲᠤᠮᠯᠠᠬᠤ	tam tvmlahv
 ᠲᠠᠮᠲᠤᠴᠢᠬᠤ	tamtvcihv
 ᠲᠠᠮᠲᠤᠴᠢᠭᠤᠯᠬᠤ	tamtvcigvlhv
 ᠲᠠᠮᠠᠬᠢ	tamahi
@@ -51754,7 +51581,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠨ	tan
 ᠲᠠᠩ	ta;
 ᠲᠠᠨ᠎ᠠ	tan-a
-ᠲᠠᠨ᠎ ᠠ	tan-a
+ᠲᠠᠨ᠎ᠠ	tan-a
 ᠲᠠᠨᠤᠭ᠎ᠠ	tanvg-a
 ᠲᠠᠨᠤᠭᠠᠰᠤ	tanvgasv
 ᠲᠠᠨᠤᠭ	tanvg
@@ -51882,7 +51709,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠨᠢ	tani
 ᠲᠠᠨᠢᠵᠠᠭᠠᠬᠤ	tanijagahv
 ᠲᠠᠨᠢᠴᠢᠬᠤ	tanicihv
-ᠲᠣᠣᠬᠦᠦ(ᠲᠣᠣᠬᠡᠦ)	thqhuu(thqheu)
 ᠲᠠᠫᠧᠲ᠋ᠦ᠋ᠮ	tapEt'u'm
 ᠲᠠᠷ	tar
 ᠲᠠᠷᠠᠭᠠᠭᠳᠠᠬᠤ	taragagdahv
@@ -51892,7 +51718,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠷᠠᠭᠠᠭᠴᠢ	taragagci
 ᠲᠠᠷᠠᠭᠠᠵᠠᠨᠠᠬᠤ	taragajanahv
 ᠲᠠᠷᠠᠭᠠᠯᠭᠠᠬᠤ	taragalgahv
-ᠲᠠᠷᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ(︕)	taragalagvlhv(!)
 ᠲᠠᠷᠠᠭᠠᠯᠲᠠ	taragalta
 ᠲᠠᠷᠠᠭᠠᠯᠴᠠᠬᠤ	taragalcahv
 ᠲᠠᠷᠠᠭᠠᠬᠤ	taragahv
@@ -51949,7 +51774,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠷᠢᠶᠠᠯᠠᠯᠲᠠ	tariyalalta
 ᠲᠠᠷᠢᠶᠠᠯᠠᠯᠴᠠᠬᠤ	tariyalalcahv
 ᠲᠠᠷᠢᠶᠠᠯᠠᠩ	tariyala;
-ᠲᠠᠷᠢᠶᠠᠯᠠᠩ ᠵᠦᠢ	tariyala; jui
 ᠲᠠᠷᠢᠶᠠᠯᠠᠩᠴᠢ	tariyala;ci
 ᠲᠠᠷᠢᠶᠠᠯᠠᠬᠤ	tariyalahv
 ᠲᠠᠷᠢᠶᠠᠯᠭ᠎ᠠ	tariyalg-a
@@ -52022,7 +51846,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠠᠷᠢᠬᠢᠳᠠᠭᠳᠠᠬᠤ	tarihidagdahv
 ᠲᠠᠷᠢᠬᠢᠳᠠᠬᠤ	tarihidahv
 ᠲᠠᠷᠢᠬᠢᠳᠠᠭᠤᠯᠬᠤ	tarihidagvlhv
-ᠲᠠᠷ ᠬᠢᠬᠦ	tar hihu
 ᠲᠠᠷᠢᠬᠢᠯᠢᠭ	tarihilig
 ᠲᠠᠷᠢᠬᠢᠯᠠᠭᠳᠠᠬᠤ	tarihilagdahv
 ᠲᠠᠷᠢᠬᠢᠯᠠᠬᠤ	tarihilahv
@@ -52366,7 +52189,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠶᠠᠲ᠋ᠷᠴᠢ	teyat'rci
 ᠲᠡᠶᠠᠲ᠋ᠷᠴᠢᠯᠠᠬᠤ	teyat'rcilahv
 ᠲᠧᠺᠲ᠋ᠣᠨᠢᠺ	tEkt'qnik
-ᠲᠧᠯᠧ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠤᠯᠲᠠ	tElE bqlbasvragvlvlta
 ᠲᠧᠯᠧᠸᠢᠽ	tElEwiz
 ᠲᠧᠯᠧᠸᠢᠽᠵᠢᠬᠦ	tElEwizjihu
 ᠲᠧᠯᠧᠸᠢᠽᠵᠢᠭᠦᠯᠬᠦ	tElEwizjigulhu
@@ -52375,7 +52197,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠧᠯᠧᠭᠷᠠᠹ	tElEgraf
 ᠲᠧᠯᠧᠭᠷᠠᠹᠴᠢ	tElEgrafci
 ᠲᠧᠯᠧᠭᠦᠦᠷ	tElEguur
-ᠲᠧᠯᠧ ᠵᠦᠴᠦᠭᠡ	tElE jucuge
 ᠲᠧᠯᠧᠺᠢᠨᠣ᠋	tElEkinq'
 ᠲᠧᠯᠧᠺᠣᠮᠫᠠᠨᠢ	tElEkqmpani
 ᠲᠧᠯᠧᠺᠰ	tElEks
@@ -52384,7 +52205,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠧᠯᠧᠨᠣᠮᠦ᠋ᠰ	tElEnqmu's
 ᠲᠧᠯᠧᠣᠯᠢᠮᠫᠢᠶᠠᠳ᠋	tElEqlimpiyad'
 ᠲᠧᠯᠧᠰᠺᠣᠫ	tElEskqp
-ᠲᠧᠯᠧ ᠰᠤᠷᠭᠠᠯᠲᠠ	tElE svrgalta
 ᠲᠧᠯᠧᠲ᠋ᠠᠢᠫ	tElEt'aip
 ᠲᠧᠯᠧᠹᠠᠺᠰ	tElEfaks
 ᠲᠧᠯᠧᠹᠢᠯᠢᠮ	tElEfilim
@@ -52394,12 +52214,10 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠧᠯᠧᠹᠣᠨᠵᠢᠭᠤᠯᠬᠤ	tElEfqnjigvlhv
 ᠲᠧᠯᠧᠹᠣᠨᠴᠢ	tElEfqnci
 ᠲᠧᠯᠧᠹᠣᠲ᠋ᠣᠭᠷᠠᠹᠢ	tElEfqt'qgrafi
-ᠲᠧᠯᠧ ᠬᠣᠯᠪᠤᠭ᠎ᠠ	tElE hqlbvg-a
 ᠲᠧᠯᠧᠼᠧᠨ᠋ᠲ᠋ᠷ	tElECEn't'r
 ᠲᠧᠮᠫ	tEmp
 ᠲᠧᠮᠫᠧᠷᠠᠲ᠋ᠦ᠋ᠷ	tEmpErat'u'r
 ᠲᠧᠨᠳᠧᠷ	tEndEr
-ᠲᠧᠨ᠋ᠨᠢᠰ (ᠲᠧᠩᠨᠢᠰ)	tEn'nis (tE;nis)
 ᠲᠧᠨᠣᠷ	tEnqr
 ᠲᠧᠣᠺᠷᠠᠲ᠋	tEqkrat
 ᠲᠧᠣᠺᠷᠠᠲ᠋ᠢᠰᠮ	tEqkrat'ism
@@ -52428,7 +52246,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠧᠭᠨᠣᠯᠣᠭᠢ	tEgnqlqgi
 ᠲ᠋ᠧᠭᠨᠣᠯᠣᠭᠢᠴᠢ	t'Egnqlqgici
 ᠲᠢᠪ	tib
-ᠲᠢᠭ(ᠲᠢᠭ)	tig(tig)
 ᠲᠡᠢ	tei
 ᠲᠡᠢᠵᠡ	teije
 ᠲᠡᠢᠵᠡᠳᠡᠭᠳᠡᠬᠦ	teijedegdehu
@@ -52438,9 +52255,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠢᠯᠡᠬᠦ	teilehu
 ᠲᠡᠢᠮᠦ	teimu
 ᠲᠡᠢᠮᠦᠬᠡᠨ	teimuhen
-ᠲᠡᠢᠮᠦ ᠰᠢᠭ	teimu sig
 ᠲᠡᠢᠮᠦᠷᠬᠦᠦ	teimurhuu
-ᠲᠡᠢᠮᠦ᠎ ᠡᠴᠡ	teimu-ece
+ᠲᠡᠢᠮᠦ᠎ᠡᠴᠡ	teimu-ece
 ᠲᠡᠢᠨ	tein
 ᠲᠡᠢᠩᠬᠡᠨ	tei;hen
 ᠲᠡᠢᠨᠬᠦᠦ	teinhuu
@@ -52461,11 +52277,10 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠢᠴᠢᠯᠡᠬᠦ	teicilehu
 ᠲᠡᠢᠴᠢᠯᠡᠭᠦᠯᠬᠦ	teicilegulhu
 ᠲᠡᠢᠴᠢᠯᠡᠭᠦᠷ	teicilegur
-ᠲᠡᠢᠰᠢ(ᠲᠡᠰᠢ)	teisi(tesi)
 ᠲᠡᠢᠰᠢᠬᠢ	teisihi
 ᠲᠡᠢᠰᠢᠯᠡᠬᠦ	teisilehu
 ᠲᠡᠢᠰᠢᠬᠡᠨ	teisihen
-ᠲᠡᠢᠰᠢ᠎ ᠪᠡᠨ	teisi-ben
+ᠲᠡᠢᠰᠢ᠎ᠪᠡᠨ	teisi-ben
 ᠲᠢᠩᠬᠢᠮ	ti;him
 ᠲᠢᠷᠠᠨ	tiran
 ᠲᠢᠷᠠᠤᠯᠢᠭ	tiravlig
@@ -52628,10 +52443,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠭᠣᠭᠠᠴᠢ	tqgqgaci
 ᠲᠣᠭᠣᠷᠤᠤ	tqgqrvv
 ᠲᠣᠭᠣᠰ	tqgqs
-ᠲᠣᠭᠣᠰᠭᠣᠯᠵᠢᠨ(︕)	tqgqsgqljin(!)
 ᠲᠣᠭᠲᠠᠪᠤᠷᠢ	tqgtabvri
-ᠲᠣᠭᠲᠠᠪᠤᠷᠢᠦᠭᠡᠢᠲᠡᠬᠦ	tqgtabvri ugeitehu
-ᠲᠣᠭᠲᠠᠪᠤᠷᠢᠦᠭᠡᠢᠰᠢᠯ	tqgtabvri ugeisil
 ᠲᠣᠭᠲᠠᠪᠤᠷᠢᠵᠢᠯ	tqgtabvrijil
 ᠲᠣᠭᠲᠠᠪᠤᠷᠢᠵᠢᠯᠲᠠ	tqgtabvrijilta
 ᠲᠣᠭᠲᠠᠪᠤᠷᠢᠵᠢᠬᠤ	tqgtabvrijihv
@@ -52824,7 +52636,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠭᠣᠷᠢᠯᠴᠠᠬᠤ	tqgqrilcahv
 ᠲᠣᠭᠣᠷᠢᠮ	tqgqrim
 ᠲᠣᠭᠣᠷᠢᠨ	tqgqrin
-ᠲᠣᠭᠣᠷᠢᠨ᠎ ᠳᠠᠬᠢ	tqgqrin-dahi
 ᠲᠣᠭᠣᠷᠢᠨᠲᠠᠰᠤ	tqgqrintasv
 ᠲᠣᠭᠣᠷᠢᠩᠬᠠᠢ	tqgqri;hai
 ᠲᠣᠭᠣᠷᠢᠨᠴᠣᠭ	tqgqrincqg
@@ -53126,16 +52937,15 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠩᠰᠢᠭᠤᠷ	tq;sigvr
 ᠲᠣᠩᠰᠢᠭᠤᠷᠴᠢ	tq;sigvrci
 ᠲᠣᠭ᠎ᠠ	tqg-a
-ᠲᠣᠣᠪᠠᠳ	thqbad
+ᠲᠣᠣᠪᠠᠳ	tqqbad
 ᠲᠣᠭᠣᠭᠳᠠᠬᠤ	tqgqgdahv
-ᠲᠣᠣᠭ᠎ᠠ	thqg-a
+ᠲᠣᠣᠭ᠎ᠠ	tqqg-a
 ᠲᠣᠭᠣᠳᠣᠭᠣᠷ	tqgqdqgqr
 ᠲᠣᠭᠣᠳᠠᠭ	tqgqdag
 ᠲᠣᠭᠣᠳᠠᠭᠲᠠᠨ	tqgqdagtan
 ᠲᠣᠭᠣᠳᠠᠢᠯᠭᠠᠬᠤ	tqgqdailgahv
 ᠲᠣᠭᠣᠳᠠᠢᠬᠤ	tqgqdaihv
 ᠲᠣᠭᠣᠳᠣᠩ	tqgqdq;
-ᠲᠣᠭ᠎ᠠ ᠵᠦᠢ	tqg-a jui
 ᠲᠣᠭᠣᠯᠭᠠᠬᠤ	tqgqlgahv
 ᠲᠣᠭᠠᠯᠠᠵᠠᠨᠠᠬᠤ	tqgalajanahv
 ᠲᠣᠭᠠᠯᠠᠯᠭ᠎ᠠ	tqgalalg-a
@@ -53174,7 +52984,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠭᠣᠨᠣᠲᠠᠢ	tqgqnqtai
 ᠲᠣᠭᠣᠨᠣᠴᠢ	tqgqnqci
 ᠲᠣᠭᠣᠨᠣᠴᠠᠭ	tqgqnqcag
-ᠲᠣᠣᠷ	thqr
+ᠲᠣᠣᠷ	tqqr
 ᠲᠣᠭᠣᠷ	tqgqr
 ᠲᠣᠭᠣᠷᠮᠠᠰᠤ	tqgqrmasv
 ᠲᠣᠭᠣᠷᠮᠠᠰᠤᠯᠠᠭᠳᠠᠬᠤ	tqgqrmasvlagdahv
@@ -53184,14 +52994,14 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠭᠣᠷᠮᠠᠰᠤᠯᠠᠵᠠᠭᠠᠬᠤ	tqgqrmasvlajagahv
 ᠲᠣᠭᠣᠷᠠᠭ	tqgqrag
 ᠲᠣᠭᠣᠷᠠᠭᠲᠠᠢ	tqgqragtai
-ᠲᠣᠣᠷᠠᠢ	thqrai
-ᠲᠣᠣᠷᠠᠢᠯᠠᠬᠤ	thqrailahv
-ᠲᠣᠣᠷᠮ᠎ᠠ	thqrm-a
+ᠲᠣᠣᠷᠠᠢ	tqqrai
+ᠲᠣᠣᠷᠠᠢᠯᠠᠬᠤ	tqqrailahv
+ᠲᠣᠣᠷᠮ᠎ᠠ	tqqrm-a
 ᠲᠣᠷᠣᠮᠵᠢ	tqrqmji
-ᠲᠣᠣᠷᠠᠨᠴᠠᠷ	thqrancar
+ᠲᠣᠣᠷᠠᠨᠴᠠᠷ	tqqrancar
 ᠲᠣᠭᠣᠷᠴᠣᠭ	tqgqrcqg
 ᠲᠣᠭᠣᠰᠣ	tqgqsq
-ᠲᠣᠣᠰ	thqs
+ᠲᠣᠣᠰ	tqqs
 ᠲᠣᠭᠣᠰᠬ᠎ᠠ	tqgqsq-a
 ᠲᠣᠭᠣᠰᠬᠠᠷᠠᠬᠤ	tqgqsharahv
 ᠲᠣᠭᠣᠰᠬᠠᠴᠢ	tqgqshaci
@@ -53204,9 +53014,9 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠭᠣᠰᠣᠵᠢᠭᠤᠯᠬᠤ	tqgqsqjigvlhv
 ᠲᠣᠭᠣᠰᠣᠯᠢᠭ	tqgqsqlig
 ᠲᠣᠭᠣᠰᠣᠯᠠᠬᠤ	tqgqsqlahv
-ᠲᠣᠣᠰᠯᠠᠬᠤ	thqslahv
+ᠲᠣᠣᠰᠯᠠᠬᠤ	tqqslahv
 ᠲᠣᠭᠣᠰᠣᠯᠠᠭᠤᠯᠬᠤ	tqgqsqlagvlhv
-ᠲᠣᠣᠰᠯᠠᠭᠤᠯᠬᠤ	thqslagvlhv
+ᠲᠣᠣᠰᠯᠠᠭᠤᠯᠬᠤ	tqqslagvlhv
 ᠲᠣᠭᠣᠰᠣᠪᠴᠢ	tqgqsqbci
 ᠲᠣᠭᠣᠰᠣᠪᠴᠢᠲᠤ	tqgqsqbcitv
 ᠲᠣᠭᠣᠰᠣᠨᠴᠠᠷ	tqgqsqncar
@@ -53310,26 +53120,25 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠷᠳᠠᠬᠤ	tqrdahv
 ᠲᠣᠷᠳᠠᠵᠠᠭᠠᠬᠤ	tqrdajagahv
 ᠲᠣᠷᠳᠠᠭᠤᠯᠬᠤ	tqrdagvlhv
-ᠲᠣᠷᠳ᠋ ᠬᠢᠬᠦ	tqrd' hihu
 ᠲᠣᠷᠵᠢᠭᠢᠨᠠᠮ᠎ᠠ	tqrjiginam-a
 ᠲᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ	tqrjiginahv
 ᠲᠣᠷᠯᠣᠭ	tqrlqg
-ᠲᠣᠣᠷᠯᠢᠭ	thqrlig
+ᠲᠣᠣᠷᠯᠢᠭ	tqqrlig
 ᠲᠣᠷᠯᠣᠭᠳᠠᠭᠳᠠᠬᠤ	tqrlqgdagdahv
-ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠭᠳᠠᠬᠤ	thqrlagdagdahv
+ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠭᠳᠠᠬᠤ	tqqrlagdagdahv
 ᠲᠣᠷᠯᠣᠭᠳᠠᠬᠤ	tqrlqgdahv
-ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠬᠤ	thqrlagdahv
+ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠬᠤ	tqqrlagdahv
 ᠲᠣᠷᠯᠣᠭᠳᠠᠭᠤᠯᠬᠤ	tqrlqgdagvlhv
-ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠭᠤᠯᠬᠤ	thqrlagdagvlhv
-ᠲᠣᠣᠷᠯᠣᠭᠲᠠᠰᠤ	thqrlqgtasv
-ᠲᠣᠣᠷᠯᠠᠬᠤ	thqrlahv
+ᠲᠣᠣᠷᠯᠠᠭᠳᠠᠭᠤᠯᠬᠤ	tqqrlagdagvlhv
+ᠲᠣᠣᠷᠯᠣᠭᠲᠠᠰᠤ	tqqrlqgtasv
+ᠲᠣᠣᠷᠯᠠᠬᠤ	tqqrlahv
 ᠲᠣᠷᠣᠯᠠᠬᠤ	tqrqlahv
-ᠲᠣᠣᠷᠯᠠᠵᠠᠭᠠᠬᠤ	thqrlajagahv
+ᠲᠣᠣᠷᠯᠠᠵᠠᠭᠠᠬᠤ	tqqrlajagahv
 ᠲᠣᠷᠣᠯᠠᠵᠠᠭᠠᠬᠤ	tqrqlajagahv
-ᠲᠣᠣᠷᠯᠠᠴᠢᠬᠤ	thqrlacihv
+ᠲᠣᠣᠷᠯᠠᠴᠢᠬᠤ	tqqrlacihv
 ᠲᠣᠷᠣᠯᠠᠴᠢᠬᠤ	tqrqlacihv
 ᠲᠣᠤᠷᠯᠠᠭᠤᠯᠬᠤ	thvrlagvlhv
-ᠲᠣᠣᠷᠯᠠᠭᠤᠷ	thqrlagvr
+ᠲᠣᠣᠷᠯᠠᠭᠤᠷ	tqqrlagvr
 ᠲᠣᠷᠮᠣᠭ	tqrmqg
 ᠲᠣᠷᠮᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	tqrmqgqnagvlhv
 ᠲᠣᠷᠮᠣᠭᠣᠨᠠᠬᠤ	tqrmqgqnahv
@@ -53371,7 +53180,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠷᠣᠮᠵᠢᠶᠠᠯᠠᠭᠤᠯᠬᠤ	tqrqmjiyalagvlhv
 ᠲᠣᠷᠣᠮᠲᠣᠭᠯᠠᠬᠤ	tqrqmtqglahv
 ᠲᠣᠷᠣᠨ	tqrqn
-ᠲᠣᠣᠷᠣᠨᠴᠢᠷ	thqrqncir
+ᠲᠣᠣᠷᠣᠨᠴᠢᠷ	tqqrqncir
 ᠲᠣᠷᠣᠭ᠎ᠠ	tqrqg-a
 ᠲᠣᠷᠠᠭᠠᠬᠤ	tqragahv
 ᠲᠣᠷᠠᠬᠤ	tqrahv
@@ -53379,7 +53188,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠷᠫᠧᠳ᠋ᠴᠢᠳ	tqrpEd'cid
 ᠲᠣᠷᠫᠧᠳ᠋ᠴᠢᠨ	tqrpEd'cin
 ᠲᠣᠷᠰᠯᠠᠭᠤᠷ	tqrslagvr
-ᠲᠣᠣᠷᠲᠤ	thqrtv
+ᠲᠣᠣᠷᠲᠤ	tqqrtv
 ᠲᠣᠷᠲᠤ	tqrtv
 ᠲᠣᠷᠲᠣᠭᠣᠨᠠᠬᠤ	tqrtqgqnahv
 ᠲᠣᠷᠲᠣᠭᠣᠷ	tqrtqgqr
@@ -53396,7 +53205,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠷᠲᠣᠭᠲᠣᠬᠤ	tqrtqgtqhv
 ᠲᠣᠷᠲᠣᠭᠰᠢᠬᠤ	tqrtqgsihv
 ᠲᠣᠷᠣᠭᠤ	tqrqgv
-ᠲᠣᠣᠷᠭᠤᠯ(︕)	thqrgvl(!)
 ᠲᠣᠷᠬ᠎ᠠ	tqrq-a
 ᠲᠣᠷᠬᠢᠢᠬᠦ	tqrhiihu
 ᠲᠣᠷᠬᠢᠬᠤ	tqrhihv
@@ -53419,7 +53227,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠰᠬᠣᠬᠤ	tqshqhv
 ᠲᠣᠰᠬᠣᠭᠤᠯ	tqshqgvl
 ᠲᠣᠰᠬᠣᠭᠤᠷ	tqshqgvr
-ᠲᠣᠰᠣᠦᠭᠡᠢᠵᠢᠭᠦᠯᠬᠦ	tqsq ugeijigulhu
 ᠲᠣᠰᠣᠳᠠᠬᠤ	tqsqdahv
 ᠲᠣᠰᠣᠳᠠᠭᠤᠯᠬᠤ	tqsqdagvlhv
 ᠲᠣᠰᠣᠯᠢᠭ	tqsqlig
@@ -53438,7 +53245,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠣᠰᠣᠯᠴᠠᠬᠤ	tqsqlcahv
 ᠲᠣᠰᠣᠨᠳᠠᠢ	tqsqndai
 ᠲᠣᠰᠣᠷᠬᠠᠭ	tqsqrhag
-ᠲᠣᠰᠣᠷᠬᠠᠤ(ᠲᠣᠰᠣᠷᠬᠠᠭᠤ)	tqsqrhav(tqsqrhagv)
 ᠲᠣᠰᠬᠤ	tqshv
 ᠲᠣᠰᠣᠴᠠ	tqsqca
 ᠲᠣᠰᠴᠠᠭᠠᠬᠤ	tqscagahv
@@ -54005,7 +53811,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠤᠰᠠᠮ᠎ᠠ	tvsam-a
 ᠲᠤᠰᠠᠮᠠᠷᠴᠢ	tvsamarci
 ᠲᠤᠰᠠᠲᠠᠢ	tvsatai
-ᠲᠤᠰ ᠲᠤᠰ	tvs tvs
 ᠲᠤᠰᠬᠠᠭ	tvshag
 ᠲᠤᠰᠠᠴᠢ	tvsaci
 ᠲᠤᠰᠴᠢᠯᠠᠬᠤ	tvscilahv
@@ -54102,7 +53907,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠤᠤᠬᠤᠤ	tvvhvv
 ᠲᠠᠭᠤᠵᠠᠭᠠᠬᠤ	tagvjagahv
 ᠲᠤᠭᠤᠴᠢᠭᠳᠠᠬᠤ	tvgvcigdahv
-ᠲᠤᠭᠤᠴᠢ᠎ ᠨᠤᠭᠤᠳ	tvgvci-nvgvd
+ᠲᠤᠭᠤᠴᠢ᠎ᠨᠤᠭᠤᠳ	tvgvci-nvgvd
 ᠲᠠᠭᠤᠴᠢᠬᠤ	tagvcihv
 ᠲᠠᠭᠤᠴᠢᠭᠤᠯᠬᠤ	tagvcigvlhv
 ᠲᠠᠭᠤᠰᠢ	tagvsi
@@ -54113,13 +53918,13 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠦᠹᠯᠢ	tufli
 ᠲᠤᠬ᠎ᠠ	tvq-a
 ᠲᠤᠬᠠᠢ	tvhai
-ᠲᠤᠬᠠᠢ᠎ ᠳᠤ	tvhai-dv
+ᠲᠤᠬᠠᠢ᠎ᠳᠤ	tvhai-dv
 ᠲᠤᠬᠠᠢᠯᠠᠭᠳᠠᠬᠤ	tvhailagdahv
 ᠲᠤᠬᠠᠢᠯᠠᠯ	tvhailal
 ᠲᠤᠬᠠᠢᠯᠠᠬᠤ	tvhailahv
 ᠲᠤᠬᠠᠢᠯᠠᠪᠠᠯ	tvhailabal
 ᠲᠤᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ	tvhailagvlhv
-ᠲᠤᠬᠠᠢ᠎ ᠶᠢᠨ	tvhai-yin
+ᠲᠤᠬᠠᠢ᠎ᠶᠢᠨ	tvhai-yin
 ᠲᠤᠬᠠᠢᠲᠠᠢ	tvhaitai
 ᠲᠤᠬᠠᠯᠠᠵᠠᠭᠠᠬᠤ	tvhalajagahv
 ᠲᠤᠬᠢᠷᠤᠭᠳᠠᠬᠤ	tvhirvgdahv
@@ -54323,7 +54128,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠭᠰᠢᠬᠡᠨ	tegsihen
 ᠲᠡᠭᠡᠯᠴᠡᠬᠦ	tegelcehu
 ᠲᠡᠭᠡᠬᠦ	tegehu
-ᠲᠡᠭᠡᠬᠦ᠎ ᠳᠡᠭᠡᠨ	tegehu-degen
+ᠲᠡᠭᠡᠬᠦ᠎ᠳᠡᠭᠡᠨ	tegehu-degen
 ᠲᠡᠭᠡᠬᠦᠯᠡᠷ	tegehuler
 ᠲᠡᠭᠡᠭᠡᠳ	tegeged
 ᠲᠡᠭᠡᠭᠦᠯᠬᠦ	tegegulhu
@@ -54472,7 +54277,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠩᠭᠡᠴᠡᠭᠦᠯᠬᠦ	te;gecegulhu
 ᠲᠡᠨᠳᠡ	tende
 ᠲᠡᠨᠳᠡᠬᠢ	tendehi
-ᠲᠡᠨᠳᠡ᠎ ᠡᠴᠡ	tende-ece
+ᠲᠡᠨᠳᠡ᠎ᠡᠴᠡ	tende-ece
 ᠲᠡᠨᠵᠢᠬᠦ	tenjihu
 ᠲᠡᠨᠵᠢᠯᠡᠬᠦ	tenjilehu
 ᠲᠡᠩᠵᠢᠶ᠎ᠡ	te;jiy-e
@@ -54599,7 +54404,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠨᠦᠭᠦᠴᠢᠯᠡᠭᠦᠯᠬᠦ	tenugucilegulhu
 ᠲᠡᠷᠡ	tere
 ᠲᠡᠷᠪᠤᠮ	terbvm
-ᠲᠡᠷᠡ᠎ ᠪᠡᠷ	tere-ber
+ᠲᠡᠷᠡ᠎ᠪᠡᠷ	tere-ber
 ᠲᠡᠷᠪᠡᠢᠬᠦ	terbeihu
 ᠲᠡᠷᠭᠡᠯ	tergel
 ᠲᠡᠷᠭᠡᠯᠡᠬᠦ	tergelehu
@@ -54717,7 +54522,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠰᠬᠦ	teshu
 ᠲᠡᠰᠵᠡᠭᠡᠬᠦ	tesjegehu
 ᠲᠡᠰᠦᠭᠦᠯᠬᠦ	tesugulhu
-ᠲᠡᠳᠪᠦᠷᠢ(ᠲᠡᠰᠪᠦᠷᠢ)	tedburi(tesburi)
 ᠲᠡᠲᠡᠭᠡᠢ	tetegei
 ᠲᠡᠲᠡᠭᠡᠢᠯᠡᠬᠦ	tetegeilehu
 ᠲᠡᠳᠬᠦᠪᠦᠷᠢ	tedhuburi
@@ -55226,7 +55030,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠦᠰᠬᠢᠢᠯᠭᠡᠬᠦ	tushiilgehu
 ᠲᠦᠰᠬᠢᠢᠬᠦ	tushiihu
 ᠲᠦᠰᠬᠡᠭᠡᠷ	tusheger
-ᠲᠦᠰ ᠭᠡᠲᠡᠯ᠎ᠡ	tus getel-e
 ᠲᠦᠰᠦᠷᠭᠡ	tusurge
 ᠲᠦᠰᠦᠷᠬᠦ	tusurhu
 ᠲᠦᠰᠦᠷᠦᠭᠦᠯᠬᠦ	tusurugulhu
@@ -55277,8 +55080,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠭᠦᠪᠦᠷᠢᠯᠡᠬᠦ	teguburilehu
 ᠲᠡᠭᠦᠪᠦᠷᠢᠯᠡᠵᠡᠭᠡᠬᠦ	teguburilejegehu
 ᠲᠡᠭᠦᠪᠦᠷᠢᠯᠡᠭᠦᠯᠬᠦ	teguburilegulhu
-ᠲᠡᠭᠦᠨ᠎ ᠢᠶᠡᠷ	tegun-iyer
-ᠲᠡᠭᠦᠨ᠎ ᠢᠶᠡᠷ᠎ ᠢᠶᠡᠨ	tegun-iyer-iyen
+ᠲᠡᠭᠦᠨ᠎ᠢᠶᠡᠷ	tegun-iyer
+ᠲᠡᠭᠦᠨ᠎ᠢᠶᠡᠷ᠎ᠢᠶᠡᠨ	tegun-iyer-iyen
 ᠲᠡᠭᠦᠳ	tegud
 ᠲᠦᠭᠦᠳᠡᠭᠡᠨᠴᠡᠷ	tugudegencer
 ᠲᠡᠭᠦᠳᠡᠷᠡᠬᠦ	teguderehu
@@ -55435,7 +55238,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠲᠡᠭᠦᠯᠳᠡᠷᠵᠢᠭᠦᠯᠦᠯᠲᠡ	tegulderjigululte
 ᠲᠡᠭᠦᠯᠳᠡᠷᠵᠢᠭᠦᠯᠬᠦ	tegulderjigulhu
 ᠲᠡᠳᠦ	tedu
-ᠲᠡᠳᠦᠢ᠎ ᠡᠴᠡ	tedui-ece
+ᠲᠡᠳᠦᠢ᠎ᠡᠴᠡ	tedui-ece
 ᠲᠡᠳᠦᠢᠯᠡᠬᠦ	teduilehu
 ᠲᠡᠳᠦᠢᠬᠡᠨ	teduihen
 ᠲᠡᠳᠦᠢᠴᠢᠨᠡᠭᠡ	teduicinege
@@ -55770,7 +55573,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠭᠯᠠᠭᠤᠷᠭ᠎ᠠ	vglagvrg-a
 ᠤᠭᠯᠠᠭᠤᠷᠭᠠᠳᠠᠬᠤ	vglagvrgadahv
 ᠤᠭᠯᠠᠭᠤᠷᠭᠠᠳᠠᠭᠤᠯᠬᠤ	vglagvrgadagvlhv
-ᠤᠭᠯᠠᠭᠤᠷᠭ᠎ᠠ᠎ ᠨᠤᠭᠤᠳ	vglagvrg-a-nvgvd
+ᠤᠭᠯᠠᠭᠤᠷᠭ᠎ᠠ᠎ᠨᠤᠭᠤᠳ	vglagvrg-a-nvgvd
 ᠤᠭᠰᠠᠭ᠎ᠠ	vgsag-a
 ᠤᠭᠰᠤᠭ᠎ᠠ	vgsvg-a
 ᠤᠭᠰᠠᠭᠠᠯᠢᠭ	vgsagalig
@@ -55797,7 +55600,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠭᠰᠠᠷᠠᠭᠤᠯᠤᠭᠴᠢ	vgsaragvlvgci
 ᠤᠭᠰᠠᠷᠠᠭᠤᠯᠬᠤ	vgsaragvlhv
 ᠤᠭᠰᠤᠭᠤᠷᠠᠭ᠎ᠠ	vgsvgvrag-a
-ᠤᠭ᠎ ᠲᠠᠭᠠᠨ	vg-tagan
+ᠤᠭ᠎ᠲᠠᠭᠠᠨ	vg-tagan
 ᠤᠭᠲᠤᠭᠳᠠᠬᠤ	vgtvgdahv
 ᠤᠭᠲᠤᠭᠰᠠᠳ	vgtvgsad
 ᠤᠭᠲᠤᠵᠠᠨᠠᠬᠤ	vgtvjanahv
@@ -56118,7 +55921,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠯᠠᠯᠠᠬᠤ	vlalahv
 ᠤᠯᠠᠯᠠᠵᠠᠭᠠᠬᠤ	vlalajagahv
 ᠤᠯᠠᠯᠠᠭᠤᠯᠬᠤ	vlalagvlhv
-ᠤᠯᠠᠮ᠎ ᠢᠶᠠᠷ	vlam-iyar
+ᠤᠯᠠᠮ᠎ᠢᠶᠠᠷ	vlam-iyar
 ᠤᠯᠠᠷᠤᠤ	vlarvv
 ᠤᠯᠤᠰ	vlvs
 ᠤᠯᠠᠰᠤ	vlasv
@@ -56359,7 +56162,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠩᠬᠤᠭᠠᠷ	v;hvgar
 ᠤᠩᠬᠢ	v;hi
 ᠤᠩᠬᠢᠶ᠎ᠠ	v;hiy-a
-ᠤᠩᠬᠢᠶ᠎ᠠᠦᠭᠡᠢᠲᠡᠬᠦ	v;hiy-a ugeitehu
 ᠤᠩᠬᠢᠯᠠᠬᠤ	v;hilahv
 ᠤᠩᠰᠢᠭᠠᠴᠢ	v;sigaci
 ᠤᠩᠰᠢᠭᠳᠠᠬᠤ	v;sigdahv
@@ -56395,7 +56197,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠤᠭᠴᠠᠬᠤ	vrvgcahv
 ᠤᠷᠤᠭᠴᠢᠯᠠᠬᠤ	vrvgcilahv
 ᠤᠷᠤᠭᠰᠢ	vrvgsi
-ᠤᠷᠤᠭᠰᠢ᠎ ᠪᠠᠨ	vrvgsi-ban
+ᠤᠷᠤᠭᠰᠢ᠎ᠪᠠᠨ	vrvgsi-ban
 ᠤᠷᠤᠭᠰᠢᠳᠠᠬᠤ	vrvgsidahv
 ᠤᠷᠤᠭᠰᠢᠳᠠᠭᠤᠯᠬᠤ	vrvgsidagvlhv
 ᠤᠷᠤᠭᠰᠢᠳᠠ	vrvgsida
@@ -56490,8 +56292,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠭᠤᠮᠠᠷ	vrgvmar
 ᠤᠷᠭᠤᠮᠠᠯ	vrgvmal
 ᠤᠷᠭᠤᠮᠠᠯᠵᠢᠯᠲᠠ	vrgvmaljilta
-ᠤᠷᠭᠤᠮᠠᠯ ᠵᠦᠢ	vrgvmal jui
-ᠤᠷᠭᠤᠮᠠᠯ ᠵᠦᠢᠴᠢ	vrgvmal juici
 ᠤᠷᠭᠤᠮᠠᠯᠯᠢᠭ	vrgvmallig
 ᠤᠷᠭᠤᠮᠠᠯᠲᠤ	vrgvmaltv
 ᠤᠷᠭᠤᠮᠠᠯᠲᠤᠬᠤ	vrgvmaltvhv
@@ -56522,9 +56322,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠵᠢᠳᠤᠷ	vrjidvr
 ᠤᠷᠵᠢᠭᠳᠤᠷ	vrjigdvr
 ᠤᠷᠵᠢᠳᠤᠷᠬᠠᠨ	vrjidvrhan
-ᠤᠷᠵᠢ᠎ ᠶᠢᠨ	vrji-yin
+ᠤᠷᠵᠢ᠎ᠶᠢᠨ	vrji-yin
 ᠤᠷᠵᠢᠨᠤᠨ	vrjinvn
-ᠤᠷ᠎ᠠ ᠵᠦᠢ	vr-a jui
 ᠤᠷᠢᠶ᠎ᠠ	vriy-a
 ᠤᠷᠢᠶᠠᠳᠠᠬᠤ	vriyadahv
 ᠤᠷᠢᠶᠠᠳᠠᠭᠤᠯᠬᠤ	vriyadagvlhv
@@ -56564,7 +56363,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠠᠯᠢᠭ	vralig
 ᠤᠷᠠᠯᠢᠭᠵᠢᠬᠤ	vraligjihv
 ᠤᠷᠠᠯᠢᠭᠵᠢᠭᠤᠯᠬᠤ	vraligjigvlhv
-ᠤᠷᠠᠯᠠᠭᠤ(ᠤᠷᠠᠯᠭᠤ)	vralagv(vralgv)
 ᠤᠷᠠᠯᠢᠭᠴᠢ	vraligci
 ᠤᠷᠠᠯᠠᠯ	vralal
 ᠤᠷᠠᠯᠠᠯᠭ᠎ᠠ	vralalg-a
@@ -56588,7 +56386,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠤᠰᠤᠭᠤᠷ	vrvsvgvr
 ᠤᠷᠲᠤ	vrtv
 ᠤᠷᠲᠤᠭᠠᠰᠢ	vrtvgasi
-ᠤᠷᠲᠤᠭᠠᠰᠢ᠎ ᠪᠠᠨ	vrtvgasi-ban
+ᠤᠷᠲᠤᠭᠠᠰᠢ᠎ᠪᠠᠨ	vrtvgasi-ban
 ᠤᠷᠤᠪᠲᠤᠷ	vrvbtvr
 ᠤᠷᠲᠤᠭᠴᠢᠨ	vrtvgcin
 ᠤᠷᠠᠲᠠᠢ	vratai
@@ -56627,7 +56425,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠷᠤᠭᠤᠳᠠᠭᠤᠯᠬᠤ	vrvgvdagvlhv
 ᠤᠷᠤᠭᠤᠯ	vrvgvl
 ᠤᠷᠤᠭᠤᠯᠳᠠᠬᠤ	vrvgvldahv
-ᠤᠷᠤᠭᠤᠯ ᠴᠡᠴᠡᠭ	vrvgvl ceceg
 ᠤᠷᠤᠭᠤᠯᠰᠢᠬᠤ	vrvgvlsihv
 ᠤᠷᠤᠭᠤᠯᠰᠢᠭᠤᠯᠬᠤ	vrvgvlsigvlhv
 ᠤᠷᠤᠭᠤᠳᠬᠠᠯ	vrvgvdhal
@@ -57116,7 +56913,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠴᠢᠭᠯᠠᠬᠤ	vciglahv
 ᠤᠴᠢᠭᠯᠠᠭᠤᠯᠬᠤ	vciglagvlhv
 ᠤᠴᠢᠷ	vcir
-ᠤᠴᠢᠷ ᠵᠦᠢ	vcir jui
 ᠤᠴᠢᠷᠯᠠᠯ	vcirlal
 ᠤᠴᠢᠷᠯᠠᠮ᠎ᠠ	vcirlam-a
 ᠤᠴᠢᠷᠯᠠᠬᠤ	vcirlahv
@@ -57125,7 +56921,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠤᠴᠢᠷᠲᠠᠢᠬᠠᠨ	vcirtaihan
 ᠤᠴᠠᠷᠠᠵᠠᠭᠠᠬᠤ	vcarajagahv
 ᠤᠴᠠᠷᠠᠭ᠎ᠠ	vcarag-a
-ᠤᠴᠢᠷ᠎ ᠠᠴᠠ	vcir-aca
+ᠤᠴᠢᠷ᠎ᠠᠴᠠ	vcir-aca
 ᠤᠴᠠᠷᠠᠯ	vcaral
 ᠤᠴᠠᠷᠠᠯᠳᠤᠬᠤ	vcaraldvhv
 ᠤᠴᠠᠷᠠᠯᠳᠤᠭᠤᠯᠬᠤ	vcaraldvgvlhv
@@ -57210,7 +57006,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠭᠳᠡᠷᠡᠬᠦ	ugderehu
 ᠦᠭᠳᠡᠷᠡᠭᠡᠬᠦ	ugderegehu
 ᠦᠭᠳᠡᠷᠡᠭᠦᠯᠬᠦ	ugderegulhu
-ᠦᠭᠡ ᠵᠦᠢ	uge jui
 ᠦᠭᠡᠢᠭᠦᠦ	ugeiguu
 ᠦᠭᠡᠭᠦᠷᠡᠬᠦ	ugegurehu
 ᠦᠭᠡᠭᠦᠶ᠎ᠡ	ugeguy-e
@@ -57273,7 +57068,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠭᠡᠢᠰᠬᠦ	ugeishu
 ᠦᠭᠡᠢᠲᠡᠢ	ugeitei
 ᠦᠭᠡᠢᠲᠦᠬᠦ	ugeituhu
-ᠦᠭᠡᠢ ᠬᠢᠬᠦ	ugei hihu
 ᠦᠭᠦᠯᠡᠪᠦᠷᠢ	uguleburi
 ᠦᠭᠦᠯᠡᠯᠭᠡ	ugulelge
 ᠦᠭᠦᠯᠡᠭᠳᠡᠬᠦᠨ	ugulegdehun
@@ -57308,14 +57102,13 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠳᠡᠭᠡᠰᠦ	udegesu
 ᠦᠳᠡᠭᠡᠰᠦᠯᠡᠬᠦ	udegesulehu
 ᠦᠳᠡᠭᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ	udegesulegulhu
-ᠦ ᠳᠤᠩ	u dv;
 ᠦᠳᠡᠭᠦᠯᠬᠦ	udegulhu
 ᠦᠳᠡᠭᠦᠷ	udegur
 ᠦᠳᠡᠭᠦᠰᠢᠲᠡᠢ	udegusitei
 ᠦᠶ᠎ᠡ	uy-e
 ᠦᠶᠡᠳᠡᠬᠦ	uyedehu
 ᠦᠶᠡᠵᠡᠯᠢᠭ	uyejelig
-ᠦᠶ᠎ᠡ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	uy-e-yin-hin
+ᠦᠶ᠎ᠡ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	uy-e-yin-hin
 ᠦᠶᠡᠯᠡᠪᠦᠷᠢ	uyeleburi
 ᠦᠶᠡᠯᠡᠳᠡᠭᠭᠦᠢ	uyeledeggui
 ᠦᠶᠡᠯᠡᠵᠡᠯᠡᠯ	uyelejelel
@@ -57361,7 +57154,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠶᠡᠯᠢ	uyeli
 ᠦᠶᠡᠯᠢᠳ	uyelid
 ᠦᠵᠢᠯ	ujil
-ᠦᠵᠢᠯᠦᠭᠡᠢᠵᠢᠭᠦᠯᠬᠦ	ujil ugeijigulhu
 ᠦᠵᠢᠯᠲᠦ	ujiltu
 ᠦᠵᠢᠷᠡᠮᠡᠯ	ujiremel
 ᠦᠵᠢᠷᠡᠬᠡᠢ	ujirehei
@@ -57388,7 +57180,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠵᠡᠭᠳᠡᠬᠦᠨ	ujegdehun
 ᠦᠵᠡᠭᠳᠡᠴᠡ	ujegdece
 ᠦᠵᠡᠭᠳᠡᠭᠦᠯᠬᠦ	ujegdegulhu
-ᠦᠵᠦᠭᠯᠡᠬᠦ(ᠦᠰᠦᠭᠯᠡᠬᠦ)	ujuglehu(usuglehu)
 ᠦᠵᠡᠭᠰᠡᠳ	ujegsed
 ᠦᠵᠡᠭᠴᠢ	ujegci
 ᠦᠵᠡᠭᠴᠢᠳ	ujegcid
@@ -57409,7 +57200,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠵᠦᠮᠯᠢᠭ	ujumlig
 ᠦᠵᠡᠮᠡᠲᠡᠭᠡᠢ	ujemetegei
 ᠦᠵᠦᠮᠴᠢ	ujumci
-ᠦᠵᠦᠮ ᠰᠢᠬᠢᠷᠵᠢ	ujum sihirji
 ᠦᠵᠡᠰᠬᠦᠯᠡᠩ	ujeshule;
 ᠦᠵᠡᠰᠬᠦᠯᠡᠩᠲᠦ	ujeshule;tu
 ᠦᠵᠡᠰᠬᠦᠯᠡᠩᠲᠡᠢ	ujeshule;tei
@@ -57684,7 +57474,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠨᠳᠦᠰᠦᠷᠬᠡᠵᠡᠭᠡᠬᠦ	undusurhejegehu
 ᠦᠨᠳᠦᠰᠦᠷᠬᠡᠦ	undusurheu
 ᠦᠨᠳᠦᠰᠦᠷᠬᠡᠭᠦᠯᠬᠦ	undusurhegulhu
-ᠦᠨᠳᠦᠰᠦ᠎ ᠪᠡᠷ	undusu-ber
+ᠦᠨᠳᠦᠰᠦ᠎ᠪᠡᠷ	undusu-ber
 ᠦᠨᠳᠦᠰᠦ	undusu
 ᠦᠨᠳᠦᠰᠦᠵᠢᠬᠦ	undusujihu
 ᠦᠨᠳᠦᠰᠦᠵᠢᠭᠦᠯᠬᠦ	undusujigulhu
@@ -57722,12 +57512,10 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠨᠦᠰᠦᠩᠬᠡᠨ	unusu;hen
 ᠦᠨᠦᠰᠬᠦ	unushu
 ᠦᠨᠦᠰᠦᠭᠦᠯᠬᠦ	unusugulhu
-ᠦᠩᠬᠦ(ᠡᠮᠬᠦ)	u;hu(emhu)
 ᠦᠩᠬᠦᠯᠪᠦᠷᠢ	u;hulburi
 ᠦᠩᠬᠦᠯᠴᠡᠭᠡᠨ	u;hulcegen
 ᠦᠩᠬᠦᠯᠴᠡᠭ	u;hulceg
 ᠦᠩᠬᠦᠯᠴᠡᠭᠲᠦᠰᠦ	u;hulcegtusu
-ᠦᠩᠬᠦᠬᠦ(ᠡᠮᠬᠦᠬᠦ)	u;huhu(emhuhu)
 ᠦᠨ᠎ᠡ	un-e
 ᠦᠨᠡᠭᠡ	unege
 ᠦᠨᠡᠭᠡᠴᠢ	unegeci
@@ -57766,7 +57554,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠨᠡᠮᠰᠢᠭᠡᠬᠦ	unemsigehu
 ᠦᠨᠡᠮᠰᠢᠭᠦᠯᠬᠦ	unemsigulhu
 ᠦᠨᠡᠨ	unen
-ᠦᠨᠡᠨ᠎ ᠳᠡᠭᠡᠨ	unen-degen
+ᠦᠨᠡᠨ᠎ᠳᠡᠭᠡᠨ	unen-degen
 ᠦᠨᠡᠨᠬᠦ	unenhu
 ᠦᠨᠡᠨᠴᠢ	unenci
 ᠦᠨᠡᠨᠴᠢᠷ	unencir
@@ -57802,7 +57590,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠨᠢᠶ᠎ᠡ	uniy-e
 ᠦᠨᠡᠭᠡᠷ	uneger
 ᠦᠨᠡᠷᠡᠨ	uneren
-ᠦᠨᠡᠭᠡᠷ᠎ ᠢᠶᠡᠨ	uneger-iyen
+ᠦᠨᠡᠭᠡᠷ᠎ᠢᠶᠡᠨ	uneger-iyen
 ᠦᠷ᠎ᠡ	ur-e
 ᠦᠷᠡ	ure
 ᠦᠷᠪᠡᠯᠳᠡᠢ	urbeldei
@@ -58044,7 +57832,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠭᠦᠪᠡᠷ	eguber
 ᠡᠭᠦᠳᠡ	egude
 ᠡᠭᠦᠳᠪᠦᠷᠢ	egudburi
-ᠡᠭᠦᠳᠡᠨ᠎ ᠡᠴᠡ	eguden-ece
+ᠡᠭᠦᠳᠡᠨ᠎ᠡᠴᠡ	eguden-ece
 ᠡᠭᠦᠳᠡᠪᠴᠢ	egudebci
 ᠡᠭᠦᠳᠡᠪᠴᠢᠲᠡᠰᠦ	egudebcitesu
 ᠡᠭᠦᠳᠦᠭᠳᠡᠬᠦ	egudugdehu
@@ -58152,7 +57940,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠦᠭᠦᠴᠡ	uguce
 ᠦᠭᠦᠴᠡᠯᠡᠬᠦ	ugucelehu
 ᠦᠭᠦᠴᠡᠯᠡᠭᠦᠯᠬᠦ	ugucelegulhu
-ᠡᠭᠦᠴᠢᠬᠦ(ᠡᠭᠦᠷᠴᠢᠬᠦ)	egucihu(egurcihu)
 ᠹᠠ	fa
 ᠹᠠᠪᠷᠢᠺ	fabrik
 ᠹᠠᠪᠷᠢᠺᠴᠢ	fabrikci
@@ -58257,16 +58044,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠹᠣᠰᠹᠣᠷᠵᠢᠬᠤ	fqsfqrjihv
 ᠹᠣᠰᠹᠣᠲ᠋ᠠᠽ	fqsfqt'az
 ᠹᠣᠲ᠋ᠣ᠋	fqt'q'
-ᠹᠣᠲ᠋ᠣ᠋ ᠠᠫᠫᠠᠷᠠᠲ᠋	fqt'q' apparat
-ᠹᠣᠲ᠋ᠣ᠋ ᠭᠧᠣᠯᠣᠭᠢ	fqt'q' gEqlqgi
-ᠹᠣᠲ᠋ᠣ᠋ ᠳᠤᠷᠠᠨᠪᠠᠢ	fqt'q' dvranbai
 ᠹᠣᠲ᠋ᠣᠨ	fqt'qn
 ᠹᠣᠲ᠋ᠣᠫᠯᠠᠨ	fqt'qplan
 ᠹᠣᠲ᠋ᠣᠷᠶᠠᠯᠢᠰᠮ	fqt'qryalism
 ᠹᠣᠲ᠋ᠣᠰᠢᠨᠲ᠋ᠧᠽ	fqt'qsint'Ez
 ᠹᠣᠲ᠋ᠣᠰᠹᠧᠷ	fqt'qsfEr
 ᠹᠣᠲ᠋ᠣᠲ᠋ᠧᠯᠧᠭᠷᠠᠹ	fqt'qt'ElEgraf
-ᠹᠣᠲ᠋ᠣ᠋ ᠹᠠᠺᠰ	fqt'q' faks
 ᠹᠷᠠᠺ	frak
 ᠹᠷᠠᠺᠼᠢ	frakCi
 ᠹᠷᠠᠩᠺ	fra;k
@@ -58353,7 +58136,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠭᠠᠯᠲᠠᠭᠤᠷ	hagaltagvr
 ᠬᠠᠭᠠᠯᠴᠠᠬᠤ	hagalcahv
 ᠬᠠᠭᠠᠨ	hagan
-ᠬᠠᠮᠢᠭ᠎ᠠ᠎ ᠠᠴᠠ	hamig-a-aca
+ᠬᠠᠮᠢᠭ᠎ᠠ᠎ᠠᠴᠠ	hamig-a-aca
 ᠬᠠᠮᠢᠭᠠᠬᠢ	hamigahi
 ᠬᠠᠭᠠᠨᠭᠠᠯᠠᠬᠤ	haga;alahv
 ᠬᠠᠭᠠᠨᠯᠢᠭ	haganlig
@@ -58363,7 +58146,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠭᠠᠨᠴᠢᠯᠠᠬᠤ	hagancilahv
 ᠬᠠᠭᠠᠷᠯᠢᠭ	hagarlig
 ᠬᠠᠭᠠᠬᠤ	hagahv
-ᠬᠠᠭᠠᠬᠠᠭ (ᠬᠠᠬᠠᠭ)	hagahag (hahag)
 ᠬᠠᠭᠠᠬᠠᠭᠨᠠᠬᠤ	hagahagnahv
 ᠬᠠᠭᠠᠬᠠᠢᠬᠤ	hagahaihv
 ᠬᠠᠭᠠᠬᠠᠯᠵᠠᠬᠤ	hagahaljahv
@@ -58382,12 +58164,10 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠭᠠᠴᠠᠢᠯᠠᠬᠤ	hagacailahv
 ᠬᠠᠭᠠᠴᠠᠢᠯᠠᠭᠤᠯᠬᠤ	hagacailagvlhv
 ᠬᠠᠭᠠᠵᠠᠭᠠᠬᠤ	hagajagahv
-ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠬᠤ	hamig-a qcihv
 ᠬᠠᠭᠠᠴᠢᠬ᠎ᠠ︕	hagaciq-a!
-ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠭᠤᠯᠬᠤ	hamig-a qcigvlhv
 ᠬᠠᠮᠢᠭᠠᠰᠢ	hamigasi
-ᠬᠠᠮᠢᠭᠠᠰᠢ᠎ ᠪᠠᠨ	hamigasi-ban
-ᠬᠠᠰᠢ᠎ ᠳᠠᠭᠠᠨ	hasi-dagan
+ᠬᠠᠮᠢᠭᠠᠰᠢ᠎ᠪᠠᠨ	hamigasi-ban
+ᠬᠠᠰᠢ᠎ᠳᠠᠭᠠᠨ	hasi-dagan
 ᠬᠠᠶᠠ	haya
 ᠬᠠᠶᠠᠬᠠᠨ	hayahan
 ᠬᠠᠪᠧᠷᠲ᠋ᠢᠣᠽ	habErt'iqz
@@ -58432,7 +58212,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠪᠴᠢᠭᠢᠨᠠᠬᠤ	habciginahv
 ᠬᠠᠪᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ	habjiginagvlhv
 ᠬᠠᠪᠢᠶᠠᠷᠠᠬᠤ	habiyarahv
-ᠬᠠᠪᠢ᠎ ᠶᠢᠨ᠎ᠬᠢᠨ	habi-yin-hin
+ᠬᠠᠪᠢ᠎ᠶᠢᠨ᠎ᠬᠢᠨ	habi-yin-hin
 ᠬᠠᠪᠢᠯᠳᠤᠬᠤ	habildvhv
 ᠬᠠᠪᠢᠯᠳᠤᠭᠤ	habildvgv
 ᠬᠠᠪᠢᠷ	habir
@@ -58813,8 +58593,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠵᠢᠮᠠᠯᠲᠤ	hajimaltv
 ᠬᠠᠵᠢᠮᠠᠯᠲᠠ	hajimalta
 ᠬᠠᠵᠠᠭᠤ	hajagv
-ᠬᠠᠵᠠᠭᠤ᠎ ᠪᠠᠷ	hajagv-bar
-ᠬᠠᠵᠠᠭᠤ᠎ ᠪᠠᠷ᠎ᠬᠢ	hajagv-bar-hi
+ᠬᠠᠵᠠᠭᠤ᠎ᠪᠠᠷ	hajagv-bar
+ᠬᠠᠵᠠᠭᠤ᠎ᠪᠠᠷ᠎ᠬᠢ	hajagv-bar-hi
 ᠬᠠᠵᠠᠭᠤᠳᠠᠬᠤ	hajagvdahv
 ᠬᠠᠵᠠᠭᠤ᠎ᠳ᠋ᠠᠬᠢ	hajagv-d'ahi
 ᠬᠠᠵᠠᠭᠤᠳᠠᠭᠤᠯᠬᠤ	hajagvdagvlhv
@@ -59075,14 +58855,12 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠢᠴᠢᠯᠠᠵᠠᠭᠠᠬᠤ	haicilajagahv
 ᠬᠠᠢᠴᠢᠯᠠᠴᠢᠬᠤ	haicilacihv
 ᠬᠠᠢᠴᠢᠨ	haicin
-ᠬᠠᠢᠴᠢᠬᠤ(ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠬᠤ)	haicihv(hamig-a qcihv)
 ᠬᠠᠢᠴᠢᠯᠠᠭᠠᠳᠠᠰᠤ	haicilagadasv
 ᠬᠠᠢᠴᠢᠯᠠᠭᠳᠠᠬᠤ	haicilagdahv
 ᠬᠠᠢᠴᠢᠯᠠᠬᠤ	haicilahv
 ᠬᠠᠢᠴᠢᠯᠠᠭᠤᠯᠬᠤ	haicilagvlhv
 ᠬᠠᠢᠴᠢᠯᠠᠭᠤᠷ	haicilagvr
 ᠬᠠᠢᠴᠢᠯᠠᠭᠤᠷᠲᠤᠬᠤ	haicilagvrtvhv
-ᠬᠠᠢᠰᠢ(ᠬᠠᠮᠢᠭᠠᠰᠢ)	haisi(hamigasi)
 ᠬᠠᠶᠢ	hay'i
 ᠬᠠᠺᠢ	haki
 ᠬᠠᠯᠠ	hala
@@ -59302,7 +59080,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠯᠠᠭᠤᠯᠬᠤ	halagvlhv
 ᠬᠠᠯᠠᠭᠤᠮᠰᠤᠭ	halagvmsvg
 ᠬᠠᠯᠠᠭᠤᠨ	halagvn
-ᠬᠠᠯᠠᠭᠤᠨᠦᠭᠡᠢᠳᠡᠬᠦ	halagvn ugeidehu
 ᠬᠠᠯᠠᠭᠤᠷᠠᠯ	halagvral
 ᠬᠠᠯᠠᠭᠤᠷᠠᠯᠲᠠ	halagvralta
 ᠬᠠᠯᠠᠭᠤᠷᠠᠬᠤ	halagvrahv
@@ -59445,7 +59222,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠮᠤᠭᠴᠢᠯᠠᠭᠤᠯᠬᠤ	hamvgcilagvlhv
 ᠬᠠᠮᠤᠯᠴᠠᠬᠤ	hamvlcahv
 ᠬᠠᠮᠤᠯᠴᠠᠭᠤᠯᠬᠤ	hamvlcagvlhv
-ᠬᠠᠮᠠᠨᠳ᠋(ᠺᠣᠮᠠᠨᠳ᠋)	hamand'(kqmand')
 ᠬᠠᠮᠠᠨᠳᠠᠯᠠᠭᠴᠢ	hamandalagci
 ᠬᠠᠮᠠᠷ	hamar
 ᠬᠠᠮᠠᠷᠳᠠᠭᠳᠠᠬᠤ	hamardagdahv
@@ -59478,7 +59254,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠮᠠᠭᠠᠯᠠᠭᠤᠯᠬᠤ	hamagalagvlhv
 ᠬᠠᠮᠠᠭᠠᠯᠠᠭᠤᠷ	hamagalagvr
 ᠬᠠᠮᠠᠭᠠᠯᠠᠵᠠᠭᠠᠬᠤ	hamagalajagahv
-ᠬᠠᠮᠤᠭ᠎ ᠢᠶᠠᠷ	hamvg-iyar
+ᠬᠠᠮᠤᠭ᠎ᠢᠶᠠᠷ	hamvg-iyar
 ᠬᠠᠮᠠᠭᠠᠯᠠᠵᠠᠬᠤ	hamagalajahv
 ᠬᠠᠮᠠᠭᠠᠷ	hamagar
 ᠬᠠᠮᠤᠭᠠᠴᠢ	hamvgaci
@@ -59573,7 +59349,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠮᠰᠢᠭᠢᠷᠬᠠᠨ	hamsigirhan
 ᠬᠠᠮᠰᠢᠢᠯᠭᠠᠬᠤ	hamsiilgahv
 ᠬᠠᠮᠰᠢᠢᠬᠤ	hamsiihv
-ᠬᠠᠮ ᠰᠢᠨᠵᠢ	ham sinji
 ᠬᠠᠮᠰᠢᠬᠠᠯ	hamsihal
 ᠬᠠᠮᠰᠢᠬᠠᠯᠲᠠ	hamsihalta
 ᠬᠠᠮᠰᠢᠬᠠᠬᠤ	hamsihahv
@@ -59610,7 +59385,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠨᠠᠬᠤ	hanahv
 ᠬᠠᠨᠤᠴᠢᠬᠤ	hanvcihv
 ᠬᠠᠨᠠᠴᠠᠯᠠᠬᠤ	hanacalahv
-ᠬᠠᠨ ᠪᠣᠷᠭᠣᠴᠠᠢ	han bqrgqcai
 ᠬᠠᠩᠭ᠎ᠠ	ha;g-a
 ᠬᠠᠩᠭᠠᠭᠳᠠᠬᠤ	ha;gagdahv
 ᠬᠠᠩᠭᠠᠭᠴᠢ	ha;gagci
@@ -59796,7 +59570,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠷᠠᠭᠳᠠᠭ᠎ᠠ	haragdag-a
 ᠬᠠᠷᠠᠭᠳᠠᠯ	haragdal
 ᠬᠠᠷᠠᠭᠳᠠᠬᠤ	haragdahv
-ᠬᠠᠷᠠᠭᠳᠠᠬᠤ᠎ ᠪᠠᠷ	haragdahv-bar
+ᠬᠠᠷᠠᠭᠳᠠᠬᠤ᠎ᠪᠠᠷ	haragdahv-bar
 ᠬᠠᠷᠠᠭᠳᠠᠬᠤᠢᠴᠠ	haragdahvyica
 ᠬᠠᠷᠠᠭᠳᠠᠮᠠᠷ	haragdamar
 ᠬᠠᠷᠠᠭᠳᠠᠭᠤᠯᠬᠤ	haragdagvlhv
@@ -59882,7 +59656,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠷᠪᠤᠯᠲᠠ	harbvlta
 ᠬᠠᠷᠪᠤᠯᠴᠠᠬᠤ	harbvlcahv
 ᠬᠠᠷᠪᠤᠮᠠᠯ	harbvmal
-ᠬᠠᠷᠠᠪᠠᠷ(ᠬᠠᠷ᠎ᠠ ᠪᠠᠷᠰ)	harabar(har-a bars)
 ᠬᠠᠷᠪᠤᠬᠤ	harbvhv
 ᠬᠠᠷᠪᠤᠵᠠᠭᠠᠬᠤ	harbvjagahv
 ᠬᠠᠷᠪᠤᠴᠢᠬᠤ	harbvcihv
@@ -60008,7 +59781,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠷᠢᠭᠤᠴᠠᠯᠭᠠᠲᠠᠨ	harigvcalgatan
 ᠬᠠᠷᠢᠭᠤᠴᠠᠭᠤᠯᠬᠤ	harigvcagvlhv
 ᠬᠠᠷᠢᠬᠤ	harihv
-ᠬᠠᠷᠠᠯᠠᠭ(ᠬᠠᠷ᠎ᠠ ᠠᠯᠠᠭ)	haralag(har-a alag)
 ᠬᠠᠷᠠᠯᠠᠭ	haralag
 ᠬᠠᠷᠠᠯᠠᠭᠳᠠᠬᠤ	haralagdahv
 ᠬᠠᠷᠠᠯᠠᠭᠵᠢᠨ	haralagjin
@@ -60151,7 +59923,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠠᠰᠤᠬᠤ	hasvhv
 ᠬᠠᠰᠤᠵᠠᠭᠠᠬᠤ	hasvjagahv
 ᠬᠠᠰᠳᠠ	hasda
-ᠬᠠᠰ ᠵᠤᠯᠠ	has jvla
 ᠬᠠᠰᠤᠯᠭ᠎ᠠ	hasvlg-a
 ᠬᠠᠰᠤᠮᠠᠯ	hasvmal
 ᠬᠠᠰᠤᠢ	hasvi
@@ -60596,8 +60367,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠢᠯᠡᠬᠦ	heilehu
 ᠬᠡᠢᠯᠡᠭᠦᠯᠬᠦ	heilegulhu
 ᠬᠡᠢᠯᠡᠭᠦᠷ	heilegur
-ᠬᠡᠢ ᠮᠣᠷᠢᠯᠢᠭ	hei mqrilig
-ᠬᠡᠢ ᠮᠣᠷᠢ(ᠬᠡᠢᠮᠣᠷᠢ)	hei mqri(heimqri)
 ᠬᠡᠢᠮᠣᠷᠢᠲᠠᠢ	heimqritai
 ᠬᠢᠮᠡᠭᠯᠡᠬᠦ	himeglehu
 ᠬᠢᠮᠡᠯ	himel
@@ -60634,7 +60403,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠢᠲᠦᠬᠦ	heituhu
 ᠬᠡᠢᠲᠦᠭᠦᠯᠬᠦ	heitugulhu
 ᠬᠢᠬᠦ	hihu
-ᠬᠢ ᠬᠢ	hi hi
 ᠬᠢᠬᠢᠯᠬᠦ	hihilhu
 ᠬᠢᠴᠡ	hice
 ᠬᠢᠵᠡᠭᠡᠬᠦ	hijegehu
@@ -60643,7 +60411,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠢᠴᠡᠯᠡᠬᠦ	hicelehu
 ᠬᠢᠴᠡᠯᠡᠭᠦᠯᠬᠦ	hicelegulhu
 ᠬᠢᠴᠢᠬᠦ	hicihu
-ᠬᠡᠢ ᠰᠢᠭ	hei sig
 ᠬᠢᠯᠢ	hili
 ᠬᠢᠯᠢᠯᠡᠭᠳᠡᠬᠦ	hililegdehu
 ᠬᠢᠯᠢᠯᠡᠬᠦ	hililehu
@@ -60707,9 +60474,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠢᠷᠪᠡᠭᠡᠰᠦᠯᠡᠭᠦᠯᠬᠦ	hirbegesulegulhu
 ᠬᠢᠷᠪᠡᠭᠡᠰᠦᠲᠦ	hirbegesutu
 ᠬᠢᠷᠪᠢᠭᠦᠯᠬᠦ	hirbigulhu
-ᠬᠢᠷᠭᠢᠰ ᠬᠡᠭᠦᠷ	hirgis hegur
 ᠬᠢᠷᠭᠤᠴᠠᠢ	hirgvcai
-ᠬᠢᠷᠳ᠋ ᠬᠢᠯᠭᠡᠬᠦ	hird' hilgehu
 ᠬᠢᠷᠳ᠋ᠬᠢᠬᠦ	hird'hihu
 ᠬᠢᠷᠵᠢᠭᠢᠨᠡᠭᠦᠷ	hirjiginegur
 ᠬᠢᠷᠢᠯᠡᠭᠳᠡᠬᠦ	hirilegdehu
@@ -60790,7 +60555,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠯᠣᠷᠲᠠᠢᠪᠲᠤᠷ	hlqrtaibtvr
 ᠬᠯᠣᠷᠲᠠᠢᠰᠢᠭ	hlqrtaisig
 ᠬᠯᠣᠷᠹᠣᠷᠮ	hlqrfqrm
-ᠬᠣᠣ	qhq
+ᠬᠣᠣ	qqq
 ᠬᠣᠪ	hqb
 ᠬᠣᠪᠣᠭᠣᠷ	hqbqgqr
 ᠬᠣᠪᠳᠣ	hqbdq
@@ -60826,7 +60591,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠪᠯᠠᠭᠤᠯᠬᠤ	hqblagvlhv
 ᠬᠣᠪᠣᠯᠣ	hqbqlq
 ᠬᠣᠪᠣᠯ	hqbql
-ᠬᠣᠪᠣᠯᠣᠭᠣᠨ᠎ᠠ(ᠬᠣᠪᠣᠯᠭᠣᠨ᠎ᠠ)	hqbqlqgqn-a(hqbqlgqn-a)
 ᠬᠣᠪᠣᠯᠭᠣᠨ᠎ᠠ	hqbqlgqn-a
 ᠬᠣᠪᠣᠯᠣᠰᠬᠤ	hqbqlqshv
 ᠬᠣᠪᠣᠩ	hqbq;
@@ -60998,7 +60762,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠢᠷᠣᠭᠳᠠᠬᠤ	hqyirqgdahv
 ᠬᠣᠢᠷᠣᠮᠠᠭᠠᠢ	hqyirqmagai
 ᠬᠣᠢᠲᠤ	hqyitv
-ᠬᠣᠢᠲᠣ᠎ ᠳᠤ	hqyitq-dv
+ᠬᠣᠢᠲᠣ᠎ᠳᠤ	hqyitq-dv
 ᠬᠣᠢᠲᠠᠢ	hqyitai
 ᠬᠣᠢᠲᠣᠨ	hqyitqn
 ᠬᠣᠢᠲᠣᠰ	hqyitqs
@@ -61082,7 +60846,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠯᠭᠣᠭᠠᠬᠤ	hqlgqgahv
 ᠬᠣᠯᠭᠣᠬᠤ	hqlgqhv
 ᠬᠣᠯᠭᠣᠭᠤᠯᠬᠤ	hqlgqgvlhv
-ᠬᠣᠯᠠ᠎ ᠳᠤ	hqla-dv
+ᠬᠣᠯᠠ᠎ᠳᠤ	hqla-dv
 ᠬᠣᠯᠠᠳᠠᠬᠢᠨ	hqladahin
 ᠬᠣᠯᠠᠳᠠᠬᠢ	hqladahi
 ᠬᠣᠯᠠᠳᠠᠯ	hqladal
@@ -61179,7 +60943,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠯᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ	hqlhqljagvlhv
 ᠬᠣᠯᠠᠬᠠᠨ	hqlahan
 ᠬᠣᠯᠬᠣᠩ	hqlhq;
-ᠬᠣᠯᠠᠬᠠᠨ ᠰᠢᠭ	hqlahan sig
 ᠬᠣᠯᠬᠤᠤᠷᠰᠤ	hqlhvvrsv
 ᠬᠣᠯᠴᠣᠷᠬᠠᠢ	hqlcqrhai
 ᠬᠣᠯᠴᠣᠷᠠᠬᠤ	hqlcqrahv
@@ -61191,7 +60954,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠯᠴᠢᠷ	hqlcir
 ᠬᠣᠯᠴᠢᠷᠭᠠᠨ	hqlcirgan
 ᠬᠣᠯᠴᠢᠷᠯᠠᠬᠤ	hqlcirlahv
-ᠬᠣᠯᠠᠴᠢᠬᠤ(ᠬᠤᠯᠠ ᠣᠴᠢᠬᠤ)	hqlacihv(hvla qcihv)
 ᠬᠣᠯᠠᠴᠢᠯᠠᠬᠤ	hqlacilahv
 ᠬᠣᠯᠠᠴᠢᠯᠠᠭᠤᠯᠬᠤ	hqlacilagvlhv
 ᠬᠣᠯᠠᠰᠢᠶᠠᠬᠤ	hqlasiyahv
@@ -61366,22 +61128,18 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠨᠣᠬᠤ	hqnqhv
 ᠬᠣᠨᠣᠴᠠ	hqnqca
 ᠬᠣᠨᠣᠵᠠᠭᠠᠬᠤ	hqnqjagahv
-ᠬᠣᠩᠰᠣᠯ(ᠺᠣᠨᠰᠦ᠋ᠯ)	hq;sql(kqnsu'l)
-ᠬᠣᠨᠲᠣᠯ(ᠺᠣᠨᠲ᠋ᠣᠷ)	hqntql(kqnt'qr)
 ᠬᠣᠨᠲᠣᠷ	hqntqr
 ᠬᠣᠨᠲᠣᠷᠯᠠᠬᠤ	hqntqrlahv
 ᠬᠣᠨᠲᠣᠬᠤ	hqntqhv
 ᠬᠣᠨᠣᠭᠤᠯᠬᠤ	hqnqgvlhv
 ᠬᠣᠨᠣᠭᠤᠷᠢ	hqnqgvri
 ᠬᠣᠩᠬᠣ	hq;hq
-ᠬᠣᠩᠬᠣ(ᠬᠣᠩᠬ᠎ᠠ)	hq;hq(hq;q-a)
 ᠬᠣᠩᠬᠠᠪᠠᠢ	hq;habai
 ᠬᠣᠩᠬᠣᠭᠣᠷ	hq;hqgqr
 ᠬᠣᠩᠬᠣᠭᠣᠷᠳᠠᠬᠤ	hq;hqgqrdahv
 ᠬᠣᠩᠬᠣᠭᠣᠷᠳᠠᠭᠤᠯᠬᠤ	hq;hqgqrdagvlhv
 ᠬᠣᠩᠬᠣᠭᠣᠷᠬᠠᠨ	hq;hqgqrhan
 ᠬᠣᠩᠬᠠᠳᠠᠢ	hq;hadai
-ᠬᠣᠩᠬᠣᠳᠠᠬᠤ(ᠬᠣᠩᠬᠠᠳᠠᠬᠤ)	hq;hqdahv(hq;hadahv)
 ᠬᠣᠩᠬᠣᠳᠠᠭᠤᠯᠬᠤ	hq;hqdagvlhv
 ᠬᠣᠩᠬᠢᠭᠠᠨᠠᠬᠤ	hq;higanahv
 ᠬᠣᠩᠬᠢᠭᠠᠷ	hq;higar
@@ -61416,8 +61174,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠩᠬᠣᠷᠴᠠᠭ	hq;hqrcag
 ᠬᠣᠩᠬᠣᠷᠴᠠᠭᠲᠤ	hq;hqrcagtv
 ᠬᠣᠩᠬᠣᠰᠬᠢᠬᠦ	hq;hqshihu
-ᠬᠣᠩᠬᠣᠲᠤ(ᠬᠣᠩᠬᠠᠲᠤ)	hq;hqtv(hq;hatv)
-ᠬᠣᠩᠬᠣᠲᠠᠢ(ᠬᠣᠩᠬᠠᠲᠠᠢ)	hq;hqtai(hq;hatai)
 ᠬᠣᠩᠬᠣᠲᠣᠬᠤ	hq;hqtqhv
 ᠬᠣᠩᠬᠣᠲᠣᠭᠤᠯᠬᠤ	hq;hqtqgvlhv
 ᠬᠣᠩᠬᠣᠴᠠᠭ	hq;hqcag
@@ -61442,7 +61198,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠭᠣᠯᠠ	hqgqla
 ᠬᠣᠣᠯᠪᠠᠢ	qhqlbai
 ᠬᠣᠣᠯᠭᠣᠢ	qhqlgqi
-ᠬᠣᠭᠣᠯᠠᠦᠭᠡᠢᠳᠡᠬᠦ	hqgqla ugeidehu
 ᠬᠣᠭᠣᠯᠵᠤᠤᠷ	hqgqljvvr
 ᠬᠣᠭᠣᠯᠠᠯᠭ᠎ᠠ	hqgqlalg-a
 ᠬᠣᠭᠣᠯᠠᠯᠠᠭᠴᠢ	hqgqlalagci
@@ -61490,7 +61245,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠭᠣᠰᠣᠯᠠᠵᠠᠭᠠᠬᠤ	hqgqsqlajagahv
 ᠬᠣᠭᠣᠰᠣᠨ	hqgqsqn
 ᠬᠣᠭᠣᠰᠣᠨᠲᠤ	hqgqsqntv
-ᠬᠣᠭᠣᠰᠣᠨ᠎ ᠢᠶᠠᠷ	hqgqsqn-iyar
 ᠬᠣᠭᠣᠰᠣᠷᠠᠴᠢᠬᠤ	hqgqsqracihv
 ᠬᠣᠭᠣᠰᠣᠷᠠᠯ	hqgqsqral
 ᠬᠣᠭᠣᠰᠣᠷᠠᠬᠤ	hqgqsqrahv
@@ -61504,8 +61258,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠣᠬᠣᠢᠯᠠᠬᠤ	hqqhqyilahv
 ᠬᠣᠤᠬᠤᠢᠯᠠᠭᠤᠯᠬᠤ	qhvhvyilagvlhv
 ᠬᠣᠫᠫᠧᠷ	hqppEr
-ᠬᠣᠣᠷ᠎ᠠ	qhqr-a
-ᠬᠣᠣᠷ	qhqr
+ᠬᠣᠣᠷ᠎ᠠ	hqqr-a
+ᠬᠣᠣᠷ	hqqr
 ᠬᠣᠷᠣ	hqrq
 ᠬᠣᠷ	hqr
 ᠬᠣᠷᠪᠣᠢᠬᠤ	hqrbqyihv
@@ -61546,29 +61300,28 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠷᠭᠣᠲᠤ	hqrgqtv
 ᠬᠣᠷᠭᠣᠴᠠᠬᠤ	hqrgqcahv
 ᠬᠣᠷᠭᠣᠰᠲᠠᠬᠤ	hqrgqstahv
-ᠬᠣᠣᠷᠠᠳᠤ	qhqradv
-ᠬᠣᠣᠷᠠᠳᠠᠯᠭ᠎ᠠ	qhqradalg-a
-ᠬᠣᠣᠷᠠᠳᠠᠯᠭᠠᠭᠦᠢ	qhqradalgagui
-ᠬᠣᠣᠷᠠᠳᠠᠯᠭᠠᠲᠤ	qhqradalgatv
-ᠬᠣᠣᠷᠠᠳᠠᠮᠠᠯ	qhqradamal
-ᠬᠣᠣᠷᠠᠳᠠᠭᠳᠠᠬᠤ	qhqradagdahv
-ᠬᠣᠣᠷᠠᠳᠠᠯ	qhqradal
-ᠬᠣᠣᠷᠠᠳᠠᠯᠲᠠ	qhqradalta
+ᠬᠣᠣᠷᠠᠳᠤ	hqqradv
+ᠬᠣᠣᠷᠠᠳᠠᠯᠭ᠎ᠠ	hqqradalg-a
+ᠬᠣᠣᠷᠠᠳᠠᠯᠭᠠᠭᠦᠢ	hqqradalgagui
+ᠬᠣᠣᠷᠠᠳᠠᠯᠭᠠᠲᠤ	hqqradalgatv
+ᠬᠣᠣᠷᠠᠳᠠᠮᠠᠯ	hqqradamal
+ᠬᠣᠣᠷᠠᠳᠠᠭᠳᠠᠬᠤ	hqqradagdahv
+ᠬᠣᠣᠷᠠᠳᠠᠯ	hqqradal
+ᠬᠣᠣᠷᠠᠳᠠᠯᠲᠠ	hqqradalta
 ᠬᠣᠷᠳᠣᠲ᠋ᠣᠨᠠᠯᠢ	hqrdqt'qnali
-ᠬᠣᠣᠷᠠᠳᠠᠬᠤ(ᠬᠣᠷᠣᠳᠠᠬᠤ)	qhqradahv(hqrqdahv)
-ᠬᠣᠣᠷᠠᠳᠠᠭᠤ	qhqradagv
-ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠤᠭᠴᠢ	qhqradagvlvgci
-ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠤᠯᠲᠠ	qhqradagvlvlta
-ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠬᠤ	qhqradagvlhv
+ᠬᠣᠣᠷᠠᠳᠠᠭᠤ	hqqradagv
+ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠤᠭᠴᠢ	hqqradagvlvgci
+ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠤᠯᠲᠠ	hqqradagvlvlta
+ᠬᠣᠣᠷᠠᠳᠠᠭᠤᠯᠬᠤ	hqqradagvlhv
 ᠬᠣᠷᠧᠢ	hqrEi
 ᠬᠣᠷᠵᠢᠭᠢᠨᠠᠬᠤ	hqrjiginahv
 ᠬᠣᠷᠵᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ	hqrjiginagvlhv
 ᠬᠣᠷᠵᠢᠭᠢᠨᠠᠭᠤᠷ	hqrjiginagvr
-ᠬᠣᠣᠷᠠᠵᠢᠬᠤ	qhqrajihv
+ᠬᠣᠣᠷᠠᠵᠢᠬᠤ	hqqrajihv
 ᠬᠣᠷᠵᠢᠶᠠᠨ	hqrjiyan
-ᠬᠣᠣᠷᠠᠵᠠ	qhqraja
-ᠬᠣᠣᠷᠠᠵᠠᠯᠠᠬᠤ	qhqrajalahv
-ᠬᠣᠣᠷᠠᠵᠠᠯᠠᠭᠤᠯᠬᠤ	qhqrajalagvlhv
+ᠬᠣᠣᠷᠠᠵᠠ	hqqraja
+ᠬᠣᠣᠷᠠᠵᠠᠯᠠᠬᠤ	hqqrajalahv
+ᠬᠣᠣᠷᠠᠵᠠᠯᠠᠭᠤᠯᠬᠤ	hqqrajalagvlhv
 ᠬᠣᠷᠢᠭ	hqrig
 ᠬᠣᠷᠢᠭᠳᠠᠯ	hqrigdal
 ᠬᠣᠷᠢᠭᠳᠠᠬᠤ	hqrigdahv
@@ -61603,14 +61356,14 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠷᠢᠭᠤᠷ	hqrigvr
 ᠬᠣᠷᠢᠬᠤ	hqrihv
 ᠬᠣᠷᠯᠣ	hqrlq
-ᠬᠣᠣᠷᠯᠠᠭᠳᠠᠬᠤ	qhqrlagdahv
-ᠬᠣᠣᠷᠯᠠᠭᠴᠢ	qhqrlagci
-ᠬᠣᠣᠷᠯᠠᠯ	qhqrlal
-ᠬᠣᠣᠷᠯᠠᠯᠲᠤ	qhqrlaltv
-ᠬᠣᠣᠷᠯᠠᠯᠲᠠᠢ	qhqrlaltai
-ᠬᠣᠣᠷᠯᠠᠭᠠᠴᠢ	qhqrlagaci
-ᠬᠣᠣᠷᠯᠠᠬᠤ	qhqrlahv
-ᠬᠣᠣᠷᠯᠠᠭᠤᠯᠬᠤ	qhqrlagvlhv
+ᠬᠣᠣᠷᠯᠠᠭᠳᠠᠬᠤ	hqqrlagdahv
+ᠬᠣᠣᠷᠯᠠᠭᠴᠢ	hqqrlagci
+ᠬᠣᠣᠷᠯᠠᠯ	hqqrlal
+ᠬᠣᠣᠷᠯᠠᠯᠲᠤ	hqqrlaltv
+ᠬᠣᠣᠷᠯᠠᠯᠲᠠᠢ	hqqrlaltai
+ᠬᠣᠣᠷᠯᠠᠭᠠᠴᠢ	hqqrlagaci
+ᠬᠣᠣᠷᠯᠠᠬᠤ	hqqrlahv
+ᠬᠣᠣᠷᠯᠠᠭᠤᠯᠬᠤ	hqqrlagvlhv
 ᠬᠣᠷᠮᠧᠶᠢᠰᠲ᠋ᠧᠷ	hqrmEyist'Er
 ᠬᠣᠷᠮᠣᠭᠴᠢ	hqrmqgci
 ᠬᠣᠷᠮᠣᠢ	hqrmqi
@@ -61672,17 +61425,16 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠣᠷᠠᠲᠤ	qhqratv
 ᠬᠣᠣᠷᠲᠤ	qhqrtv
 ᠬᠣᠷᠲᠢᠭ	hqrtig
-ᠬᠣᠷᠣᠲᠠᠢ(ᠬᠤᠤᠷᠠᠲᠠᠢ)	hqrqtai(hvvratai)
-ᠬᠣᠣᠷᠠᠲᠠᠢᠳᠠᠭᠤ	qhqrataidagv
-ᠬᠣᠣᠷᠲᠠᠢᠳᠠᠭᠤ	qhqrtaidagv
-ᠬᠣᠣᠷᠲᠠᠨ	qhqrtan
+ᠬᠣᠣᠷᠠᠲᠠᠢᠳᠠᠭᠤ	hqqrataidagv
+ᠬᠣᠣᠷᠲᠠᠢᠳᠠᠭᠤ	hqqrtaidagv
+ᠬᠣᠣᠷᠲᠠᠨ	hqqrtan
 ᠬᠣᠷᠲᠣᠩ	hqrtq;
 ᠬᠣᠷᠲᠣᠩᠲᠣᠬᠤ	hqrtq;tqhv
 ᠬᠣᠷᠲᠣᠩᠲᠣᠭᠤᠯᠬᠤ	hqrtq;tqgvlhv
-ᠬᠣᠣᠷᠠᠭᠤ	qhqragv
-ᠬᠣᠣᠷᠠᠭᠤᠲᠤ	qhqragvtv
-ᠬᠣᠣᠷᠠᠭᠤᠲᠤᠬᠤ	qhqragvtvhv
-ᠬᠣᠣᠷᠠᠭᠤᠰᠢᠯ	qhqragvsil
+ᠬᠣᠣᠷᠠᠭᠤ	hqqragv
+ᠬᠣᠣᠷᠠᠭᠤᠲᠤ	hqqragvtv
+ᠬᠣᠣᠷᠠᠭᠤᠲᠤᠬᠤ	hqqragvtvhv
+ᠬᠣᠣᠷᠠᠭᠤᠰᠢᠯ	hqqragvsil
 ᠬᠣᠷᠬᠢᠨᠠᠭ	hqrhinag
 ᠬᠣᠷᠬᠢᠷ᠎ᠠ	hqrhir-a
 ᠬᠣᠷᠬᠢᠷᠠᠲᠤᠬᠤ	hqrhiratvhv
@@ -61704,7 +61456,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠷᠬᠣᠢᠬᠤ	hqrhqyihv
 ᠬᠣᠷᠣᠬᠠᠢᠴᠢᠷ	hqrqhaicir
 ᠬᠣᠷᠣᠬᠠᠢᠴᠠᠬᠤ	hqrqhaicahv
-ᠬᠣᠷ ᠬᠣᠷ ᠬᠢᠬᠦ	hqr hqr hihu
 ᠬᠣᠷᠴᠢᠭᠢᠷ	hqrcigir
 ᠬᠣᠷᠴᠢᠭᠢᠨᠠᠬᠤ	hqrciginahv
 ᠬᠣᠷᠴᠢᠭᠢᠷᠳᠠᠬᠤ	hqrcigirdahv
@@ -61749,23 +61500,22 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠷᠢᠳᠤᠭᠠᠷ	hqridvgar
 ᠬᠣᠣᠰ	qhqs
 ᠬᠣᠰ	hqs
-ᠬᠣᠣᠰ ᠸᠠᠺᠼᠢᠨ	qhqs wakCin
-ᠬᠣᠣᠰᠵᠢᠬᠤ	qhqsjihv
-ᠬᠣᠣᠰᠵᠢᠭᠤᠯᠬᠤ	qhqsjigvlhv
-ᠬᠣᠣᠰᠯᠠᠭᠳᠠᠬᠤ	qhqslagdahv
-ᠬᠣᠣᠰᠯᠠᠯ	qhqslal
-ᠬᠣᠣᠰᠯᠠᠯᠲᠠ	qhqslalta
-ᠬᠣᠣᠰᠯᠠᠮᠠᠯ	qhqslamal
-ᠬᠣᠣᠰᠯᠠᠭᠠᠴᠢ	qhqslagaci
-ᠬᠣᠣᠰᠯᠠᠬᠤ	qhqslahv
-ᠬᠣᠣᠰᠯᠠᠭᠤᠯᠬᠤ	qhqslagvlhv
-ᠬᠣᠣᠰᠯᠠᠭᠤᠷ	qhqslagvr
-ᠬᠣᠣᠰᠮᠠᠯᠵᠢᠯᠠᠬᠤ	qhqsmaljilahv
-ᠬᠣᠣᠰᠮᠠᠯᠵᠢᠨ	qhqsmaljin
-ᠬᠣᠣᠰᠯᠠᠭᠠᠨ᠎ᠠ	qhqslagan-a
-ᠬᠣᠣᠰᠯᠠᠵᠠᠭᠠᠬᠤ	qhqslajagahv
-ᠬᠣᠣᠰᠯᠠᠴᠢᠬᠤ	qhqslacihv
-ᠬᠣᠣᠰᠯᠠᠰᠢᠯᠠᠬᠤ	qhqslasilahv
+ᠬᠣᠣᠰᠵᠢᠬᠤ	hqqsjihv
+ᠬᠣᠣᠰᠵᠢᠭᠤᠯᠬᠤ	hqqsjigvlhv
+ᠬᠣᠣᠰᠯᠠᠭᠳᠠᠬᠤ	hqqslagdahv
+ᠬᠣᠣᠰᠯᠠᠯ	hqqslal
+ᠬᠣᠣᠰᠯᠠᠯᠲᠠ	hqqslalta
+ᠬᠣᠣᠰᠯᠠᠮᠠᠯ	hqqslamal
+ᠬᠣᠣᠰᠯᠠᠭᠠᠴᠢ	hqqslagaci
+ᠬᠣᠣᠰᠯᠠᠬᠤ	hqqslahv
+ᠬᠣᠣᠰᠯᠠᠭᠤᠯᠬᠤ	hqqslagvlhv
+ᠬᠣᠣᠰᠯᠠᠭᠤᠷ	hqqslagvr
+ᠬᠣᠣᠰᠮᠠᠯᠵᠢᠯᠠᠬᠤ	hqqsmaljilahv
+ᠬᠣᠣᠰᠮᠠᠯᠵᠢᠨ	hqqsmaljin
+ᠬᠣᠣᠰᠯᠠᠭᠠᠨ᠎ᠠ	hqqslagan-a
+ᠬᠣᠣᠰᠯᠠᠵᠠᠭᠠᠬᠤ	hqqslajagahv
+ᠬᠣᠣᠰᠯᠠᠴᠢᠬᠤ	hqqslacihv
+ᠬᠣᠣᠰᠯᠠᠰᠢᠯᠠᠬᠤ	hqqslasilahv
 ᠬᠣᠰᠬ᠎ᠠ	hqsq-a
 ᠬᠣᠰᠬᠣ	hqshq
 ᠬᠣᠲᠠ	hqta
@@ -61788,7 +61538,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠣᠲᠠᠯᠠᠭᠠᠷ	hqtalagar
 ᠬᠣᠲᠠᠯᠠᠬᠤ	hqtalahv
 ᠬᠣᠲᠠᠯᠠᠭᠤᠯᠬᠤ	hqtalagvlhv
-ᠬᠣᠲᠠᠨ᠎ ᠠ	hqtan-a
+ᠬᠣᠲᠠᠨ᠎ᠠ	hqtan-a
 ᠬᠣᠲᠣᠢᠯᠭᠠᠬᠤ	hqtqyilgahv
 ᠬᠣᠲᠣᠢᠬᠤ	hqtqyihv
 ᠬᠣᠲᠣᠢᠴᠢᠬᠤ	hqtqyicihv
@@ -62013,7 +61763,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠤᠪᠤᠳᠠᠬᠤ	hvbvdahv
 ᠬᠤᠪᠢᠶᠠᠷᠢᠯᠠᠮᠵᠢ	hvbiyarilamji
 ᠬᠤᠪᠢᠶᠠᠷᠢᠯᠠᠭᠤᠷ	hvbiyarilagvr
-ᠬᠤᠪᠢ᠎ ᠶᠢᠨ	hvbi-yin
+ᠬᠤᠪᠢ᠎ᠶᠢᠨ	hvbi-yin
 ᠬᠤᠪᠢᠯᠤᠭᠳᠠᠬᠤ	hvbilvgdahv
 ᠬᠤᠪᠢᠯᠤᠭᠴᠢ	hvbilvgci
 ᠬᠤᠪᠢᠯᠤᠯ	hvbilvl
@@ -62216,7 +61966,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠤᠵᠠᠭᠠᠢ	hvjagai
 ᠬᠤᠢ	hvi
 ᠬᠤᠢᠰᠤ	hvyisv
-ᠬᠤᠤᠪᠢᠩ(ᠾᠦᠢᠪᠢᠩ)	hvvbi;(Huibi;)
 ᠬᠤᠢᠪᠢ	hvyibi
 ᠬᠤᠤᠪᠢᠯᠳᠤᠭᠠᠨ	hvvbildvgan
 ᠬᠤᠤᠪᠢᠯᠳᠤᠭᠴᠢ	hvvbildvgci
@@ -62740,8 +62489,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠤᠤᠵᠠᠳᠠᠭᠤᠬᠠᠨ	hvvjadagvhan
 ᠬᠤᠤᠵᠠᠷᠠᠬᠤ	hvvjarahv
 ᠬᠤᠤᠵᠠᠰᠢᠬᠤ	hvvjasihv
-ᠬᠠᠭᠤᠯᠭ᠎ᠠ ᠳᠠᠮᠵᠢᠭᠤᠯᠤᠭᠴᠢ	hagvlg-a damjigvlvgci
-ᠬᠠᠭᠤᠯᠭ᠎ᠠ ᠳᠠᠮᠵᠢᠭᠤᠯᠬᠤ	hagvlg-a damjigvlhv
 ᠬᠠᠭᠤᠯᠤᠭᠳᠠᠬᠤ	hagvlvgdahv
 ᠬᠠᠭᠤᠯᠤᠯᠲᠠ	hagvlvlta
 ᠬᠠᠭᠤᠯᠤᠯᠴᠠᠬᠤ	hagvlvlcahv
@@ -63015,7 +62762,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠪᠲᠡᠭᠦᠯᠭᠡ	hebtegulge
 ᠬᠡᠪᠲᠡᠭᠦᠯᠬᠦ	hebtegulhu
 ᠬᠡᠪᠲᠡᠭᠦᠷ	hebtegur
-ᠬᠡᠪ ᠬᠡᠮ	heb hem
 ᠬᠡᠪᠬᠡᠨ	hebhen
 ᠬᠡᠪᠴᠡᠭᠡᠢ	hebcegei
 ᠬᠡᠪᠴᠡᠭᠡᠢᠳᠡᠬᠦ	hebcegeidehu
@@ -63049,7 +62795,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠪᠰᠢᠭᠦᠯᠬᠦ	hebsigulhu
 ᠬᠡᠪᠡᠭᠯᠡᠬᠦ	hebeglehu
 ᠬᠡᠪᠡᠯᠢᠲᠡᠨ	hebeliten
-ᠬᠡᠪ᠎ ᠢᠶᠡᠷ	heb-iyer
+ᠬᠡᠪ᠎ᠢᠶᠡᠷ	heb-iyer
 ᠬᠡᠭᠳᠡᠭᠡᠷ	hegdeger
 ᠬᠡᠭᠳᠡᠷᠵᠢᠨ	hegderjin
 ᠬᠡᠭᠵᠢᠷᠬᠡᠢ	hegjirhei
@@ -63087,11 +62833,11 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠳᠦᠢ	hedui
 ᠬᠡᠳᠦᠢᠪᠡᠷ	heduiber
 ᠬᠡᠳᠦᠢᠭᠡᠷ	heduiger
-ᠬᠡᠳᠦᠢ᠎ ᠳᠦ	hedui-du
+ᠬᠡᠳᠦᠢ᠎ᠳᠦ	hedui-du
 ᠬᠡᠳᠦᠢᠨ	heduin
 ᠬᠡᠳᠦᠢᠨᠡᠢ	heduinei
 ᠬᠡᠳᠦᠢᠨ᠎ᠡ	heduin-e
-ᠬᠡᠳᠦᠢ᠎ ᠡᠴᠡ	hedui-ece
+ᠬᠡᠳᠦᠢ᠎ᠡᠴᠡ	hedui-ece
 ᠬᠡᠳᠦᠢᠴᠢᠨᠡᠭᠡᠨ	heduicinegen
 ᠬᠡᠳᠡᠮᠡᠨ	hedemen
 ᠬᠡᠳᠡᠷᠭᠡ	hederge
@@ -63375,7 +63121,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠮᠨᠡᠭᠦᠷ	hemnegur
 ᠬᠡᠮᠨᠡᠭᠦᠷᠳᠡᠬᠦ	hemnegurdehu
 ᠬᠡᠮᠲᠦ	hemtu
-ᠬᠡᠮ ᠲᠡᠭᠰᠢ	hem tegsi
 ᠬᠡᠮᠬᠡ	hemhe
 ᠬᠡᠮᠬᠡᠳᠡᠭ	hemhedeg
 ᠬᠡᠮᠬᠡᠳᠡᠰᠦ	hemhedesu
@@ -63402,7 +63147,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠮᠡᠨ	hemen
 ᠬᠡᠮᠡᠬᠦ	hemehu
 ᠬᠡᠨ	hen
-ᠬᠡᠩᠭᠢᠨᠠᠬᠤ(︕)	he;ginahv(!)
 ᠬᠡᠩᠭᠡᠷᠭᠡᠨ	he;gergen
 ᠬᠡᠩᠭᠡᠷᠭᠡ	he;gerge
 ᠬᠡᠩᠭᠡᠷᠭᠡᠳᠡᠬᠦ	he;gergedehu
@@ -63583,7 +63327,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠷᠡᠭᠯᠡᠭᠦᠷ	hereglegur
 ᠬᠡᠷᠡᠭᠰᠡᠯᠡᠯ	heregselel
 ᠬᠡᠷᠡᠭᠰᠡᠯ	heregsel
-ᠬᠡᠷᠡᠭᠰᠡᠯᠦᠭᠡᠢᠳᠡᠬᠦ	heregsel ugeidehu
 ᠬᠡᠷᠡᠭᠰᠡᠯᠲᠦ	heregseltu
 ᠬᠡᠷᠡᠭᠰᠡᠬᠦ	heregsehu
 ᠬᠡᠷᠡᠭᠰᠡᠭᠦᠯᠬᠦ	heregsegulhu
@@ -63616,7 +63359,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠷᠢᠶ᠎ᠡ	heriy-e
 ᠬᠡᠷᠦᠭᠡᠳᠡᠰᠦ	herugedesu
 ᠬᠡᠷᠦᠭᠡᠳᠡᠰᠦᠯᠡᠬᠦ	herugedesulehu
-ᠬᠢᠷᠢ᠎ ᠪᠡᠷ	hiri-ber
 ᠬᠡᠷᠦᠭᠡᠰᠦ	herugesu
 ᠬᠡᠷᠦᠭᠡᠰᠦᠯᠡᠭᠳᠡᠬᠦ	herugesulegdehu
 ᠬᠡᠷᠦᠭᠡᠰᠦᠯᠡᠯᠴᠡᠬᠦ	herugesulelcehu
@@ -63771,7 +63513,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠡᠭᠡᠬᠦᠯᠵᠡᠬᠦ	hegehuljehu
 ᠬᠡᠭᠡᠬᠦᠯᠵᠡᠭᠦᠯᠬᠦ	hegehuljegulhu
 ᠬᠡᠬᠡᠨ	hehen
-ᠬᠡᠬᠡᠨ(ᠬᠡ ᠬᠡᠨ)	hehen(he hen)
 ᠬᠡᠭᠡᠴᠡᠰᠦ	hegecesu
 ᠬᠡᠭᠡᠴᠢᠨ	hegecin
 ᠬᠢᠵᠠ	hija
@@ -63934,7 +63675,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠢᠨᠠᠵᠠᠭᠠᠬᠤ	hinajagahv
 ᠬᠢᠨᠠᠴᠢᠬᠤ	hinacihv
 ᠬᠢᠩᠭ᠎ᠠ	hi;g-a
-ᠬᠢᠩᠭ᠎ᠠᠦᠭᠡᠢᠲᠡᠨ	hi;g-a ugeiten
 ᠬᠢᠩᠭᠠᠷ	hi;gar
 ᠬᠢᠩᠭᠠᠷᠳᠠᠯ	hi;gardal
 ᠬᠢᠩᠭᠠᠷᠳᠠᠬᠤ	hi;gardahv
@@ -64499,7 +64239,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠦᠬᠦᠷᠲᠦ	huhurtu
 ᠬᠦᠬᠦᠷᠲᠡᠢᠲᠦᠰᠦ	huhurteitusu
 ᠬᠦᠬᠦᠷᠲᠦᠭᠦᠯᠦᠭᠴᠢ	huhurtugulugci
-ᠬᠦᠬᠦᠷ ᠬᠦᠴᠢᠯ	huhur hucil
 ᠬᠦᠬᠡᠭᠡ	huhege
 ᠬᠦᠬᠦᠭᠡ	huhuge
 ᠬᠡᠦᠬᠡ	heuhe
@@ -64520,10 +64259,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠦᠴᠦᠵᠢᠭᠦᠯᠬᠦ	hucujigulhu
 ᠬᠦᠴᠢᠭᠢᠨᠡᠬᠦ	huciginehu
 ᠬᠦᠴᠢᠯ	hucil
-ᠬᠦᠴᠢᠯᠦᠭᠡᠢᠳᠡᠬᠦ	hucil ugeidehu
-ᠬᠦᠴᠢᠯᠦᠭᠡᠢᠵᠢᠬᠦ	hucil ugeijihu
-ᠬᠦᠴᠢᠯᠦᠭᠡᠢᠵᠢᠭᠦᠯᠦᠭᠴᠢ	hucil ugeijigulugci
-ᠬᠦᠴᠢᠯᠦᠭᠡᠢᠵᠢᠭᠦᠯᠬᠦ	hucil ugeijigulhu
 ᠬᠦᠴᠢᠯᠳᠡᠷ	hucilder
 ᠬᠦᠴᠢᠯᠳᠡᠬᠦ	hucildehu
 ᠬᠦᠴᠦᠯᠡᠳᠡᠬᠦ	huculedehu
@@ -65241,7 +64976,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠥᠷᠥᠰᠥᠯᠡᠵᠡᠭᠡᠬᠦ	horosolejegehu
 ᠬᠥᠷᠲᠥᠬᠦ	hortohu
 ᠬᠥᠷᠬᠥ	horho
-ᠬᠥᠷ ᠬᠢᠬᠦ	hor hihu
 ᠬᠥᠷᠬᠥᠯᠡᠬᠦ	horholehu
 ᠬᠥᠷᠰᠢ	horsi
 ᠬᠥᠷᠰᠢᠯᠳᠡᠬᠦ	horsildehu
@@ -65315,7 +65049,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠥᠬᠥ	hoho
 ᠬᠥᠬᠡᠪᠦᠷ	hohebur
 ᠬᠥᠬᠡᠳᠡᠢ	hohedei
-ᠬᠥᠬᠡ ᠳᠡᠯᠡᠩᠲᠡᠰᠦ	hohe dele;tesu
 ᠬᠥᠬᠡᠳᠡᠭᠦᠦ	hohedeguu
 ᠬᠥᠬᠡᠳᠡᠭᠦᠯᠬᠦ	hohedegulhu
 ᠬᠥᠬᠡᠳᠡᠭᠦᠷ	hohedegur
@@ -65338,7 +65071,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠬᠥᠬᠥᠷᠡᠬᠦ	hohorehu
 ᠬᠥᠬᠥᠲᠦ	hohotu
 ᠬᠥᠬᠥᠲᠡᠢ	hohotei
-ᠬᠥᠬᠡ ᠲᠦᠷᠦᠭᠦᠦ	hohe turuguu
 ᠬᠥᠬᠥᠲᠡᠨ	hohoten
 ᠬᠥᠬᠥᠲᠡᠰᠦ	hohotesu
 ᠬᠥᠬᠡᠬᠡᠨ	hohehen
@@ -65580,9 +65312,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠠᠭᠠᠭᠤᠷᠳᠠᠬᠤ	cagagvrdahv
 ᠴᠠᠭᠠᠭᠤᠷᠳᠠᠭᠤᠯᠬᠤ	cagagvrdagvlhv
 ᠴᠠᠭᠠᠭᠤᠷᠬᠢ	cagagvrhi
-ᠴᠠᠭᠠᠳᠤ(ᠴᠢᠨᠠᠳᠤ)	cagadv(cinadv)
 ᠴᠠᠭᠠᠳᠤᠬᠢ	cagadvhi
-ᠴᠠᠭᠠᠳᠤ᠎ ᠳᠠᠭᠠᠨ	cagadv-dagan
+ᠴᠠᠭᠠᠳᠤ᠎ᠳᠠᠭᠠᠨ	cagadv-dagan
 ᠴᠠᠭᠠᠳᠤᠭᠤᠯᠠ	cagadvgvla
 ᠴᠠᠭᠠᠵᠠ	cagaja
 ᠴᠠᠭᠠᠵᠠᠲᠤ	cagajatv
@@ -65636,7 +65367,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠨᠠᠭᠰᠢᠬᠠᠨ	cinagsihan
 ᠴᠠᠪᠠ	caba
 ᠴᠠᠪ	cab
-ᠴᠠᠪ(ᠴᠢᠪ)	cab(cib)
 ᠴᠠᠪᠤᠭ	cabvg
 ᠴᠠᠪᠤᠭᠯᠠᠬᠤ	cabvglahv
 ᠴᠠᠪᠤᠭᠯᠠᠭᠤᠯᠬᠤ	cabvglagvlhv
@@ -65784,7 +65514,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠠᠭᠯᠠᠭᠤᠯᠬᠤ	caglagvlhv
 ᠴᠠᠭᠯᠠᠭᠤᠷ	caglagvr
 ᠴᠠᠩᠨᠠᠬᠤ	ca;nahv
-ᠴᠠᠭ᠎ ᠲᠤ	cag-tv
+ᠴᠠᠭ᠎ᠲᠤ	cag-tv
 ᠴᠠᠭᠴᠠ	cagca
 ᠴᠠᠭᠴᠠᠬᠠᠢ	cagcahai
 ᠴᠠᠭᠴᠠᠬᠠᠢᠲᠤ	cagcahaitv
@@ -65926,7 +65656,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠠᠮᠠᠷᠬᠠᠬᠤ	camarhahv
 ᠴᠠᠮᠠᠷᠬᠠᠭᠤ	camarhagv
 ᠴᠠᠮᠠᠷᠬᠠᠭᠤᠯᠬᠤ	camarhagvlhv
-ᠴᠠᠮᠠᠢ(ᠴᠢᠮᠠᠢ)	camai(cimai)
 ᠴᠠᠮᠨᠠᠬᠤ	camnahv
 ᠴᠠᠮᠨᠠᠭᠤᠯᠬᠤ	camnagvlhv
 ᠴᠠᠮᠬ᠎ᠠ	camq-a
@@ -65990,7 +65719,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠠᠩᠬᠠᠲᠤᠭᠤᠯᠬᠤ	ca;hatvgvlhv
 ᠴᠠᠩᠬᠤᠢ	ca;hvi
 ᠴᠠᠨᠴᠠᠬᠠᠢ	cancahai
-ᠴᠠᠷ(ᠴᠠᠷ᠎ᠠ)	car(car-a)
 ᠴᠠᠷ	car
 ᠴᠠᠷ᠎ᠠ	car-a
 ᠴᠠᠷᠠᠭ᠎ᠠ	carag-a
@@ -66164,7 +65892,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠠᠬᠢᠯᠤᠭᠤᠯᠬᠤ	cahilvgvlhv
 ᠴᠠᠬᠢᠯᠠᠭᠤᠷ	cahilagvr
 ᠴᠠᠬᠢᠮ	cahim
-ᠴᠠᠬᠢᠮ ᠵᠦᠢ	cahim jui
 ᠴᠠᠬᠢᠷ	cahir
 ᠴᠠᠬᠢᠷᠠᠭ	cahirag
 ᠴᠠᠬᠢᠷᠮ᠎ᠠ	cahirm-a
@@ -66347,7 +66074,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠣᠭᠲᠤ	cqgtv
 ᠴᠣᠭᠲᠠᠢ	cqgtai
 ᠴᠣᠭᠲᠠᠢᠶ᠎ᠠ	cqgtaiy-a
-ᠴᠣᠭ ᠬᠡᠢᠮᠣᠷᠢ	cqg heimqri
 ᠴᠣᠭᠴᠠ	cqgca
 ᠴᠣᠭᠴᠣᠭᠣᠷ	cqgcqgqr
 ᠴᠣᠭᠴᠣᠭᠣᠷᠳᠠᠬᠤ	cqgcqgqrdahv
@@ -66552,14 +66278,14 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠣᠭᠣᠭᠴᠢᠯᠠᠭᠳᠠᠬᠤ	cqgqgcilagdahv
 ᠴᠣᠭᠣᠭᠴᠢᠯᠠᠬᠤ	cqgqgcilahv
 ᠴᠣᠭᠣᠭᠴᠢᠯᠠᠭᠤᠯᠬᠤ	cqgqgcilagvlhv
-ᠴᠣᠣᠵᠢ	chqji
-ᠴᠣᠣᠵᠢᠯᠠᠵᠠᠨᠠᠬᠤ	chqjilajanahv
-ᠴᠣᠣᠵᠢᠯᠠᠵᠠᠭᠠᠬᠤ	chqjilajagahv
+ᠴᠣᠣᠵᠢ	cqqji
+ᠴᠣᠣᠵᠢᠯᠠᠵᠠᠨᠠᠬᠤ	cqqjilajanahv
+ᠴᠣᠣᠵᠢᠯᠠᠵᠠᠭᠠᠬᠤ	cqqjilajagahv
 ᠴᠣᠤᠵᠢᠯᠠᠭᠳᠠᠬᠤ	chvjilagdahv
-ᠴᠣᠣᠵᠢᠯᠠᠭᠴᠢ	chqjilagci
-ᠴᠣᠣᠵᠢᠯᠠᠬᠤ	chqjilahv
+ᠴᠣᠣᠵᠢᠯᠠᠭᠴᠢ	cqqjilagci
+ᠴᠣᠣᠵᠢᠯᠠᠬᠤ	cqqjilahv
 ᠴᠣᠤᠵᠢᠯᠠᠭᠤᠯᠬᠤ	chvjilagvlhv
-ᠴᠣᠣᠵᠢᠲᠠᠢ	chqjitai
+ᠴᠣᠣᠵᠢᠲᠠᠢ	cqqjitai
 ᠴᠣᠭᠣᠯᠪᠣᠷᠢ	cqgqlbqri
 ᠴᠣᠭᠣᠯᠪᠣᠷᠢᠯᠠᠭᠳᠠᠬᠤ	cqgqlbqrilagdahv
 ᠴᠣᠭᠣᠯᠪᠣᠷᠢᠯᠠᠵᠠᠨᠠᠬᠤ	cqgqlbqrilajanahv
@@ -66593,7 +66319,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠣᠨᠣᠭᠷᠠᠬᠤ	cqnqgrahv
 ᠴᠣᠨᠣᠭᠲᠣᠬᠤ	cqnqgtqhv
 ᠴᠣᠭᠣᠷ	cqgqr
-ᠴᠣᠣᠷ᠎ᠠ	chqr-a
+ᠴᠣᠣᠷ᠎ᠠ	cqqr-a
 ᠴᠣᠭᠣᠷᠭᠠᠨ᠎ᠠ	cqgqrgan-a
 ᠴᠣᠭᠣᠷᠳᠠᠬᠤ	cqgqrdahv
 ᠴᠣᠭᠣᠷᠳᠠᠵᠠᠭᠠᠬᠤ	cqgqrdajagahv
@@ -66820,7 +66546,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠤᠪᠤᠴᠠᠭ᠎ᠠ	cvbvcag-a
 ᠴᠤᠪᠤᠵᠠᠭᠠᠬᠤ	cvbvjagahv
 ᠴᠤᠭ	cvg
-ᠴᠤᠭᠭᠠᠷ(ᠴᠤᠭᠠᠷ)	cvggar(cvgar)
 ᠴᠤᠭᠪᠠᠭᠠᠨ	cvgbagan
 ᠴᠤᠭᠯᠠᠭ᠎ᠠ	cvglag-a
 ᠴᠤᠭᠯᠠᠭᠠᠯᠠᠬᠤ	cvglagalahv
@@ -66913,7 +66638,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠤᠮᠬᠠᠷᠠᠬᠤ	cvmharahv
 ᠴᠤᠮᠬᠠᠷᠠᠭᠤᠯᠬᠤ	cvmharagvlhv
 ᠴᠤᠮᠬᠠᠳᠤᠬᠤ	cvmhadvhv
-ᠴᠤᠨ(ᠼᠦᠨ)	cvn(hun)
 ᠴᠦᠩᠬᠦ	cu;hu
 ᠴᠤᠩᠬᠢᠶᠠᠯ	cv;hiyal
 ᠴᠤᠨᠴᠠᠢᠯᠭᠠᠬᠤ	cvncailgahv
@@ -67278,7 +67002,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠡᠯᠮ᠎ᠡ	celm-e
 ᠴᠡᠮᠪᠡᠢᠯᠭᠡᠬᠦ	cembeilgehu
 ᠴᠡᠮᠪᠡᠢᠬᠦ	cembeihu
-ᠴᠡᠩᠮᠡ(ᠴᠡᠮᠪᠡ)	ce;me(cembe)
 ᠴᠡᠮᠪᠡᠭᠡᠨᠡᠬᠦ	cembegenehu
 ᠴᠡᠮᠪᠡᠭᠡᠷ	cembeger
 ᠴᠡᠮᠪᠡᠭᠡᠷᠬᠡᠨ	cembegerhen
@@ -68041,7 +67764,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠮᠠᠬᠤᠨ	cimahvn
 ᠴᠢᠨᠠᠭᠳᠠᠬᠤ	cinagdahv
 ᠴᠢᠨᠠᠳᠤ	cinadv
-ᠴᠢᠨᠠᠳᠤ᠎ ᠳᠤ	cinadv-dv
+ᠴᠢᠨᠠᠳᠤ᠎ᠳᠤ	cinadv-dv
 ᠴᠢᠨᠠᠳᠤᠬᠢ	cinadvhi
 ᠴᠢᠨᠠᠵᠠᠨᠠᠬᠤ	cinajanahv
 ᠴᠢᠨᠠᠯᠭ᠎ᠠ	cinalg-a
@@ -68218,7 +67941,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠴᠠᠭᠠᠳᠠᠬᠤ	cicagadahv
 ᠴᠢᠴᠠᠭᠠᠳᠠᠭᠤᠯᠬᠤ	cicagadagvlhv
 ᠴᠢᠴᠠᠭᠠᠨᠠᠬᠤ	cicaganahv
-ᠰᠠᠴᠠᠭᠤ(ᠴᠢᠴᠠᠤ)	sacagv(cicav)
 ᠰᠠᠴᠠᠭᠤᠳᠠᠬᠤ	sacagvdahv
 ᠰᠠᠴᠠᠭᠤᠯᠠᠯᠴᠠᠬᠤ	sacagvlalcahv
 ᠰᠠᠴᠠᠭᠤᠯᠠᠬᠤ	sacagvlahv
@@ -68305,7 +68027,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠭᠴᠢᠯᠡᠭᠦᠯᠬᠦ	cigcilegulhu
 ᠴᠢᠭᠴᠢᠯᠡᠭᠦᠷ	cigcilegur
 ᠴᠢᠭᠰᠢᠯ	cigsil
-ᠴᠢᠭ᠌᠎ ᠢᠶᠡᠷ᠎ ᠢᠶᠡᠨ	cig-iyer-iyen
+ᠴᠢᠭ᠌᠎ᠢᠶᠡᠷ᠎ᠢᠶᠡᠨ	cig-iyer-iyen
 ᠴᠢᠳᠤᠨ	cidvn
 ᠴᠢᠵᠢᠩ	ciji;
 ᠴᠾᠢ	cHi
@@ -68331,7 +68053,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠭᠢᠭᠰᠢᠬᠦ	cigigsihu
 ᠴᠢᠭᠢᠭᠰᠢᠭᠦᠯᠬᠦ	cigigsigulhu
 ᠴᠢᠢᠳᠡᠭᠴᠢ	ciidegci
-ᠴᠢᠳᠡᠩ(ᠴᠢᠳᠧᠩ)	cide;(cidE;)
 ᠴᠢᠳᠡᠩᠲᠦ	cide;tu
 ᠴᠢᠢᠯᠡᠬᠦ	ciilehu
 ᠴᠾᠢᠯᠡᠬᠦ	cHilehu
@@ -68356,7 +68077,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠢᠲᠡᠢ	ciitei
 ᠴᠢᠲᠦᠦ	cituu
 ᠴᠢᠬᠠᠩ	ciha;
-ᠴᠢᠢᠴᠠᠭᠠᠨ(ᠴᠢᠴᠧ)	ciicagan(cicE)
 ᠴᠢᠯ	cil
 ᠴᠢᠯᠭᠡᠷ	cilger
 ᠴᠢᠯᠭᠡᠷᠳᠡᠬᠦ	cilgerdehu
@@ -68447,7 +68167,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠨᠵᠠᠯ	cinjal
 ᠴᠢᠨᠵᠠᠯᠳᠠᠬᠤ	cinjaldahv
 ᠴᠢᠨᠵᠠᠯᠳᠠᠭᠤᠯᠬᠤ	cinjaldagvlhv
-ᠴᠢᠨᠵᠤᠤ(ᠴᠢᠩ ᠵᠢᠶᠤᠤ)	cinjvv(ci; jiyvv)
 ᠴᠢᠨᠦ	cinu
 ᠴᠢᠨᠦᠬᠢ	cinuhi
 ᠴᠢᠩᠯᠡᠭᠳᠡᠬᠦ	ci;legdehu
@@ -68490,7 +68209,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠨᠡᠭᠡᠬᠡᠨ	cinegehen
 ᠴᠢᠨᠦᠭᠦᠯᠬᠦ	cinugulhu
 ᠴᠢᠷ	cir
-ᠴᠢᠷᠪᠢᠰ(ᠢᠷᠪᠢᠰ)	cirbis(irbis)
 ᠴᠢᠷᠭᠡᠬᠦ	cirgehu
 ᠴᠢᠷᠭᠡᠦᠯ	cirgeul
 ᠴᠢᠷᠭᠡᠦᠯᠳᠡᠭᠳᠡᠬᠦ	cirgeuldegdehu
@@ -68677,7 +68395,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠢᠬᠤᠯᠠᠴᠢᠯᠠᠭᠤᠯᠬᠤ	cihvlacilagvlhv
 ᠴᠢᠬᠤᠯᠠᠰᠢᠯ	cihvlasil
 ᠴᠤᠬᠤᠮ	cvhvm
-ᠴᠤᠬᠤᠮ᠎ ᠳᠠᠭᠠᠨ	cvhvm-dagan
+ᠴᠤᠬᠤᠮ᠎ᠳᠠᠭᠠᠨ	cvhvm-dagan
 ᠴᠤᠬᠤᠮᠯᠠᠬᠤ	cvhvmlahv
 ᠴᠤᠬᠤᠮᠯᠠᠭᠤᠯᠬᠤ	cvhvmlagvlhv
 ᠴᠤᠬᠤᠮᠬᠠᠨ	cvhvmhan
@@ -68748,7 +68466,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠴᠥᠴᠢᠯᠵᠡᠭᠦᠯᠬᠦ	cociljegulhu
 ᠴᠥᠴᠢᠬᠦ	cocihu
 ᠴᠥᠴᠢᠭᠦᠦ	cociguu
-ᠰᠢᠷᠠᠭᠴᠤᠳ(ᠰᠢᠷᠠᠭᠴᠢᠭᠤᠳ)	siragcvd(siragcigvd)
 ᠱᠠᠷᠠᠢᠭᠣᠯ	xaraigql
 ᠰᠢᠷᠠᠢᠳ	siraid
 ᠰᠢᠷᠠᠨᠤᠳ	siranvd
@@ -68768,7 +68485,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠠᠭᠦ	xagu
 ᠱᠠᠭᠠᠭᠦᠢᠬᠡᠨ	xagaguihen
 ᠱᠠᠵᠠ	xaja
-ᠱᠠᠭᠠᠵᠠᠩ(ᠱᠠᠵᠠᠩ)	xagaja;(xaja;)
 ᠱᠠᠭᠠᠵᠠᠩᠲᠤᠰᠤ	xagaja;tvsv
 ᠱᠠᠭᠠᠵᠠᠭᠠᠢ	xagajagai
 ᠱᠠᠭᠠᠵᠠᠭᠠᠢᠯᠢᠭ	xagajagailig
@@ -68980,7 +68696,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠠᠭᠠᠯᠴᠠᠬᠤ	xagalcahv
 ᠱᠠᠭᠠᠯᠴᠠᠵᠠᠭᠠᠬᠤ	xagalcajagahv
 ᠱᠠᠭᠠᠯᠴᠠᠭᠤᠯᠬᠤ	xagalcagvlhv
-ᠱᠠᠭᠵᠠᠮᠤᠨᠢ(ᠱᠠᠬᠢᠮᠤᠨᠢ)	xagjamvni(xahimvni)
 ᠱᠠᠭᠢᠶᠠᠭᠠᠷ	xagiyagar
 ᠱᠠᠭᠯᠠᠭ᠎ᠠ	xaglag-a
 ᠱᠠᠭᠯᠠᠭᠠᠷᠢ	xaglagari
@@ -69503,7 +69218,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠷᠠᠯᠠᠭᠤᠯᠬᠤ	siralagvlhv
 ᠰᠢᠷᠠᠯᠠᠭᠤᠷ	siralagvr
 ᠰᠢᠷᠠᠯᠠᠭᠤᠷᠲᠤᠬᠤ	siralagvrtvhv
-ᠰᠢᠷ᠎ᠠ ᠮᠠᠬᠠᠢ	sir-a mahai
 ᠱᠠᠷᠮᠠᠭ	xarmag
 ᠰᠢᠷᠠᠮᠠᠯ	siramal
 ᠰᠢᠷᠠᠮᠠᠨ	siraman
@@ -69720,7 +69434,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠪᠡᠭᠦᠷᠳᠡᠭᠦᠯᠬᠦ	sibegurdegulhu
 ᠰᠢᠪᠡᠭᠦᠷᠲᠦ	sibegurtu
 ᠰᠢᠭ	sig
-ᠰᠢᠭ(ᠰᠢᠭ)	sig(sig)
 ᠰᠢᠭᠢᠳᠮᠡᠯ	sigidmel
 ᠰᠢᠭᠢᠳᠦᠯᠲᠡ	sigidulte
 ᠰᠢᠭᠢᠳᠬᠦ	sigidhu
@@ -70116,7 +69829,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠨᠡᠳᠬᠡᠴᠢᠬᠦ	sinedhecihu
 ᠰᠢᠨᠡᠳᠬᠡᠭᠦᠯᠬᠦ	sinedhegulhu
 ᠰᠢᠨᠡᠳᠬᠦ	sinedhu
-ᠰᠢᠨ᠎ᠡ ᠲᠥᠷᠥᠮᠡᠯ	sin-e toromel
 ᠰᠢᠨᠡᠬᠡᠨ	sinehen
 ᠰᠢᠨᠡᠴᠢ	sineci
 ᠰᠢᠨᠡᠴᠢᠯᠡᠵᠡᠭᠡᠬᠦ	sinecilejegehu
@@ -70466,7 +70178,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠣᠩᠰᠢᠢᠬᠤ	xq;siihv
 ᠱᠣᠩᠰᠢᠬᠤ	xq;sihv
 ᠱᠣ᠋	xq'
-ᠱᠣᠣ	xhq
+ᠱᠣᠣ	xqq
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢ	xqgqdbqri
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠳᠠᠬᠤ	xqgqdbqrilagdahv
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠬᠤ	xqgqdbqrilahv
@@ -70474,41 +70186,41 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠯᠠᠭᠤᠯᠬᠤ	xqgqdbqrilagvlhv
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠲᠠᠢ	xqgqdbqritai
 ᠱᠣᠭᠣᠳᠪᠣᠷᠢᠬᠠᠨ	xqgqdbqrihan
-ᠱᠣᠣᠪᠢᠩ	xhqbi;
+ᠱᠣᠣᠪᠢᠩ	xqqbi;
 ᠱᠣᠭᠣᠪᠣᠯᠵᠢ	xqgqbqlji
 ᠱᠣᠪᠠᠷ	xqbar
 ᠱᠣᠭᠣᠳ	xqgqd
 ᠱᠣᠭᠣᠳᠣᠯ	xqgqdql
 ᠱᠣᠭᠣᠳᠣᠯᠲᠠᠢ	xqgqdqltai
 ᠱᠣᠳᠠᠴᠢᠬᠤ	xqdacihv
-ᠱᠣᠣᠯᠠᠭᠳᠠᠬᠤ	xhqlagdahv
-ᠱᠣᠣᠯᠠᠯ	xhqlal
-ᠱᠣᠣᠯᠠᠯᠴᠠᠬᠤ	xhqlalcahv
-ᠱᠣᠣᠯᠠᠬᠤ	xhqlahv
-ᠱᠣᠣᠯᠠᠭᠤᠯᠬᠤ	xhqlagvlhv
-ᠱᠣᠣᠯᠠᠵᠠᠭᠠᠬᠤ	xhqlajagahv
-ᠱᠣᠣᠯᠠᠴᠢᠬᠤ	xhqlacihv
-ᠱᠣᠣᠮᠧᠲ᠋ᠷ	xhqmEt'r
-ᠱᠣᠣᠩ	xhq;
-ᠱᠣᠣᠨᠴᠢᠷ	xhqncir
-ᠱᠣᠣᠷ	xhqr
-ᠱᠣᠣᠷᠯᠠᠵᠠᠬᠤ	xhqrlajahv
-ᠱᠣᠣᠷᠣᠩ	xhqrq;
-ᠱᠣᠣᠷᠲᠠᠢ	xhqrtai
-ᠱᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	xhqhqgqnahv
-ᠱᠣᠣᠬᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	xhqhqgqnagvlhv
-ᠱᠣᠣᠬᠣᠭᠣᠷ	xhqhqgqr
-ᠱᠣᠣᠬᠣᠢ	xhqhqi
-ᠱᠣᠣᠬᠠᠢᠯᠭᠠᠬᠤ	xhqhailgahv
-ᠱᠣᠣᠬᠠᠢᠯᠴᠠᠬᠤ	xhqhailcahv
-ᠱᠣᠣᠬᠠᠢᠬᠤ	xhqhaihv
-ᠱᠣᠣᠬᠣᠯᠵᠠᠬᠤ	xhqhqljahv
-ᠱᠣᠣᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ	xhqhqljagvlhv
-ᠱᠣᠣᠬᠣᠯᠵᠠᠭᠤᠷ	xhqhqljagvr
-ᠱᠣᠣᠬᠣᠲᠣᠷ	xhqhqtqr
-ᠱᠣᠣᠴᠢ	xhqci
+ᠱᠣᠣᠯᠠᠭᠳᠠᠬᠤ	xqqlagdahv
+ᠱᠣᠣᠯᠠᠯ	xqqlal
+ᠱᠣᠣᠯᠠᠯᠴᠠᠬᠤ	xqqlalcahv
+ᠱᠣᠣᠯᠠᠬᠤ	xqqlahv
+ᠱᠣᠣᠯᠠᠭᠤᠯᠬᠤ	xqqlagvlhv
+ᠱᠣᠣᠯᠠᠵᠠᠭᠠᠬᠤ	xqqlajagahv
+ᠱᠣᠣᠯᠠᠴᠢᠬᠤ	xqqlacihv
+ᠱᠣᠣᠮᠧᠲ᠋ᠷ	xqqmEt'r
+ᠱᠣᠣᠩ	xqq;
+ᠱᠣᠣᠨᠴᠢᠷ	xqqncir
+ᠱᠣᠣᠷ	xqqr
+ᠱᠣᠣᠷᠯᠠᠵᠠᠬᠤ	xqqrlajahv
+ᠱᠣᠣᠷᠣᠩ	xqqrq;
+ᠱᠣᠣᠷᠲᠠᠢ	xqqrtai
+ᠱᠣᠣᠬᠣᠭᠣᠨᠠᠬᠤ	xqqhqgqnahv
+ᠱᠣᠣᠬᠣᠭᠣᠨᠠᠭᠤᠯᠬᠤ	xqqhqgqnagvlhv
+ᠱᠣᠣᠬᠣᠭᠣᠷ	xqqhqgqr
+ᠱᠣᠣᠬᠣᠢ	xqqhqi
+ᠱᠣᠣᠬᠠᠢᠯᠭᠠᠬᠤ	xqqhailgahv
+ᠱᠣᠣᠬᠠᠢᠯᠴᠠᠬᠤ	xqqhailcahv
+ᠱᠣᠣᠬᠠᠢᠬᠤ	xqqhaihv
+ᠱᠣᠣᠬᠣᠯᠵᠠᠬᠤ	xqqhqljahv
+ᠱᠣᠣᠬᠣᠯᠵᠠᠭᠤᠯᠬᠤ	xqqhqljagvlhv
+ᠱᠣᠣᠬᠣᠯᠵᠠᠭᠤᠷ	xqqhqljagvr
+ᠱᠣᠣᠬᠣᠲᠣᠷ	xqqhqtqr
+ᠱᠣᠣᠴᠢ	xqqci
 ᠱᠣᠴᠢ	xqci
-ᠱᠣᠣᠴᠢᠯᠠᠬᠤ	xhqcilahv
+ᠱᠣᠣᠴᠢᠯᠠᠬᠤ	xqqcilahv
 ᠱᠣᠷᠣ	xqrq
 ᠱᠣᠷ	xqr
 ᠱᠣᠷᠪᠢᠭᠠᠷ	xqrbigar
@@ -70573,7 +70285,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠣᠷᠴᠢᠭᠢᠨᠠᠬᠤ	xqrciginahv
 ᠱᠣᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ	xqrciginagvlhv
 ᠱᠣᠤ	xhv
-ᠱᠣᠬᠣᠢ(ᠴᠣᠬᠣᠢ)	xqhqi(cqhqi)
 ᠱᠣᠬᠣᠢᠳᠠᠯᠴᠠᠬᠤ	xqhqyidalcahv
 ᠱᠣᠬᠣᠢᠳᠠᠬᠤ	xqhqyidahv
 ᠱᠣᠬᠣᠢᠳᠠᠵᠠᠭᠠᠬᠤ	xqhqyidajagahv
@@ -70709,7 +70420,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠤᠯᠤᠭᠠᠴᠢᠨ	xvlvgacin
 ᠱᠤᠯᠤᠭᠳᠠᠬᠤ	xvlvgdahv
 ᠱᠤᠯᠤᠯᠴᠠᠬᠤ	xvlvlcahv
-ᠱᠤᠯᠤᠮ(ᠰᠢᠮᠨᠦ)	xvlvm(simnu)
 ᠱᠤᠯᠤᠬᠤ	xvlvhv
 ᠱᠤᠯᠤᠭ᠎ᠠ	xvlvg-a
 ᠱᠤᠯᠭᠤ	xvlgv
@@ -70730,7 +70440,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠤᠯᠤᠳᠠᠰᠤ	xvlvdasv
 ᠱᠤᠯᠤᠳᠠᠰᠤᠯᠠᠬᠤ	xvlvdasvlahv
 ᠱᠤᠯᠤᠵᠢᠭᠳᠠᠬᠤ	xvlvjigdahv
-ᠱᠤᠯᠤᠮᠤᠰ(ᠰᠢᠮᠨᠦᠰ)	xvlvmvs(simnus)
 ᠰᠢᠯᠤᠭᠤᠪᠲᠤᠷ	silvgvbtvr
 ᠰᠢᠯᠤᠭᠤᠳᠬᠤ	silvgvdhv
 ᠰᠢᠯᠤᠭᠤᠳᠠᠭᠤᠯᠬᠤ	silvgvdagvlhv
@@ -70758,8 +70467,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠤᠮᠠᠢᠯᠭᠠᠬᠤ	xvmailgahv
 ᠱᠤᠮᠠᠢᠬᠤ	xvmaihv
 ᠱᠤᠩᠪᠠᠭᠴᠢ	xv;bagci
-ᠱᠤᠩᠪᠠᠬᠤ(ᠱᠤᠮᠪᠠᠬᠤ)	xv;bahv(xvmbahv)
-ᠱᠤᠩᠪᠠᠴᠢᠬᠤ(ᠱᠤᠮᠪᠠᠴᠢᠬᠤ)	xv;bacihv(xvmbacihv)
 ᠱᠤᠩᠪᠠᠭᠤᠯᠬᠤ	xv;bagvlhv
 ᠱᠤᠮᠪᠤᠭᠤᠷ	xvmbvgvr
 ᠱᠤᠩᠪᠠᠭᠤᠷ	xv;bagvr
@@ -70832,11 +70539,8 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠩᠬᠤᠯᠠᠬᠤ	si;hvlahv
 ᠰᠢᠷᠤᠭ	sirvg
 ᠱᠤᠷᠠᠭ	xvrag
-ᠰᠢᠷᠤᠭᠳᠠᠬᠤ(ᠱᠤᠷᠤᠭᠳᠠᠬᠤ)	sirvgdahv(xvrvgdahv)
 ᠰᠢᠷᠤᠭᠳᠠᠵᠠᠭᠠᠬᠤ	sirvgdajagahv
 ᠰᠢᠷᠤᠭᠳᠠᠭᠤᠯᠬᠤ	sirvgdagvlhv
-ᠰᠢᠷᠤᠭᠯᠠᠬᠤ(ᠱᠤᠷᠤᠭᠯᠠᠬᠤ)	sirvglahv(xvrvglahv)
-ᠰᠢᠷᠤᠭᠯᠠᠭᠤᠯᠬᠤ(ᠱᠤᠷᠤᠭᠯᠠᠭᠤᠯᠬᠤ)	sirvglagvlhv(xvrvglagvlhv)
 ᠱᠤᠷᠠᠩᠬᠠᠢ	xvra;hai
 ᠱᠤᠷᠠᠩᠬᠠᠢᠯᠠᠬᠤ	xvra;hailahv
 ᠱᠤᠷᠠᠩᠬᠠᠢᠯᠠᠭᠤᠯᠬᠤ	xvra;hailagvlhv
@@ -70864,7 +70568,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠱᠤᠷᠴᠢᠭᠢᠨᠠᠭᠤᠯᠬᠤ	xvrciginagvlhv
 ᠱᠤᠷᠰᠢᠬᠤ	xvrsihv
 ᠱᠤᠷᠰᠢᠭᠤᠯ	xvrsigvl
-ᠱᠤ(ᠱᠤᠤ)	xv(xvv)
 ᠱᠤᠤ	xvv
 ᠰᠢᠤ	siv
 ᠰᠢᠭᠤᠭᠠᠰᠤᠲᠠᠢ	sigvgasvtai
@@ -71002,8 +70705,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠶᠠᠨᠴᠤ	siyancv
 ᠰᠢᠪᠲᠦᠭᠦᠢᠵᠢᠭᠦᠯᠬᠦ	sibtuguijigulhu
 ᠰᠢᠪᠲᠦᠨ	sibtun
-ᠰᠢᠭᠲᠦᠨᠦᠭᠡᠢᠵᠢᠭᠦᠯᠬᠦ	sigtun ugeijigulhu
-ᠰᠢᠪᠲᠦᠨᠵᠢᠬᠤ(︕)	sibtunjihv(!)
 ᠰᠢᠪᠲᠦᠨᠵᠢᠭᠦᠯᠬᠦ	sibtunjigulhu
 ᠰᠢᠪᠲᠦᠨᠲ᠋	sibtunt
 ᠰᠢᠪᠲᠦᠨᠲᠦᠭᠡᠯ	sibtuntugel
@@ -71030,7 +70731,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠰᠢᠳᠦᠲᠡᠨ	siduten
 ᠰᠢᠳᠦᠴᠢᠯᠡᠬᠦ	siducilehu
 ᠰᠢᠳᠦᠯᠡᠴᠢᠬᠦ	sidulecihu
-ᠱᠦᠳᠡᠨᠵᠡ(ᠴᠦᠢᠳᠧᠩ)	xudenje(cuidE;)
 ᠰᠢᠳᠦᠨᠴᠢᠷ	siduncir
 ᠰᠢᠳᠦᠷᠬᠡᠭ	sidurheg
 ᠰᠢᠳᠦᠷᠬᠡᠦ	sidurheu
@@ -71392,7 +71092,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠪᠯᠡᠭᠳᠡᠬᠦ	eblegdehu
 ᠡᠪᠯᠢᠭᠳᠡᠭᠦᠦ	ebligdeguu
 ᠡᠪᠯᠢᠭᠬᠡᠨ	eblighen
-ᠡᠪᠯᠢᠭ ᠰᠢᠭ	eblig sig
 ᠡᠪᠯᠡᠭᠡ	eblege
 ᠡᠪᠯᠡᠵᠡᠨᠡᠬᠦ	eblejenehu
 ᠡᠪᠯᠡᠯ	eblel
@@ -71443,9 +71142,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠪᠲᠦ	ebtu
 ᠡᠪᠲᠡᠢ	ebtei
 ᠡᠪᠲᠡᠢᠬᠡᠨ	ebteihen
-ᠡᠪ ᠬᠠᠮᠲᠤ	eb hamtv
-ᠡᠪ ᠬᠠᠮᠲᠤᠴᠢ	eb hamtvci
-ᠡᠪ ᠬᠠᠮᠲᠤᠴᠤᠳ	eb hamtvcvd
 ᠡᠪᠬᠡᠳᠡᠭ	ebhedeg
 ᠡᠪᠬᠡᠯᠭᠡ	ebhelge
 ᠡᠪᠬᠡᠮᠡᠯ	ebhemel
@@ -71622,8 +71318,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠭᠡᠬᠦ	egehu
 ᠡᠭᠡ	ege
 ᠡᠭᠡᠭᠡ	egege
-ᠡᠭ ᠡ	eg e
-ᠡᠭᠡᠭᠡ ᠯᠡ	egege le
 ᠡᠭᠡᠷᠡᠯ	egerel
 ᠡᠭᠡᠷᠡᠯᠲᠡ	egerelte
 ᠡᠭᠡᠷᠡᠬᠦ	egerehu
@@ -71856,7 +71550,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠯᠢᠭᠡᠮᠰᠡᠭᠦᠦ	eligemseguu
 ᠡᠯᠢᠭᠡᠨ	eligen
 ᠡᠯᠢᠭᠡᠨᠲᠡᠰ	eligentes
-ᠡᠯᠳᠡᠪ᠎ ᠢᠶᠡᠷ	eldeb-iyer
+ᠡᠯᠳᠡᠪ᠎ᠢᠶᠡᠷ	eldeb-iyer
 ᠡᠯᠳᠡᠯᠭᠡ	eldelge
 ᠡᠯᠳᠡᠴᠢᠬᠦ	eldecihu
 ᠡᠯᠳᠡᠪ	eldeb
@@ -72079,7 +71773,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠮᠨᠢᠭᠰᠢᠴᠢᠬᠦ	emnigsicihu
 ᠡᠮᠨᠢᠭᠰᠢᠭᠦᠯᠬᠦ	emnigsigulhu
 ᠡᠮᠨᠡᠯᠭᠡ	emnelge
-ᠡᠮᠨᠡᠯ ᠵᠦᠢ	emnel jui
 ᠡᠮᠨᠡᠯᠲᠡ	emnelte
 ᠡᠮᠨᠡᠯᠴᠡᠬᠦ	emnelcehu
 ᠡᠮᠨᠡᠬᠦ	emnehu
@@ -72229,7 +71922,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠩᠲᠡᠢ	e;tei
 ᠡᠩᠲᠡᠨ	e;ten
 ᠡᠨᠲᠡᠭᠡ	entege
-ᠡᠨᠡ ᠲᠡᠢᠰᠢ᠎ ᠪᠡᠨ	ene teisi-ben
 ᠡᠩᠬᠡ	e;he
 ᠡᠩᠬᠡᠵᠢᠭᠴᠢ	e;hejigci
 ᠡᠩᠬᠡᠵᠢᠨ	e;hejin
@@ -72250,7 +71942,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠩᠬᠦᠷᠡᠭᠯᠡᠬᠦ	e;hureglehu
 ᠡᠩᠬᠦᠷᠬᠦ	e;hurhu
 ᠡᠩᠬᠡᠲᠦ	e;hetu
-ᠡᠩᠬᠡ ᠲᠠᠢᠪᠤᠩ	e;he taibv;
 ᠡᠩᠬᠦᠯ	e;hul
 ᠡᠩᠬᠦᠷ	e;hur
 ᠡᠩᠬᠦᠷᠬᠡᠨ	e;hurhen
@@ -72336,7 +72027,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠷᠪᠡᠬᠡᠢ	erbehei
 ᠡᠷᠪᠡᠬᠡᠢᠲᠦ	erbeheitu
 ᠡᠷᠭᠢ	ergi
-ᠡᠷᠭᠢ᠎ ᠶᠢᠨ	ergi-yin
+ᠡᠷᠭᠢ᠎ᠶᠢᠨ	ergi-yin
 ᠡᠷᠭᠢᠪᠴᠢ	ergibci
 ᠡᠷᠭᠢᠭᠴᠢ	ergigci
 ᠡᠷᠭᠢᠳᠡᠬᠦ	ergidehu
@@ -72496,9 +72187,9 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠷᠲᠦᠬᠦ	ertuhu
 ᠡᠷᠲᠡᠴᠢ	erteci
 ᠡᠷᠲᠡᠳᠡᠬᠡᠨ	ertedehen
-ᠡᠷᠲᠡ᠎ ᠪᠡᠷ	erte-ber
+ᠡᠷᠲᠡ᠎ᠪᠡᠷ	erte-ber
 ᠡᠷᠲᠡᠷᠬᠡᠨ	erterhen
-ᠡᠷᠲᠡ᠎ ᠳᠦ	erte-du
+ᠡᠷᠲᠡ᠎ᠳᠦ	erte-du
 ᠡᠷᠲᠡᠭᠦᠷ	ertegur
 ᠡᠷᠬᠡ	erhe
 ᠡᠷᠬᠡᠪᠰᠢ	erhebsi
@@ -72614,7 +72305,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠷᠭᠢᠳᠡᠯ	ergidel
 ᠡᠷᠭᠢᠳᠡᠯᠴᠡᠬᠦ	ergidelcehu
 ᠡᠷᠡᠭᠡᠳᠡᠰᠦ	eregedesu
-ᠡᠷᠭᠢ᠎ ᠳᠡᠬᠢ	ergi-dehi
+ᠡᠷᠭᠢ᠎ᠳᠡᠬᠢ	ergi-dehi
 ᠡᠷᠭᠢᠳᠡᠵᠡᠭᠡᠬᠦ	ergidejegehu
 ᠡᠷᠭᠢᠳᠡᠭᠦᠯᠬᠦ	ergidegulhu
 ᠡᠷᠭᠢᠯᠡᠭ	ergileg
@@ -72864,7 +72555,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠾᠷᠢᠰᠲ᠋ᠦ᠋ᠰ	eHrist'u's
 ᠡᠬᠢᠲᠦ	ehitu
 ᠡᠬᠢᠲᠡᠢ	ehitei
-ᠡᠬᠡ᠎ ᠲᠡᠢ᠎ ᠪᠡᠷ	ehe-tei-ber
 ᠡᠬᠡᠴᠦᠦᠯ	ehecuul
 ᠡᠬᠢᠴᠢᠮ	ehicim
 ᠡᠬᠡᠴᠢᠨ	ehecin
@@ -72905,7 +72595,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠡᠴᠦᠰᠯᠡᠯ	ecuslel
 ᠡᠴᠦᠰᠯᠡᠬᠦ	ecuslehu
 ᠡᠴᠦᠰᠯᠡᠭᠦᠯᠬᠦ	ecuslegulhu
-ᠡᠴᠦᠰ᠎ ᠲᠦ	ecus-tu
+ᠡᠴᠦᠰ᠎ᠲᠦ	ecus-tu
 ᠡᠴᠦᠰᠲᠡᠯ᠎ᠡ	ecustel-e
 ᠡᠴᠦᠰᠲᠦᠬᠦ	ecustuhu
 ᠡᠴᠦᠰᠲᠦᠭᠦᠯᠬᠦ	ecustugulhu
@@ -73071,8 +72761,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠭᠤᠪᠠ	yagvba
 ᠶᠤᠭᠠᠨ	yvgan
 ᠶᠠᠭᠤᠨ	yagvn
-ᠶᠠᠭᠤᠨ᠎ ᠳᠤ	yagvn-dv
-ᠶᠠᠭᠤᠨᠠᠢ(ᠶᠠᠭᠤᠨ᠎ᠤ)	yagvnai(yagvn-v)
+ᠶᠠᠭᠤᠨ᠎ᠳᠤ	yagvn-dv
 ᠶᠠᠭᠤᠲᠠᠢ	yagvtai
 ᠶᠠᠭᠤᠬᠠᠨ	yagvhan
 ᠶᠦᠹᠲ᠋ᠢ	yuft'i
@@ -73109,7 +72798,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠭᠠᠬᠢᠯᠭᠠᠬᠤ	yagahilgahv
 ᠶᠠᠭᠠᠬᠢᠯᠠᠭᠤᠯᠬᠤ	yagahilagvlhv
 ᠶᠠᠭᠠᠬᠢᠯᠲᠠ	yagahilta
-ᠶᠠᠮᠤ(ᠶᠠᠮᠤᠨ)	yamv(yamvn)
 ᠶᠠᠭᠠᠮᠠᠢ	yagamai
 ᠶᠠᠩᠪᠠ	ya;ba
 ᠶᠠᠮᠤᠯᠠᠬᠤ	yamvlahv
@@ -73141,7 +72829,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠭᠠᠬᠢᠰᠠᠬᠤ	yagahisahv
 ᠶᠠᠲᠤᠤ	yatvv
 ᠶᠠᠭᠠᠬᠢᠬᠤ	yagahihv
-ᠶᠠᠭᠠᠬᠢᠬᠤ᠎ ᠪᠠᠷ᠎ ᠢᠶᠠᠨ	yagahihv-bar-iyan
+ᠶᠠᠭᠠᠬᠢᠬᠤ᠎ᠪᠠᠷ᠎ᠢᠶᠠᠨ	yagahihv-bar-iyan
 ᠶᠠᠭᠠᠬᠢᠬᠤᠪ	yagahihvb
 ᠶᠠᠭᠠᠬᠢᠨ	yagahin
 ᠶᠠᠭᠠᠬᠢᠴᠢᠬᠤ	yagahicihv
@@ -73150,7 +72838,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠪᠯᠣᠺ	yablqk
 ᠶᠠᠪ	yab
 ᠶᠠᠪᠤᠭ᠎ᠠ	yabvg-a
-ᠶᠠᠪᠤᠭᠠᠨ᠎ ᠳᠠᠭᠠᠨ	yabvgan-dagan
+ᠶᠠᠪᠤᠭᠠᠨ᠎ᠳᠠᠭᠠᠨ	yabvgan-dagan
 ᠢᠪᠠᠭ	ibag
 ᠶᠠᠪᠤᠭᠳᠠᠬᠤ	yabvgdahv
 ᠶᠠᠪᠤᠭᠰᠠᠳ	yabvgsad
@@ -73210,8 +72898,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠪᠤᠭᠤᠰᠢᠲᠠᠢ	yabvgvsitai
 ᠶᠠᠪᠬᠢᠬᠦ	yabhihu
 ᠶᠠᠪᠤᠴᠠ	yabvca
-ᠶᠠᠪ ᠴᠠᠪ	yab cab
-ᠶᠠᠪ ᠴᠠᠪ ᠬᠢᠬᠦ	yab cab hihu
 ᠶᠠᠪᠤᠵᠠᠭᠠᠬᠤ	yabvjagahv
 ᠢᠪᠴᠤᠭᠠᠷ	ibcvgar
 ᠶᠠᠪᠤᠴᠠᠲᠠᠢ	yabvcatai
@@ -73315,7 +73001,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠳᠠᠷᠴᠢᠬᠤ	yadarcihv
 ᠶᠠᠳᠠᠲᠤ	yadatv
 ᠶᠠᠳᠠᠬᠤ	yadahv
-ᠶᠠᠳᠠᠬᠤ᠎ ᠳᠠᠭᠠᠨ	yadahv-dagan
+ᠶᠠᠳᠠᠬᠤ᠎ᠳᠠᠭᠠᠨ	yadahv-dagan
 ᠶᠠᠳᠠᠵᠠᠭᠠᠬᠤ	yadajagahv
 ᠶᠠᠳᠠᠮᠠᠭ	yadamag
 ᠶᠠᠳᠠᠮᠠᠭᠳᠠᠭᠤ	yadamagdagv
@@ -73606,7 +73292,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠮᠠᠷᠪᠠ	yamarba
 ᠶᠠᠮᠠᠷᠬᠠᠨ	yamarhan
 ᠶᠠᠮᠠᠷᠬᠠᠭᠤ	yamarhagv
-ᠶᠠᠮᠠᠷ ᠴᠤ	yamar cv
 ᠶᠠᠮᠠᠷᠰᠢᠭᠤ	yamarsigv
 ᠢᠮᠠᠬᠤᠬᠠᠨ	imahvhan
 ᠶᠠᠩᠪᠠᠯᠠᠬᠤ	ya;balahv
@@ -73629,7 +73314,6 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠮᠤᠲᠠᠨ	yamvtan
 ᠢᠮᠠᠬᠤ	imahv
 ᠶᠠᠩ	ya;
-ᠶᠠᠩ ᠢᠩ	ya; i;
 ᠢᠨᠠᠭ	inag
 ᠢᠨᠠᠭᠳᠠ	inagda
 ᠢᠨᠠᠭᠯᠠᠭᠴᠢ	inaglagci
@@ -73705,7 +73389,7 @@ Lᠠᠭᠪᠠ	Lagba
 ᠶᠠᠩᠵᠤᠲᠠᠢ	ya;jvtai
 ᠶᠠᠩᠵᠤᠲᠠᠢᠬᠠᠨ	ya;jvtaihan
 ᠶᠠᠩᠺᠢ	ya;ki
-ᠶᠠᠩᠺᠢ᠎ ᠨᠤᠭᠤᠳ	ya;ki-nvgvd
+ᠶᠠᠩᠺᠢ᠎ᠨᠤᠭᠤᠳ	ya;ki-nvgvd
 ᠶᠠᠩᠯᠤᠤᠷ	ya;lvvr
 ᠶᠠᠨᠰᠧᠨᠢᠰᠮ	yansEnism
 ᠶᠠᠩᠲᠤ	ya;tv
