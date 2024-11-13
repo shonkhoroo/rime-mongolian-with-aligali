@@ -11,7 +11,7 @@ Traditional Mongolian and Cyrillic Mongolian rime input method.
 Had basic thesaurus support.
 Traditional Mongolian can be displayed correctly on the latest MSOFFICE.
 Also can enter the Aligali alphabet.
-伝統的なモンゴル語とキリル文字のモンゴル語の入力方法。
+伝統的なモンゴル文とキリルモンゴル文のモンゴル語入力方法。
 基本的な類語辞典のサポートがあります。
-伝統的なモンゴル語は最新のMSOFFICEで正しく表示されます。
+伝統的なモンゴル文は最新のMSOFFICEで正しく表示されます。
 アリガリ アルファベットを入力できます。
