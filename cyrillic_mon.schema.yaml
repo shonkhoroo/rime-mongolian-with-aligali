@@ -95,6 +95,7 @@ recognizer:
   import_preset: default
 
 style:
-  font_face: "Mogul Garamond"
-  font_point: 15
+  font_face: "Sarasa Fixed SC:Xlight"
+  font_point: 18
+  inline_preedit: true
 

@@ -121,13 +121,14 @@ key_binder:
   import_preset: default
 
 style:
-  font_face: "Menk Vran StdEx Tig"
-  font_point: 20
+  font_face: "Menk Qimed StdEx Tig"
+  font_point: 16
   vertical_text: true
   text_orientation: horizontal
   vertical_text_left_to_right: true
   vertical_text_with_wrap: false
   vertical_auto_reverse: true
+  inline_preedit: true
 
 __patch:
   schema/icon: icons/mongolian/mn.ico           # 更换蒙古文图标
